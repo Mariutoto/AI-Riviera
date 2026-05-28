@@ -1,6 +1,6 @@
 import streamlit as st
 
-from app.answer import answer_from_sources, llm_status
+from app.answer import answer_from_sources, llm_status, test_mistral_connection
 from app.config import CHUNKS_PATH, DOCUMENTS_ROOT, INDEX_DIR
 from app.ingest import build_index
 from app.retrieval import load_chunks, search
@@ -24,6 +24,12 @@ with st.sidebar:
         st.write(f"Modèle: `{status['mistral_model']}`")
     elif status["active"] == "openai":
         st.write(f"Modèle: `{status['openai_model']}`")
+    if st.button("Tester Mistral"):
+        ok, message = test_mistral_connection()
+        if ok:
+            st.success(message)
+        else:
+            st.error(message)
 
     if st.button("Réindexer les documents"):
         load_chunks.cache_clear()

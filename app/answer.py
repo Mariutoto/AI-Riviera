@@ -102,6 +102,37 @@ def answer_with_mistral(question: str, results: list[dict]) -> str | None:
         return f"Je n'ai pas pu appeler Mistral pour générer une synthèse: {exc}"
 
 
+def test_mistral_connection() -> tuple[bool, str]:
+    api_key = get_secret("MISTRAL_API_KEY")
+    if not api_key:
+        return False, "MISTRAL_API_KEY n'est pas visible par l'application."
+
+    model = get_secret("MISTRAL_MODEL", "mistral-small-latest")
+    try:
+        response = requests.post(
+            "https://api.mistral.ai/v1/chat/completions",
+            headers={
+                "Authorization": f"Bearer {api_key}",
+                "Content-Type": "application/json",
+            },
+            json={
+                "model": model,
+                "messages": [{"role": "user", "content": "Réponds seulement: OK"}],
+                "max_tokens": 8,
+                "temperature": 0,
+            },
+            timeout=30,
+        )
+        if not response.ok:
+            return False, f"Mistral a répondu {response.status_code}: {response.text[:500]}"
+
+        data = response.json()
+        content = data["choices"][0]["message"]["content"]
+        return True, f"Connexion Mistral OK avec `{model}`. Réponse: {content}"
+    except Exception as exc:
+        return False, f"Erreur pendant le test Mistral: {exc}"
+
+
 def answer_with_llm(question: str, results: list[dict]) -> str | None:
     provider = get_secret("LLM_PROVIDER", "auto").lower().strip()
 
