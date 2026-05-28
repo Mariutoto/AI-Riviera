@@ -1,0 +1,116 @@
+import argparse
+import json
+import re
+from pathlib import Path
+
+from app.config import CHUNKS_PATH, DOCUMENTS_ROOT, INDEX_DIR
+
+
+CHUNK_SIZE = 1200
+CHUNK_OVERLAP = 180
+
+
+def clean_text(text: str) -> str:
+    text = text.replace("\x00", " ")
+    text = re.sub(r"[ \t]+", " ", text)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text.strip()
+
+
+def chunk_text(text: str, size: int = CHUNK_SIZE, overlap: int = CHUNK_OVERLAP) -> list[str]:
+    text = clean_text(text)
+    if not text:
+        return []
+
+    chunks = []
+    start = 0
+    while start < len(text):
+        end = min(start + size, len(text))
+        if end < len(text):
+            boundary = max(text.rfind("\n", start, end), text.rfind(". ", start, end))
+            if boundary > start + size // 2:
+                end = boundary + 1
+
+        chunk = text[start:end].strip()
+        if chunk:
+            chunks.append(chunk)
+
+        if end >= len(text):
+            break
+        start = max(0, end - overlap)
+
+    return chunks
+
+
+def load_metadata(text_path: Path) -> dict:
+    metadata_path = text_path.with_suffix(".json")
+    if metadata_path.exists():
+        try:
+            return json.loads(metadata_path.read_text(encoding="utf-8-sig"))
+        except json.JSONDecodeError:
+            pass
+
+    return {
+        "commune": "La Tour-de-Peilz",
+        "year": text_path.parts[-3] if len(text_path.parts) >= 3 else "",
+        "category": text_path.parts[-2] if len(text_path.parts) >= 2 else "",
+        "filename": text_path.with_suffix(".pdf").name,
+        "pdf_url": "",
+        "source_page": "",
+        "text_path": str(text_path),
+    }
+
+
+def iter_text_files(root: Path):
+    for path in sorted(root.rglob("*.txt")):
+        if path.stat().st_size > 0:
+            yield path
+
+
+def build_index(documents_root: Path = DOCUMENTS_ROOT, chunks_path: Path = CHUNKS_PATH) -> dict:
+    INDEX_DIR.mkdir(parents=True, exist_ok=True)
+
+    document_count = 0
+    chunk_count = 0
+
+    with chunks_path.open("w", encoding="utf-8") as output:
+        for text_path in iter_text_files(documents_root):
+            metadata = load_metadata(text_path)
+            text = text_path.read_text(encoding="utf-8", errors="ignore")
+            chunks = chunk_text(text)
+            if not chunks:
+                continue
+
+            document_count += 1
+            for index, chunk in enumerate(chunks):
+                record = {
+                    "id": f"{text_path.relative_to(documents_root).as_posix()}#{index}",
+                    "text": chunk,
+                    "chunk_index": index,
+                    "relative_text_path": text_path.relative_to(documents_root).as_posix(),
+                    "metadata": metadata,
+                }
+                output.write(json.dumps(record, ensure_ascii=False) + "\n")
+                chunk_count += 1
+
+    stats = {
+        "documents_root": str(documents_root),
+        "chunks_path": str(chunks_path),
+        "documents_indexed": document_count,
+        "chunks_indexed": chunk_count,
+    }
+    (INDEX_DIR / "stats.json").write_text(json.dumps(stats, ensure_ascii=False, indent=2), encoding="utf-8")
+    return stats
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description="Index AI Riviera text documents.")
+    parser.add_argument("--documents-root", type=Path, default=DOCUMENTS_ROOT)
+    args = parser.parse_args()
+
+    stats = build_index(args.documents_root)
+    print(json.dumps(stats, ensure_ascii=False, indent=2))
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,3 @@
+streamlit>=1.45
+openai>=1.80
+requests>=2.32

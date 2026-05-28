@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+.env
+
+# Heavy/generated local artifacts
+data/index/
+documents/**/*.pdf
+pdf-test/output/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
