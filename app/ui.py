@@ -1,6 +1,6 @@
 import streamlit as st
 
-from app.answer import answer_from_sources
+from app.answer import answer_from_sources, llm_status
 from app.config import CHUNKS_PATH, DOCUMENTS_ROOT, INDEX_DIR
 from app.ingest import build_index
 from app.retrieval import load_chunks, search
@@ -14,6 +14,17 @@ st.caption("Chatbot local sur les documents communaux de La Tour-de-Peilz")
 with st.sidebar:
     st.header("Documents")
     st.write(f"Dossier: `{DOCUMENTS_ROOT}`")
+    status = llm_status()
+    st.header("LLM")
+    st.write(f"Provider: `{status['provider']}`")
+    st.write(f"Actif: `{status['active']}`")
+    st.write(f"Mistral key: `{'oui' if status['has_mistral_key'] else 'non'}`")
+    st.write(f"OpenAI key: `{'oui' if status['has_openai_key'] else 'non'}`")
+    if status["active"] == "mistral":
+        st.write(f"Modèle: `{status['mistral_model']}`")
+    elif status["active"] == "openai":
+        st.write(f"Modèle: `{status['openai_model']}`")
+
     if st.button("Réindexer les documents"):
         load_chunks.cache_clear()
         with st.spinner("Indexation en cours..."):

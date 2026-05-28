@@ -8,6 +8,23 @@ Réponds uniquement avec les extraits fournis. Si les sources ne permettent pas 
 Réponds en français, de façon concise, et cite les noms de documents pertinents."""
 
 
+def get_secret(name: str, default: str | None = None) -> str | None:
+    value = os.getenv(name)
+    if value:
+        return value
+
+    try:
+        import streamlit as st
+
+        value = st.secrets.get(name)
+        if value:
+            return str(value)
+    except Exception:
+        pass
+
+    return default
+
+
 def build_context(results: list[dict]) -> str:
     blocks = []
     for index, result in enumerate(results, start=1):
@@ -23,7 +40,7 @@ def build_context(results: list[dict]) -> str:
 
 
 def answer_with_openai(question: str, results: list[dict]) -> str | None:
-    api_key = os.getenv("OPENAI_API_KEY")
+    api_key = get_secret("OPENAI_API_KEY")
     if not api_key:
         return None
 
@@ -32,7 +49,7 @@ def answer_with_openai(question: str, results: list[dict]) -> str | None:
 
         client = OpenAI(api_key=api_key)
         response = client.responses.create(
-            model=os.getenv("OPENAI_MODEL", "gpt-4.1-mini"),
+            model=get_secret("OPENAI_MODEL", "gpt-4.1-mini"),
             input=[
                 {"role": "system", "content": SYSTEM_PROMPT},
                 {
@@ -50,11 +67,12 @@ def answer_with_openai(question: str, results: list[dict]) -> str | None:
 
 
 def answer_with_mistral(question: str, results: list[dict]) -> str | None:
-    api_key = os.getenv("MISTRAL_API_KEY")
+    api_key = get_secret("MISTRAL_API_KEY")
     if not api_key:
         return None
 
     try:
+        model = get_secret("MISTRAL_MODEL", "mistral-small-latest")
         response = requests.post(
             "https://api.mistral.ai/v1/chat/completions",
             headers={
@@ -62,7 +80,7 @@ def answer_with_mistral(question: str, results: list[dict]) -> str | None:
                 "Content-Type": "application/json",
             },
             json={
-                "model": os.getenv("MISTRAL_MODEL", "mistral-small-latest"),
+                "model": model,
                 "messages": [
                     {"role": "system", "content": SYSTEM_PROMPT},
                     {
@@ -85,7 +103,7 @@ def answer_with_mistral(question: str, results: list[dict]) -> str | None:
 
 
 def answer_with_llm(question: str, results: list[dict]) -> str | None:
-    provider = os.getenv("LLM_PROVIDER", "auto").lower().strip()
+    provider = get_secret("LLM_PROVIDER", "auto").lower().strip()
 
     if provider == "mistral":
         return answer_with_mistral(question, results)
@@ -95,6 +113,34 @@ def answer_with_llm(question: str, results: list[dict]) -> str | None:
         return None
 
     return answer_with_mistral(question, results) or answer_with_openai(question, results)
+
+
+def llm_status() -> dict:
+    provider = get_secret("LLM_PROVIDER", "auto").lower().strip()
+    has_mistral = bool(get_secret("MISTRAL_API_KEY"))
+    has_openai = bool(get_secret("OPENAI_API_KEY"))
+
+    if provider == "mistral":
+        active = "mistral" if has_mistral else "missing MISTRAL_API_KEY"
+    elif provider == "openai":
+        active = "openai" if has_openai else "missing OPENAI_API_KEY"
+    elif provider in {"none", "off", "extracts"}:
+        active = "extracts only"
+    elif has_mistral:
+        active = "mistral"
+    elif has_openai:
+        active = "openai"
+    else:
+        active = "extracts only"
+
+    return {
+        "provider": provider,
+        "active": active,
+        "has_mistral_key": has_mistral,
+        "has_openai_key": has_openai,
+        "mistral_model": get_secret("MISTRAL_MODEL", "mistral-small-latest"),
+        "openai_model": get_secret("OPENAI_MODEL", "gpt-4.1-mini"),
+    }
 
 
 def answer_from_sources(question: str, results: list[dict]) -> str:
