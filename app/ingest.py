@@ -42,6 +42,22 @@ def chunk_text(text: str, size: int = CHUNK_SIZE, overlap: int = CHUNK_OVERLAP) 
     return chunks
 
 
+def metadata_prefix(metadata: dict) -> str:
+    parts = [
+        f"Commune: {metadata.get('commune', '')}",
+        f"Année: {metadata.get('year', '')}",
+        f"Catégorie: {metadata.get('category', '')}",
+        f"Fichier: {metadata.get('filename', '')}",
+    ]
+    if metadata.get("session_date"):
+        parts.append(f"Date de séance: {metadata['session_date']}")
+    if metadata.get("time"):
+        parts.append(f"Heure: {metadata['time']}")
+    if metadata.get("place"):
+        parts.append(f"Lieu: {metadata['place']}")
+    return "\n".join(part for part in parts if part.split(": ", 1)[-1])
+
+
 def load_metadata(text_path: Path) -> dict:
     metadata_path = text_path.with_suffix(".json")
     if metadata_path.exists():
@@ -83,9 +99,10 @@ def build_index(documents_root: Path = DOCUMENTS_ROOT, chunks_path: Path = CHUNK
 
             document_count += 1
             for index, chunk in enumerate(chunks):
+                searchable_text = f"{metadata_prefix(metadata)}\n\n{chunk}".strip()
                 record = {
                     "id": f"{text_path.relative_to(documents_root).as_posix()}#{index}",
-                    "text": chunk,
+                    "text": searchable_text,
                     "chunk_index": index,
                     "relative_text_path": text_path.relative_to(documents_root).as_posix(),
                     "metadata": metadata,
