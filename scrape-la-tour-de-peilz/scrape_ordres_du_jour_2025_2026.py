@@ -16,7 +16,7 @@ from app.text_cleaning import clean_french_text
 
 BASE_URL = "https://www.la-tour-de-peilz.ch/"
 LIST_URL = "https://www.la-tour-de-peilz.ch/politique/ordre-du-jour.php"
-START_DATE = date(2025, 2, 5)
+START_DATE = date(2021, 9, 15)
 TODAY = date.today()
 HEADERS = {"User-Agent": "AI-Riviera agenda importer"}
 
@@ -430,7 +430,7 @@ def main() -> None:
         "sessions": results,
     }
     SESSIONS_ROOT.mkdir(parents=True, exist_ok=True)
-    manifest_path = SESSIONS_ROOT / "manifest_ordres_du_jour_2025_2026.json"
+    manifest_path = SESSIONS_ROOT / "manifest_ordres_du_jour_2021_2026.json"
     manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Manifest: {manifest_path}")
 

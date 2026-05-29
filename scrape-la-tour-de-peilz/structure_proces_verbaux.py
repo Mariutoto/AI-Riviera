@@ -44,6 +44,8 @@ def collect_pvs() -> list[dict]:
     pvs = []
     for metadata_path in sorted(DOCUMENTS_ROOT.rglob("proces-verbaux/*.json")):
         metadata = read_json(metadata_path)
+        if "legislature-2016-2021" in metadata.get("pdf_url", ""):
+            continue
         filename = metadata.get("filename", metadata_path.with_suffix(".pdf").name)
         parsed = parse_pv_filename(filename)
         if not parsed or parsed["year"] not in YEARS:
