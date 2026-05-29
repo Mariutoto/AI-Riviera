@@ -1,6 +1,7 @@
 import json
 import math
 import re
+import unicodedata
 from collections import Counter
 from functools import lru_cache
 
@@ -11,10 +12,14 @@ STOPWORDS = {
     "alors", "avec", "aux", "ce", "ces", "dans", "de", "des", "du", "elle", "en", "est",
     "et", "il", "la", "le", "les", "leur", "mais", "ou", "où", "par", "pas", "plus",
     "pour", "que", "qui", "sur", "un", "une", "vous", "the", "and", "of", "to", "in",
+    "commune", "communal", "communale", "communaux", "conseil", "conseils",
+    "quel", "quelle", "quels", "quelles", "sont",
 }
 
 
 def tokenize(text: str) -> list[str]:
+    text = unicodedata.normalize("NFKD", text)
+    text = "".join(char for char in text if not unicodedata.combining(char))
     tokens = re.findall(r"[a-zA-ZÀ-ÿ0-9]{3,}", text.lower())
     return [token for token in tokens if token not in STOPWORDS]
 
@@ -55,6 +60,21 @@ def search(query: str, limit: int = 6) -> list[dict]:
                 continue
             idf = math.log((1 + total_chunks) / (1 + document_frequency[token])) + 1
             score += query_count * (1 + math.log(term_count)) * idf
+
+        metadata = chunk.get("metadata", {})
+        metadata_text = " ".join(
+            str(metadata.get(key, ""))
+            for key in ["title", "institutional_category", "category", "filename", "session_date"]
+        )
+        metadata_tokens = Counter(tokenize(metadata_text))
+        for token, query_count in query_tokens.items():
+            if metadata_tokens.get(token, 0):
+                score += query_count * 6
+
+        title_tokens = Counter(tokenize(str(metadata.get("title", ""))))
+        for token, query_count in query_tokens.items():
+            if title_tokens.get(token, 0):
+                score += query_count * 18
 
         if score > 0:
             scored.append((score, chunk))

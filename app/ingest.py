@@ -12,6 +12,7 @@ CHUNK_OVERLAP = 180
 
 def clean_text(text: str) -> str:
     text = text.replace("\x00", " ")
+    text = re.sub(r"[\x01-\x08\x0b\x0c\x0e-\x1f]", " ", text)
     text = re.sub(r"[ \t]+", " ", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
@@ -47,6 +48,8 @@ def metadata_prefix(metadata: dict) -> str:
         f"Commune: {metadata.get('commune', '')}",
         f"Année: {metadata.get('year', '')}",
         f"Catégorie: {metadata.get('category', '')}",
+        f"Rubrique: {metadata.get('institutional_category', '')}",
+        f"Titre: {metadata.get('title', '')}",
         f"Fichier: {metadata.get('filename', '')}",
     ]
     if metadata.get("session_date"):
