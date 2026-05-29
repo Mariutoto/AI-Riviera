@@ -9,11 +9,12 @@ DOCUMENTS_ROOT = PROJECT_ROOT / "documents" / "la-tour-de-peilz"
 SESSIONS_ROOT = PROJECT_ROOT / "data" / "sessions" / "la-tour-de-peilz"
 PV_ROOT = PROJECT_ROOT / "data" / "proces-verbaux" / "la-tour-de-peilz"
 
-YEARS = {"2025", "2026"}
+YEARS = {str(year) for year in range(2021, 2027)}
 
 
 def parse_pv_filename(filename: str) -> dict | None:
-    match = re.search(r"PV(\d+)-(\d{2})-(\d{2})-(20\d{2})", filename)
+    normalized = filename.replace("_", "-").replace(".", "-")
+    match = re.search(r"PV\s*0*(\d+).*?(\d{2})-(\d{2})-(\d{2,4})", normalized, flags=re.I)
     if not match:
         return None
 
@@ -21,6 +22,8 @@ def parse_pv_filename(filename: str) -> dict | None:
     day = int(match.group(2))
     month = int(match.group(3))
     year = int(match.group(4))
+    if year < 100:
+        year += 2000
     return {
         "pv_number": pv_number,
         "session_date": date(year, month, day).isoformat(),
@@ -93,7 +96,7 @@ def main() -> None:
         "proces_verbaux_count": len(pvs),
         "proces_verbaux": pvs,
     }
-    write_json(PV_ROOT / "manifest_proces_verbaux_2025_2026.json", manifest)
+    write_json(PV_ROOT / "manifest_proces_verbaux_2021_2026.json", manifest)
 
     for pv in pvs:
         print(f"{pv['session_date']} -> PV{pv['pv_number']:02d} {pv['filename']}")
