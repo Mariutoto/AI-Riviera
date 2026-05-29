@@ -1,4 +1,3 @@
-import html
 import json
 import re
 import sys
@@ -8,6 +7,9 @@ from urllib.parse import parse_qs, unquote, urljoin, urlparse
 
 import fitz
 import requests
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from app.text_cleaning import clean_french_text
 
 
 BASE_URL = "https://www.la-tour-de-peilz.ch/"
@@ -44,22 +46,7 @@ class TextParser(HTMLParser):
 
 
 def clean_text(text: str) -> str:
-    text = fix_mojibake(text)
-    text = html.unescape(text).replace("\xa0", " ")
-    text = re.sub(r"[ \t\r\f\v]+", " ", text)
-    text = re.sub(r"\n[ \t]+", "\n", text)
-    text = re.sub(r"\n{3,}", "\n\n", text)
-    return text.strip()
-
-
-def fix_mojibake(text: str) -> str:
-    if not any(marker in text for marker in ["Ã", "Â", "â€", "â€™", "â€“"]):
-        return text
-    try:
-        fixed = text.encode("latin1").decode("utf-8")
-    except UnicodeError:
-        return text
-    return fixed if fixed.count("�") <= text.count("�") else text
+    return clean_french_text(text)
 
 
 def slugify(text: str) -> str:

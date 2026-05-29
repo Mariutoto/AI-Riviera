@@ -1,25 +1,17 @@
 import argparse
 import json
-import re
 from pathlib import Path
 
 from app.config import CHUNKS_PATH, DOCUMENTS_ROOT, INDEX_DIR
+from app.text_cleaning import clean_french_text
 
 
 CHUNK_SIZE = 1200
 CHUNK_OVERLAP = 180
 
 
-def clean_text(text: str) -> str:
-    text = text.replace("\x00", " ")
-    text = re.sub(r"[\x01-\x08\x0b\x0c\x0e-\x1f]", " ", text)
-    text = re.sub(r"[ \t]+", " ", text)
-    text = re.sub(r"\n{3,}", "\n\n", text)
-    return text.strip()
-
-
 def chunk_text(text: str, size: int = CHUNK_SIZE, overlap: int = CHUNK_OVERLAP) -> list[str]:
-    text = clean_text(text)
+    text = clean_french_text(text)
     if not text:
         return []
 

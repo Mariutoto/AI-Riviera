@@ -477,94 +477,94 @@ donations
 encaissés
 2015
 64
-41'102'910   
+41'102'910 
 -1.91%
-1'611'015   
-492'402   
-2'103'417   
-5.12%   
-38'999'493   
+1'611'015 
+492'402 
+2'103'417 
+5.12% 
+38'999'493 
 2016
 64
-45'282'293   
+45'282'293 
 9.23%
-3'287'612   
-982'585   
-4'270'197   
-9.43%   
-41'012'096   
+3'287'612 
+982'585 
+4'270'197 
+9.43% 
+41'012'096 
 2017
 64
-47'614'508   
+47'614'508 
 13.68%
-2'412'290   
-1'102'536   
-3'514'826   
-7.38%   
-44'099'683   
+2'412'290 
+1'102'536 
+3'514'826 
+7.38% 
+44'099'683 
 2018
 64
-50'863'878   
+50'863'878 
 10.97%
-6'033'081   
-2'106'081   
-8'139'162   
-16.00%   
-42'724'716   
+6'033'081 
+2'106'081 
+8'139'162 
+16.00% 
+42'724'716 
 2019
 64
-49'538'510   
+49'538'510 
 -2.61%
-3'019'498   
-783'600   
-3'803'098   
-7.68%   
-45'735'411   
+3'019'498 
+783'600 
+3'803'098 
+7.68% 
+45'735'411 
 2020
 64
-47'866'739   
+47'866'739 
 -3.37%
-2'311'108   
-968'602   
-3'279'709   
-6.85%   
-44'587'029   
+2'311'108 
+968'602 
+3'279'709 
+6.85% 
+44'587'029 
 2021
 64
-52'759'020   
+52'759'020 
 10.22%
-1'925'224   
-1'895'538   
-3'820'762   
-7.24%   
-48'938'258   
+1'925'224 
+1'895'538 
+3'820'762 
+7.24% 
+48'938'258 
 2022
 64
-51'397'246   
+51'397'246 
 -2.58%
-3'131'870   
-1'285'645   
-4'417'515   
-8.59%   
-46'979'731   
+3'131'870 
+1'285'645 
+4'417'515 
+8.59% 
+46'979'731 
 2023
 64
-54'231'500   
+54'231'500 
 5.51%
-2'079'722   
-965'063   
-3'044'785   
-5.61%   
-51'186'716   
+2'079'722 
+965'063 
+3'044'785 
+5.61% 
+51'186'716 
 2024
 64
-55'380'084   
+55'380'084 
 2.12%
-5'944'048   
-1'419'522   
-7'363'570   
-13.30%   
-48'016'514   
+5'944'048 
+1'419'522 
+7'363'570 
+13.30% 
+48'016'514 
 Progression des impôts communaux réguliers et conjoncturels
 9
 
@@ -621,77 +621,77 @@ Le prochain emprunt à long terme arrivant à échéance en 2025 est celui de Fr
 Caisse de pension du Canton de Lucerne (LUPK), avec échéance au 13 juin. 
 Pour mémoire, le plafond d'endettement de Fr. 100 mios pour la législature 2021-2026 a été voté le 11 mai 2022. 
 Auparavant, il se situait à Fr. 85 mios. 
-   ENDETTEMENT (BRUT)
-Comptes 2024   
-Budget 2024   
-Comptes 2023   
-Ecart (Fr)   
-Ecart (%)   
-   Dettes à court et long terme (921 + 922) au 31.12.N-1
-59'000'000   
-74'000'000   
-59'000'000   
-   Fondations (9233) au 31.12.N-1
-1'269'296   
-1'200'000   
-1'234'832   
-34'464   
-2.79 %   
-   Endettement brut (921 + 922 + 9233) au 31.12.N-1
-60'269'296   
-75'200'000   
-60'234'832   
-34'464   
-0.06 %   
-   Investissements planifiés (nets) en N
-29'365'000   
-   Investissements estimés (nets) en N
-14'682'000   
-   Investissements effectifs (nets) en N
-2'065'341   
-4'962'586   
+ENDETTEMENT (BRUT)
+Comptes 2024 
+Budget 2024 
+Comptes 2023 
+Ecart (Fr) 
+Ecart (%) 
+Dettes à court et long terme (921 + 922) au 31.12.N-1
+59'000'000 
+74'000'000 
+59'000'000 
+Fondations (9233) au 31.12.N-1
+1'269'296 
+1'200'000 
+1'234'832 
+34'464 
+2.79 % 
+Endettement brut (921 + 922 + 9233) au 31.12.N-1
+60'269'296 
+75'200'000 
+60'234'832 
+34'464 
+0.06 % 
+Investissements planifiés (nets) en N
+29'365'000 
+Investissements estimés (nets) en N
+14'682'000 
+Investissements effectifs (nets) en N
+2'065'341 
+4'962'586 
 -2'897'245
 -58.38 %
-   Marge d'autofinancement en N
-3'543'049   
+Marge d'autofinancement en N
+3'543'049 
 -3'396'033
-4'603'534   
+4'603'534 
 -1'060'485
 -23.04 %
-   Dettes à court et long terme (921 + 922) au 31.12.N
-55'000'000   
-93'000'000   
-59'000'000   
+Dettes à court et long terme (921 + 922) au 31.12.N
+55'000'000 
+93'000'000 
+59'000'000 
 -4'000'000
 -6.78 %
-   Fondations (9233) au 31.12.N
-1'259'354   
-1'160'000   
-1'269'296   
+Fondations (9233) au 31.12.N
+1'259'354 
+1'160'000 
+1'269'296 
 -9'942
 -0.78 %
-   Endettement brut (921 + 922 + 9233) au 31.12.N
-56'259'354   
-94'160'000   
-60'269'296   
+Endettement brut (921 + 922 + 9233) au 31.12.N
+56'259'354 
+94'160'000 
+60'269'296 
 -4'009'942
 -6.65 %
-   Habitants au 31.12.N
-12'812   
-12'800   
-12'800   
-12   
+Habitants au 31.12.N
+12'812 
+12'800 
+12'800 
+12 
 0.09 %
-   Endettement brut par habitant au 31.12.N
-4'391   
-7'356   
-4'709   
+Endettement brut par habitant au 31.12.N
+4'391 
+7'356 
+4'709 
 -317
 -6.74 %
-   Plafond d'endettement (2021-2026)
-100'000'000   
-100'000'000   
-100'000'000   
+Plafond d'endettement (2021-2026)
+100'000'000 
+100'000'000 
+100'000'000 
 11
 
 Voici l'évolution de la dette brute sous forme de deux graphiques : 
@@ -707,94 +707,93 @@ Fr. 3'860.‐ par habitant.
 Ce tableau présente les écarts des charges et des revenus dont la valeur absolue est égale ou supérieure à 
 Fr. 100'000.- par rapport au budget. Ne sont pas comprises les écritures comptables (amortissements, 
 attributions à et prélèvements sur fonds de réserves, imputations internes, écritures de répartition de résultat). 
-   ENDETTEMENT (NET)
-Comptes 2024   
-Comptes 2023   
-Ecart (Fr)   
-Ecart (%)   
-   Comptes courants créanciers (9206)
-52'575   
-30'551   
-22'024   
-72.09 %   
-   Emprunts à court terme (921)
-0   
-4'000'000   
+ENDETTEMENT (NET)
+Comptes 2024 
+Comptes 2023 
+Ecart (Fr) 
+Ecart (%) 
+Comptes courants créanciers (9206)
+52'575 
+30'551 
+22'024 
+72.09 % 
+Emprunts à court terme (921)
+0 
+4'000'000 
 -4'000'000
 -100.00 %
-   Emprunts à moyen et long termes (922)
-55'000'000   
-55'000'000   
-0   
+Emprunts à moyen et long termes (922)
+55'000'000 
+55'000'000 
+0 
 0.00 %
-   Engagements propres établissements et fonds spéciaux (923)
-1'259'354   
-1'269'296   
+Engagements propres établissements et fonds spéciaux (923)
+1'259'354 
+1'269'296 
 -9'942
 -0.78 %
-   Endettement brut (total 1)
-56'311'930   
-60'299'847   
+Endettement brut (total 1)
+56'311'930 
+60'299'847 
 -3'987'917
 -6.61 %
-   Avoirs disponibles (9102)
-5'040'155   
-2'014'634   
+Avoirs disponibles (9102)
+5'040'155 
+2'014'634 
 3'025'521
-150.18 %   
-   Comptes courants auprès d’autres collectivités publiques (9111)
-145'881   
-143'110   
-2'771   
-1.94 %   
-   Epargne (titres et placements, 9120)
-1'330   
-1'330   
-0   
-0.00 %   
-   Prêts (placements de capitaux, prêts, 9122)
-0   
-0   
-0   
-0.00 %   
-   Prêts et participations permanentes (915)
-1'664'187   
-1'664'187   
-0   
-0.00 %   
-   Remboursements d'emprunts
-0   
-0   
-0   
-0.00 %   
-   Total 2
-6'851'553   
-3'823'261   
-3'028'292   
-79.21 %   
-   Endettement net (total 1 ‐ total 2)
-49'460'377   
-56'476'586   
+150.18 % 
+Comptes courants auprès d’autres collectivités publiques (9111)
+145'881 
+143'110 
+2'771 
+1.94 % 
+Epargne (titres et placements, 9120)
+1'330 
+1'330 
+0 
+0.00 % 
+Prêts (placements de capitaux, prêts, 9122)
+0 
+0 
+0 
+0.00 % 
+Prêts et participations permanentes (915)
+1'664'187 
+1'664'187 
+0 
+0.00 % 
+Remboursements d'emprunts
+0 
+0 
+0 
+0.00 % 
+Total 2
+6'851'553 
+3'823'261 
+3'028'292 
+79.21 % 
+Endettement net (total 1 ‐ total 2)
+49'460'377 
+56'476'586 
 -7'016'209
 -12.42 %
-   Habitants au 31.12.N
-12'812   
-12'605   
-207   
+Habitants au 31.12.N
+12'812 
+12'605 
+207 
 1.64 %
-   Endettement net par habitant au 31.12.N
-3'860   
-4'480   
+Endettement net par habitant au 31.12.N
+3'860 
+4'480 
 -620
 -13.84 %
-   Plafond d'endettement (2021-2026/2016-2021)
-100'000'000   
-100'000'000   
+Plafond d'endettement (2021-2026/2016-2021)
+100'000'000 
+100'000'000 
 0
 0.00 %
 13
 
- 
 CHARGES
 Compte
 Libellé
@@ -1070,7 +1069,7 @@ rubriques de cette nature sont inférieures par rapport au budget. Voici les éc
 - Entretien des immeubles, routes et territoire (nature 314, Fr. - 653'728.23 ou - 22.10 %)
 - Honoraires et prestations de services (nature 318, Fr. - 316'306.90 ou - 9.92 %)
 - Impôts, taxes, cotisations et frais divers (nature 319, Fr. - 290'983.76 ou - 27.82 %)
-Les "Intérêts passifs" (nature 32) connaissent une baisse de Fr.  87'505.37 (- 15.13 %) essentiellement en raison de 
+Les "Intérêts passifs" (nature 32) connaissent une baisse de Fr. 87'505.37 (- 15.13 %) essentiellement en raison de 
 la détente des taux d’intérêts sur le marché des capitaux. 
 Les "Remboursements et participations" (nature 35) comprennent notamment la participation de la Commune aux 
 coûts du trafic régional (division 180), au réseau LAC (division 706), à la cohésion sociale cantonale (division 720), 
@@ -1084,7 +1083,7 @@ Charges par nature en % du total
 4.3. Revenus par nature 
 Le total des revenus de Fr. 81'773'738.44 (après répartition du résultat), comprenant une provision de Fr. 0.05 mio 
 pour le solde de la péréquation 2024 (voir point 3.2), est inférieur de Fr. 2'570'386.56 (ou - 3.05 %) par rapport au 
-budget (ne comprenant pas cette provision).  
+budget (ne comprenant pas cette provision). 
 Comme mentionné au point 3.1 "Recettes fiscales", les rentrées d’impôts sont supérieures au budget de 
 Fr. 710'084.- (1.30 %). La nature 40 "Impôts" ci-dessus ne comprend par exemple pas l'impôt sur les frontaliers 
 ou l'impôt sur les gains immobiliers (nature 44), ni la compensation RFFA (nature 45). 
@@ -1178,94 +1177,94 @@ Variables
 LTDP
 30
 Autorités et personnel
-17'635'812  
-17'635'812  
-17'635'812  
+17'635'812 
+17'635'812 
+17'635'812 
 310
 Imprimés et fournitures de bureau
-384'809  
-384'809  
+384'809 
+384'809 
 311
 Achats de mobilier, matériel, machines et véhicules
-686'838  
-686'838  
+686'838 
+686'838 
 312
 Achats d'eau, d'énergie et de combustible
-1'144'680  
-1'144'680  
+1'144'680 
+1'144'680 
 313
 Autres fournitures et marchandises
-604'882  
-604'882  
+604'882 
+604'882 
 314
 Entretien des immeubles, routes et territoire
-2'304'432  
-2'304'432  
+2'304'432 
+2'304'432 
 315
 Entretien d'objets mobiliers et d'inst. techniques
-302'715  
-302'715  
+302'715 
+302'715 
 316
 Loyers, fermages et redevances d'utilisation
-129'075  
-129'075  
+129'075 
+129'075 
 317
 Réceptions et manifestations
-199'582  
-199'582  
+199'582 
+199'582 
 318
 Honoraires et prestations de services
-2'871'493  
-2'871'493  
+2'871'493 
+2'871'493 
 319
 Impôts, taxes, frais divers
-755'085  
-9'383'591  
-755'085  
+755'085 
+9'383'591 
+755'085 
 32
 Intérêts passifs
-490'745  
-490'745  
-490'745  
+490'745 
+490'745 
+490'745 
 33
 Amortissements
-3'963'354  
-3'963'354  
-3'963'354  
+3'963'354 
+3'963'354 
+3'963'354 
 351
 Charges cantonales
-16'297'982  
-16'297'982  
+16'297'982 
+16'297'982 
 352
 Charges d'autres communes ou ass. de communes
-24'775'563  
-41'073'545  
-24'775'563  
+24'775'563 
+41'073'545 
+24'775'563 
 36
 Aides et subventions
-5'830'025  
-5'830'025  
-5'830'025  
+5'830'025 
+5'830'025 
+5'830'025 
 38
 Attributions aux fonds et financements spéciaux
-2'244'939  
-2'244'939  
-2'244'939  
+2'244'939 
+2'244'939 
+2'244'939 
 39
 Imputations internes
-1'106'751  
-1'106'751  
-1'106'751  
+1'106'751 
+1'106'751 
+1'106'751 
 Totaux
-81'728'762  
-81'728'762  
-41'073'545  
-30'726'743  
-9'928'474  
+81'728'762 
+81'728'762 
+41'073'545 
+30'726'743 
+9'928'474 
 % selon total des charges
-50.26%  
-37.60%  
-12.15%  
+50.26% 
+37.60% 
+12.15% 
 Totaux budget (Fr)
 85'074'456
 85'074'456

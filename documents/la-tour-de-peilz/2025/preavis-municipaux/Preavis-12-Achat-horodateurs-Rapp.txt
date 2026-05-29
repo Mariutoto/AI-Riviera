@@ -1,8 +1,3 @@
- 
- 
- 
- 
- 
 Au Conseil Communal de La Tour-de-Peilz, 
 Madame la Présidente, 
 Mesdames et Messieurs les Conseillers communaux, 
@@ -10,17 +5,17 @@ La commission chargée d’examiner l’objet cité en titre s’est réunie en 
 1 de la Maison de commune, à 20h00. Elle était composée de : 
 Mesdames 
 Ingrid Mamin (PLR) 
- 
+
 Margaux Dubuis (PLR) 
 Messieurs 
 Manuel Lisboa (PSDG) 
- 
+
 Michael Rohrer (LCIVL) 
- 
+
 Julien Costanzo (PSDG) 
- 
+
 José Luis Carrasco (LV) 
- 
+
 Dan Ziehli (UDC), président-rapporteur 
 La Municipalité était représentée par M. Alessio Grutta, Municipal en charge du service Domaines et 
 Bâtiments (SDOM) ainsi que par M. Maximilien Walter, chef du service Urbanisme et Travaux publics. 
@@ -46,7 +41,7 @@ compatibles avec le réseau 4G.
 Rapport de la commission ad hoc chargée d’étudier le préavis municipal N° 12/2025 – Demande de 
 crédit de 96'500 CHF pour le renouvellement du parc d’horodateurs. 
 
-Rapport - Préavis municipal N° 12/2025  
+Rapport - Préavis municipal N° 12/2025 
 2|4 
 Au regard de l’usage des horodateurs dans la commune et des moyens de paiements, il est rappelé que 
 l’application PayByPhone est la méthode la plus populaire. Par ailleurs, il est aussi rappelé que le présent 
@@ -60,13 +55,13 @@ Le modèle retenu est celui de la société IEM SA. Celui-ci présente en effet 
 avec le système de contrôle des Assistants de Sécurité Publique (ASP), de permettre un paiement autant 
 en Euros qu’en Francs suisses (CHF), de pouvoir insérer le numéro de plaque, la possibilité de générer 
 une quittance digitale à la demande, une interface tactile et une caissette intermédiaire pour rendre la 
-monnaie en cas d’annulation de la transaction.  
+monnaie en cas d’annulation de la transaction. 
 Le paiement par carte bancaire reste cependant impossible sauf par le biais de l’application de parcage 
 PayByPhone. En effet, les coûts pour chaque horodateur seraient plus élevés du fait de l’ajout d’un appareil 
 à cartes de crédit, cela pour un usage marginal en comparaison avec le paiement par le biais de l’application 
 par les personnes équipées de carte bancaire. Il est relevé que l’usage de ces nouveaux horodateurs est très 
 satisfaisant dans la commune de Montreux, selon l’Association Sécurité Riviera (ASR). 
-Coûts et recettes  
+Coûts et recettes 
 Enfin, ces horodateurs permettraient d’engranger de grosses recettes annuelles par rapport à la dépense 
 budgétée de 96'500 TTC. La commission des finances avait demandé de retirer cette dépense du budget 
 car celle-ci portait sur un renouvellement plus qu’un nouvel investissement. 
@@ -91,11 +86,11 @@ commissaire recommande, à cet égard, de ne pas devoir choisir entre les deux a
 serait compliqué si l’application de parcage utilisée change à chaque fois que l’on se déplace d’une 
 commune à l’autre. 
 
-Rapport - Préavis municipal N° 12/2025  
+Rapport - Préavis municipal N° 12/2025 
 3|4 
 Plusieurs questions de commissaires portant sur des considérations financières, il leur est répondu que 
 d’un point de vue comptable, les recettes générées par ces horodateurs ne couvriraient pas directement 
-les coûts mais serviraient plutôt à compenser le déficit de l’ASR.  
+les coûts mais serviraient plutôt à compenser le déficit de l’ASR. 
 Au vu de la nature des travaux, il est de plus répondu à un commissaire que le risque que les coûts des 
 travaux augmentent est faible, les offres étant claires, sans risques manifestes. La marge de coûts 
 imprévus a dès lors été placée à 5%. Un commissaire rappelle à ce titre que la plus grande partie de la 
@@ -124,7 +119,7 @@ Un commissaire est plutôt favorable à ce préavis mais remarque que l’abando
 Swisscom est à l’origine de la nécessité de cet investissement pour changer la plupart de nos 
 horodateurs, cela comme dans d’autres domaines également concernés par la 3G où il faut également 
 changer les appareils. Il trouve le projet convaincant sur le plan technique mais relève la contrainte 
-d’adopter tout changement dû à l’opérateur.  
+d’adopter tout changement dû à l’opérateur. 
 Dès lors, il soulève la question d’une suppression, à terme, de tous les horodateurs. Un autre 
 commissaire dit que cela avait été proposé en n’utilisant que Twint pour le paiement, un scénario qui 
 pourrait se généraliser à l’avenir. Les places avec horodateurs seraient d’ailleurs souvent prisées des 
@@ -132,21 +127,19 @@ conducteurs d’autres communes, dont Vevey.
 2) La question est posée de savoir si une voix s’oppose au préavis municipal ou si des points 
 particuliers restent à élucider. Aucune opposition n’est relevée et la commission passe au vote. 
 Le préavis est accepté à l’unanimité des voix. 
- 
- 
 
-Rapport - Préavis municipal N° 12/2025  
+Rapport - Préavis municipal N° 12/2025 
 4|4 
 Conclusions 
 Les membres de la commission vous recommandent à l’unanimité, Madame la Présidente, Mesdames 
 et Messieurs, de voter les conclusions suivantes : 
 Le Conseil communal de La Tour-de-Peilz, 
 • 
-vu le préavis municipal N° 12/2025,  
+vu le préavis municipal N° 12/2025, 
 • 
-vu le rapport de la commission chargée d'examiner ce dossier,  
+vu le rapport de la commission chargée d'examiner ce dossier, 
 • 
-considérant que cet objet a été porté à l'ordre du jour,  
+considérant que cet objet a été porté à l'ordre du jour, 
 décide : 
 1. d’accorder à la Municipalité un crédit de réalisation de Fr. 96'500.- pour le renouvellement du parc 
 d’horodateurs, à prélever par le débit du compte N° 9146.029.00 « Achat – Renouvellement 
@@ -160,10 +153,9 @@ N° 431.3313.00 « Amortissement - Renouvellement horodateurs » ;
 4. de prendre note que l’amortissement s’élèvera à Fr. 9'650.- par année, selon la durée 
 d’amortissement définie de 10 ans ; 
 5. d’accepter la réserve pour les hausses légales éventuelles. 
- 
- 
+
 La Tour-de-Peilz, le 8 juin 2025 
- 
+
 Au nom de la commission, 
 Dan Ziehli, président-rapporteur 
 
@@ -171,26 +163,26 @@ Municipalité
 Maison de Commune 
 Grand-Rue 46 · CP 304 
 1814 La Tour-de-Peilz 
- 
+
 
- 021 977 01 11 
+021 977 01 11 
 
- greffe@la-tour-de-peilz.ch 
+greffe@la-tour-de-peilz.ch 
 
- www.la-tour-de-peilz.ch 
+www.la-tour-de-peilz.ch 
 PRÉAVIS MUNICIPAL N° 12/2025 
- 
+
 le 14 mai 2025 
- 
-Demande de crédit de Fr. 96'500.- pour le renouvellement du parc d’horodateurs  
- 
+
+Demande de crédit de Fr. 96'500.- pour le renouvellement du parc d’horodateurs 
+
 10.03.02-2503-Preavis-12-Achat-horodateurs.docx 
- 
+
 Au Conseil communal de 
 1814 La Tour-de-Peilz 
- 
+
 Madame la Présidente, 
-Mesdames et Messieurs,  
+Mesdames et Messieurs, 
 1. Objet du préavis 
 Le présent préavis a pour but de solliciter un crédit de la part du Conseil communal afin de procéder à 
 l’acquisition et au déploiement de 13 nouveaux horodateurs en remplacement du matériel existant. 
@@ -217,13 +209,13 @@ leur renouvellement est à charge de la Commune.
 
 PRÉAVIS MUNICIPAL N° 12/2025 
 2|4 
- 
+
 
- 021 977 01 11 
+021 977 01 11 
 
- greffe@la-tour-de-peilz.ch 
+greffe@la-tour-de-peilz.ch 
 
- www.la-tour-de-peilz.ch 
+www.la-tour-de-peilz.ch 
 En prévision de cet achat, un appel d’offres sur invitation selon la loi vaudoise sur les marchés publics 
 a été effectué par la Municipalité, en collaboration avec l’ASR. Le cahier des charges technique élaboré 
 à cette occasion demandait notamment un modèle d’horodateur indépendant du réseau électrique 
@@ -247,19 +239,18 @@ récemment été installé sur le
 territoire de la commune de 
 Montreux et donne entière 
 satisfaction. 
- 
- 
+
 Emplacements prévus pour les futurs horodateurs 
 
 PRÉAVIS MUNICIPAL N° 12/2025 
 3|4 
- 
+
 
- 021 977 01 11 
+021 977 01 11 
 
- greffe@la-tour-de-peilz.ch 
+greffe@la-tour-de-peilz.ch 
 
- www.la-tour-de-peilz.ch 
+www.la-tour-de-peilz.ch 
 4. Coûts 
 Les coûts nécessaires à ce remplacement comprennent, outre la fourniture et pose des nouveaux 
 appareils, la réalisation de socles en béton. 
@@ -291,7 +282,7 @@ achat sur 10 ans, dès l’année suivant le décompte final des travaux, par pr
 réserve « Dépenses et investissements futurs ». 
 7. Développement durable 
 7.1. Social 
-Le renouvellement des horodateurs n’a pas d’impact social particulier.  
+Le renouvellement des horodateurs n’a pas d’impact social particulier. 
 7.2. Economique 
 Les recettes des horodateurs ainsi que des amendes d’ordre représentent un montant annuel de 
 plusieurs centaines de milliers de francs selon le tableau ci-dessous, lesquels viennent en déduction du 
@@ -312,17 +303,17 @@ Fr. 680'133.-
 * comprenant : recettes des horodateurs, vente de cartes à gratter et émoluments perçus pour l’occupation de places 
 payantes par un permis de dépôt ou de fouille (Fr. 10.- / place / jour) 
 7.3. Environnement 
-Le présent projet de renouvellement des horodateurs n’a pas d’impact particulier sur l’environnement.  
+Le présent projet de renouvellement des horodateurs n’a pas d’impact particulier sur l’environnement. 
 
 PRÉAVIS MUNICIPAL N° 12/2025 
 4|4 
- 
+
 
- 021 977 01 11 
+021 977 01 11 
 
- greffe@la-tour-de-peilz.ch 
+greffe@la-tour-de-peilz.ch 
 
- www.la-tour-de-peilz.ch 
+www.la-tour-de-peilz.ch 
 8. Conclusions 
 Nous vous demandons, Madame la Présidente, Mesdames et Messieurs, de bien vouloir voter la 
 conclusion suivante : 
@@ -351,19 +342,15 @@ de prendre note que l’amortissement s’élèvera à Fr. 9'650.- par année, s
 d’amortissement définie de 10 ans ; 
 5. 
 d’accepter la réserve pour les hausses légales éventuelles. 
- 
- 
- 
- 
- 
+
 Déléguée municipale : Mme Elise Kaiser 
- 
+
 Adopté par la Municipalité : le 24 mars 2025 
- 
+
 AU NOM DE LA MUNICIPALITÉ 
- 
+
 La syndique : 
- 
+
 Le secrétaire : 
 Sandra Pasquier 
-Pierre-A. Dupertuis 
+Pierre-A. Dupertuis

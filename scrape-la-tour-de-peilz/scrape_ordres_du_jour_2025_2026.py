@@ -10,6 +10,9 @@ from urllib.parse import parse_qs, unquote, urljoin, urlparse
 import requests
 import fitz
 
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from app.text_cleaning import clean_french_text
+
 
 BASE_URL = "https://www.la-tour-de-peilz.ch/"
 LIST_URL = "https://www.la-tour-de-peilz.ch/politique/ordre-du-jour.php"
@@ -83,12 +86,7 @@ class TextAndLinksParser(HTMLParser):
 
 
 def clean_spaces(text: str) -> str:
-    text = html.unescape(text)
-    text = text.replace("\xa0", " ")
-    text = re.sub(r"[ \t\r\f\v]+", " ", text)
-    text = re.sub(r"\n[ \t]+", "\n", text)
-    text = re.sub(r"\n{3,}", "\n\n", text)
-    return text.strip()
+    return clean_french_text(text)
 
 
 def normalize_text(text: str) -> str:
@@ -190,7 +188,7 @@ def safe_filename(pdf_url: str) -> str:
 
 def extract_pdf_text(pdf_path: Path) -> str:
     document = fitz.open(pdf_path)
-    return "\n".join(page.get_text() for page in document)
+    return clean_french_text("\n".join(page.get_text() for page in document))
 
 
 def create_local_document(pdf_url: str, source_page: str, fallback_year: str) -> dict:

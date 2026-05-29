@@ -279,13 +279,13 @@ Un poste de coordinateur·trice des manifestations à 60 %, rattaché au Greffe 
 logistiques en lien avec les manifestations. Du côté de l’ABCDé, il est prévu d’activer un poste de stagiaire 
 bachelor pour un projet en lien avec la classification des objets. D’autre part, un taux d’activité supplémentaire 
 de 30 % est nécessaire au sein du Secteur conciergerie afin de renforcer l’équipe de nettoyage entre la salle des 
-Remparts, le collège Courbet ainsi que le bâtiment de Vassin.  
+Remparts, le collège Courbet ainsi que le bâtiment de Vassin. 
 Par ailleurs et comme prévu selon le préavis N° 2/2025, le poste de chef de projet architecte à 100 % et celui de 
 dessinateur en bâtiments à 60 % au sein du Service des domaines et bâtiments deviennent pérennes et sont 
 ainsi intégrés au budget. 
 Pour terminer, des reclassifications et promotions en faveur de 8 membres du personnel communal, des 
 réserves pour un total d’1 EPT pour palier la perte de taux d’activité suite à différents départs ainsi que les primes 
-d’ancienneté et de départ à la retraite ont été comptabilisées au budget.  
+d’ancienneté et de départ à la retraite ont été comptabilisées au budget. 
 5
 
 PRÉAVIS MUNICIPAL N° 30/2025 
@@ -762,8 +762,7 @@ Dette brute (921 + 922 + 923) par habitant
 8
 
 PRÉAVIS MUNICIPAL N° 30/2025 
- 
- 
+
 Selon le tableau ci-dessus, l'endettement de la Commune pourrait se situer entre Fr. 65 et 66 mios à la fin de 
 la législature 2021-2026, par rapport au plafond d'endettement de Fr. 100 mios. 
 A noter que dans les comptes 2024, les investissements nets (dépenses moins recettes, hors amortissements) 
@@ -780,43 +779,41 @@ Commune.
 Voici le tableau de l'endettement net selon la méthode proposée par l'Union des communes vaudoises (UCV). 
 Etant donné que les calculs se basent sur des comptes à l'actif et au passif du bilan, qui ne sont pas projetés dans 
 le cadre de l'établissement du budget, les chiffres sont fournis selon les comptes 2024. 
- 
- 
- 
-   ENDETTEMENT (NET)
+
+ENDETTEMENT (NET)
 Comptes 2024 
-   Comptes courants créanciers (9206)
-52'575   
-   Emprunts à court terme (921)
-0   
-   Emprunts à moyen et long termes (922)
-55'000'000   
-   Engagements propres établissements et fonds spéciaux (923)
-1'259'354   
-   Endettement brut (total 1)
-56'311'930   
-   Avoirs disponibles (9102)
-5'040'155   
-   Comptes courants auprès d’autres collectivités publiques (9111)
-145'881   
-   Epargne (titres et placements, 9120)
-1'330   
-   Prêts (placements de capitaux, prêts, 9122)
-0   
-   Prêts et participations permanentes (915)
-1'664'187   
-   Remboursements d'emprunts
-0   
-   Total 2
-6'851'553   
-   Endettement net (total 1 - total 2)
-49'460'377   
-   Habitants au 31.12.N
-12'812   
-   Endettement net par habitant au 31.12.N
-3'860   
-   Plafond d'endettement brut (2021-2026)
-100'000'000   
+Comptes courants créanciers (9206)
+52'575 
+Emprunts à court terme (921)
+0 
+Emprunts à moyen et long termes (922)
+55'000'000 
+Engagements propres établissements et fonds spéciaux (923)
+1'259'354 
+Endettement brut (total 1)
+56'311'930 
+Avoirs disponibles (9102)
+5'040'155 
+Comptes courants auprès d’autres collectivités publiques (9111)
+145'881 
+Epargne (titres et placements, 9120)
+1'330 
+Prêts (placements de capitaux, prêts, 9122)
+0 
+Prêts et participations permanentes (915)
+1'664'187 
+Remboursements d'emprunts
+0 
+Total 2
+6'851'553 
+Endettement net (total 1 - total 2)
+49'460'377 
+Habitants au 31.12.N
+12'812 
+Endettement net par habitant au 31.12.N
+3'860 
+Plafond d'endettement brut (2021-2026)
+100'000'000 
 9
 
 PRÉAVIS MUNICIPAL N° 30/2025 
@@ -1233,80 +1230,80 @@ Total des revenus
 -1.26%
 3'067'507
 3.75%
-   CHARGES
-B26 (v1/Mun)   
-B25 (v2/Cc)   
-Ecart (Fr)   
-Ecart (%)   
-B26/Total (%)   
-B25/Total (%)   
+CHARGES
+B26 (v1/Mun) 
+B25 (v2/Cc) 
+Ecart (Fr) 
+Ecart (%) 
+B26/Total (%) 
+B25/Total (%) 
 30
-   Autorités et personnel
-19'729'645   
-19'122'340   
-607'305   
-3.18 %   
-23.42 %   
-22.35 %   
+Autorités et personnel
+19'729'645 
+19'122'340 
+607'305 
+3.18 % 
+23.42 % 
+22.35 % 
 31
-   Biens, services, marchandises
-11'696'398   
-10'925'722   
-770'676   
-7.05 %   
-13.88 %   
-12.77 %   
+Biens, services, marchandises
+11'696'398 
+10'925'722 
+770'676 
+7.05 % 
+13.88 % 
+12.77 % 
 32
-   Intérêts passifs
-522'502   
-616'750   
+Intérêts passifs
+522'502 
+616'750 
 -94'248
 -15.28 %
-0.62 %   
-0.72 %   
+0.62 % 
+0.72 % 
 33
-   Amortissements
-8'155'420   
-10'883'620   
+Amortissements
+8'155'420 
+10'883'620 
 -2'728'200
 -25.07 %
-9.68 %   
-12.72 %   
+9.68 % 
+12.72 % 
 35
-   Part. et remb. collectivités publiques
-34'524'580   
-34'803'800   
+Part. et remb. collectivités publiques
+34'524'580 
+34'803'800 
 -279'220
 -0.80 %
-40.98 %   
-40.68 %   
+40.98 % 
+40.68 % 
 36
-   Aides et subventions
-6'753'410   
-6'278'756   
+Aides et subventions
+6'753'410 
+6'278'756 
 474'654
 7.56 %
-8.02 %   
-7.34 %   
+8.02 % 
+7.34 % 
 38
-   Attributions aux fonds et fin. spéciaux
-2'152'075   
-2'238'525   
+Attributions aux fonds et fin. spéciaux
+2'152'075 
+2'238'525 
 -86'450
 -3.86 %
-2.55 %   
-2.62 %   
+2.55 % 
+2.62 % 
 39
-   Imputations internes
-719'400   
-688'150   
+Imputations internes
+719'400 
+688'150 
 31'250
 4.54 %
-0.85 %   
-0.80 %   
-   Total
-84'253'430   
-85'557'663   
+0.85 % 
+0.80 % 
+Total
+84'253'430 
+85'557'663 
 -1'304'233
 -1.52 %
 11
@@ -1333,215 +1330,212 @@ Aides et subventions
 Les principaux montants compris dans ce poste sont les subventions versées à Montreux-Vevey Tourisme, au 
 Fonds culturel Riviera, à la Fondation du Musée suisse du jeu, au Centre de loisirs pour seniors "L'Escale" ainsi 
 que la couverture des déficits des lignes de transports urbains (VMCV). 
-   CHARGES
-B26 (v1/Mun)   
-B25 (v2/Cc)   
-C24   
-C23   
-C22   
+CHARGES
+B26 (v1/Mun) 
+B25 (v2/Cc) 
+C24 
+C23 
+C22 
 30
-   Autorités et personnel
-19'729'645   
-19'122'340   
-17'635'812   
-16'783'927   
-15'637'252   
+Autorités et personnel
+19'729'645 
+19'122'340 
+17'635'812 
+16'783'927 
+15'637'252 
 31
-   Biens, services, marchandises
-11'696'398   
-10'925'722   
-9'383'591   
-9'188'493   
-9'080'742   
+Biens, services, marchandises
+11'696'398 
+10'925'722 
+9'383'591 
+9'188'493 
+9'080'742 
 32
-   Intérêts passifs
-522'502   
-616'750   
-490'745   
-371'007   
-279'469   
+Intérêts passifs
+522'502 
+616'750 
+490'745 
+371'007 
+279'469 
 35
-   Part. et remb. collectivités publiques
-34'524'580   
-34'803'800   
-41'073'545   
-41'785'782   
-39'029'891   
+Part. et remb. collectivités publiques
+34'524'580 
+34'803'800 
+41'073'545 
+41'785'782 
+39'029'891 
 36
-   Aides et subventions
-6'753'410   
-6'278'756   
-5'830'025   
-5'604'135   
-5'242'962   
-   Total
-73'226'535   
-71'747'368   
-74'413'718   
-73'733'344   
-69'270'317   
+Aides et subventions
+6'753'410 
+6'278'756 
+5'830'025 
+5'604'135 
+5'242'962 
+Total
+73'226'535 
+71'747'368 
+74'413'718 
+73'733'344 
+69'270'317 
 12
 
 PRÉAVIS MUNICIPAL N° 30/2025 
- 
+
 4.3. Revenus par natures, évolution, analyse 
 Les revenus par nature évoluent comme suit : 
- 
+
 Voici la répartition graphique des revenus par nature : 
- 
+
 Evolution des revenus nets (sans prélèvements sur fonds de réserve et imputations internes) 
 Les revenus nets augmentent de Fr. 1.27 mio ou 1.81% : 
- 
- 
- 
- 
-   REVENUS
-B26 (v1/Mun)   
-B25 (v2/Cc)   
-Ecart   
-%   
-B26/Total (%)   
-B25/Total (%)   
+
+REVENUS
+B26 (v1/Mun) 
+B25 (v2/Cc) 
+Ecart 
+% 
+B26/Total (%) 
+B25/Total (%) 
 40
-   Impôts
-55'415'000   
-54'673'000   
-742'000   
-1.36 %   
-65.32 %   
-63.63 %   
+Impôts
+55'415'000 
+54'673'000 
+742'000 
+1.36 % 
+65.32 % 
+63.63 % 
 41
-   Patentes, concessions
-413'000   
-402'000   
-11'000   
-2.74 %   
-0.49 %   
-0.47 %   
+Patentes, concessions
+413'000 
+402'000 
+11'000 
+2.74 % 
+0.49 % 
+0.47 % 
 42
-   Revenus du patrimoine
-4'580'220   
-4'360'375   
-219'845   
-5.04 %   
-5.40 %   
-5.07 %   
+Revenus du patrimoine
+4'580'220 
+4'360'375 
+219'845 
+5.04 % 
+5.40 % 
+5.07 % 
 43
-   Taxes, émoluments, produits des ventes
-5'669'985   
-5'849'769   
--179'784   
--3.07 %   
-6.68 %   
-6.81 %   
+Taxes, émoluments, produits des ventes
+5'669'985 
+5'849'769 
+-179'784 
+-3.07 % 
+6.68 % 
+6.81 % 
 44
-   Parts à des recettes cantonales
-1'440'000   
-1'350'000   
-90'000   
-6.67 %   
-1.70 %   
-1.57 %   
+Parts à des recettes cantonales
+1'440'000 
+1'350'000 
+90'000 
+6.67 % 
+1.70 % 
+1.57 % 
 45
-   Part. et remb. collectivités publiques
-3'746'100   
-3'363'600   
-382'500   
-11.37 %   
-4.42 %   
-3.91 %   
+Part. et remb. collectivités publiques
+3'746'100 
+3'363'600 
+382'500 
+11.37 % 
+4.42 % 
+3.91 % 
 46
-   Autres prestations et subventions
-113'000   
-113'000   
-0.13 %   
-0.13 %   
+Autres prestations et subventions
+113'000 
+113'000 
+0.13 % 
+0.13 % 
 48
-   Prélèvements sur fonds et fin. spéciaux
-12'744'540   
-15'122'325   
--2'377'785   
--15.72 %   
-15.02 %   
-17.60 %   
+Prélèvements sur fonds et fin. spéciaux
+12'744'540 
+15'122'325 
+-2'377'785 
+-15.72 % 
+15.02 % 
+17.60 % 
 49
-   Imputations internes
-719'400   
-688'150   
-31'250   
-4.54 %   
-0.85 %   
-0.80 %   
-   Total
-84'841'245   
-85'922'219   
--1'080'974   
--1.26 %   
-   REVENUS
-B26 (v1/Mun)   
-B25 (v2/Cc)   
-C24   
-C23   
-C22   
+Imputations internes
+719'400 
+688'150 
+31'250 
+4.54 % 
+0.85 % 
+0.80 % 
+Total
+84'841'245 
+85'922'219 
+-1'080'974 
+-1.26 % 
+REVENUS
+B26 (v1/Mun) 
+B25 (v2/Cc) 
+C24 
+C23 
+C22 
 40
-   Impôts
-55'415'000   
-54'673'000   
-52'705'076   
-51'696'903   
-48'732'552   
+Impôts
+55'415'000 
+54'673'000 
+52'705'076 
+51'696'903 
+48'732'552 
 41
-   Patentes, concessions
-413'000   
-402'000   
-387'118   
-408'094   
-432'142   
+Patentes, concessions
+413'000 
+402'000 
+387'118 
+408'094 
+432'142 
 42
-   Revenus du patrimoine
-4'580'220   
-4'360'375   
-4'385'654   
-4'235'180   
-4'146'901   
+Revenus du patrimoine
+4'580'220 
+4'360'375 
+4'385'654 
+4'235'180 
+4'146'901 
 43
-   Taxes, émoluments, produits des ventes
-5'669'985   
-5'849'769   
-6'067'208   
-7'026'937   
-6'749'603   
+Taxes, émoluments, produits des ventes
+5'669'985 
+5'849'769 
+6'067'208 
+7'026'937 
+6'749'603 
 44
-   Parts à des recettes cantonales
-1'440'000   
-1'350'000   
-1'480'101   
-1'092'119   
-1'530'376   
+Parts à des recettes cantonales
+1'440'000 
+1'350'000 
+1'480'101 
+1'092'119 
+1'530'376 
 45
-   Part. et remb. collectivités publiques
-3'746'100   
-3'363'600   
-12'624'876   
-12'969'795   
-11'921'664   
+Part. et remb. collectivités publiques
+3'746'100 
+3'363'600 
+12'624'876 
+12'969'795 
+11'921'664 
 46
-   Autres prestations et subventions
-113'000   
-113'000   
-306'735   
-907'851   
-161'400   
-   Total
-71'377'305   
-70'111'744   
-77'956'767   
-78'336'879   
-73'674'638   
+Autres prestations et subventions
+113'000 
+113'000 
+306'735 
+907'851 
+161'400 
+Total
+71'377'305 
+70'111'744 
+77'956'767 
+78'336'879 
+73'674'638 
 13
 
 PRÉAVIS MUNICIPAL N° 30/2025 
- 
+
 Patentes et concessions 
 Ce montant comprend, entre autres, la taxe à l'usage du sol (0.007 Fr./kWh), la taxe spécifique (0.003 Fr./kWh) 
 et la redevance de la Compagnie du gaz. 
@@ -1551,7 +1545,7 @@ administratif ainsi que des redevances d'utilisation du domaine public ou droit 
 Taxes, émoluments, produits des ventes 
 Il s'agit notamment des émoluments pour les documents d'identité, des permis de construire, des participations 
 des parents à l'accueil de jour des enfants, des taxes de raccordement et d'utilisation (eaux claires, égouts) et 
-les produits de la taxe déchets.  
+les produits de la taxe déchets. 
 Parts à des recettes cantonales 
 Il s'agit de la part de la Commune à l'impôt sur les gains immobiliers. 
 Participation et remboursement de collectivités 
@@ -1560,79 +1554,77 @@ des enfants, les participations à l'Accueil familial de jour et la compensation
 rubrique est essentiellement due à la comptabilisation de la NPIV. 
 4.4. Charges par services, évolution, analyse 
 Les charges par service évoluent comme suit : 
- 
- 
- 
+
 Voici la répartition graphique des charges par service : 
- 
-   CHARGES
-B26 (v1/Mun)   
-B25 (v2/Cc)   
-Ecart (Fr)   
-Ecart (%)   
-B26/Total (%)   
-B25/Total (%)   
+
+CHARGES
+B26 (v1/Mun) 
+B25 (v2/Cc) 
+Ecart (Fr) 
+Ecart (%) 
+B26/Total (%) 
+B25/Total (%) 
 1
-   Administration générale
-14'763'178   
-14'011'491   
-751'687   
-5.36 %   
-17.52 %   
-16.38 %   
+Administration générale
+14'763'178 
+14'011'491 
+751'687 
+5.36 % 
+17.52 % 
+16.38 % 
 2
-   Finances 
-9'570'502   
-11'127'550   
--1'557'048   
--13.99 %   
-11.36 %   
-13.01 %   
+Finances 
+9'570'502 
+11'127'550 
+-1'557'048 
+-13.99 % 
+11.36 % 
+13.01 % 
 3
-   Domaines et bâtiments
-5'395'480   
-4'460'840   
-934'640   
-20.95 %   
-6.40 %   
-5.21 %   
+Domaines et bâtiments
+5'395'480 
+4'460'840 
+934'640 
+20.95 % 
+6.40 % 
+5.21 % 
 4
-   Urbanisme et travaux publics
-17'419'300   
-20'308'950   
--2'889'650   
--14.23 %   
-20.67 %   
-23.74 %   
+Urbanisme et travaux publics
+17'419'300 
+20'308'950 
+-2'889'650 
+-14.23 % 
+20.67 % 
+23.74 % 
 5
-   Instruction publique et cultes 
-5'123'700   
-5'068'892   
-54'808   
-1.08 %   
-6.08 %   
-5.92 %   
+Instruction publique et cultes 
+5'123'700 
+5'068'892 
+54'808 
+1.08 % 
+6.08 % 
+5.92 % 
 6
-   Sécurité - population - feu
-5'618'610   
-5'464'690   
-153'920   
-2.82 %   
-6.67 %   
-6.39 %   
+Sécurité - population - feu
+5'618'610 
+5'464'690 
+153'920 
+2.82 % 
+6.67 % 
+6.39 % 
 7
-   Famille, jeunesse, sport et culture
-26'362'660   
-25'115'250   
-1'247'410   
-4.97 %   
-31.29 %   
-29.35 %   
-   Total
-84'253'430   
-85'557'663   
--1'304'233   
--1.52 %   
+Famille, jeunesse, sport et culture
+26'362'660 
+25'115'250 
+1'247'410 
+4.97 % 
+31.29 % 
+29.35 % 
+Total
+84'253'430 
+85'557'663 
+-1'304'233 
+-1.52 % 
 14
 
 PRÉAVIS MUNICIPAL N° 30/2025 
@@ -1655,81 +1647,80 @@ au budget 2025)
 Les critères de distinction entre charges fixes et variables de la Commune peuvent bien entendu prêter à 
 discussion, en revanche, il ressort de cette présentation que la marge de manœuvre, à savoir une influence 
 directe et à court terme de la Commune, ne concerne qu'environ 12% du total des charges. 
-   REVENUS
-B26 (v1/Mun)   
-B25 (v2/Cc)   
-Ecart (Fr)   
-Ecart (%)   
-B26/Total (%)   
-B25/Total (%)   
+REVENUS
+B26 (v1/Mun) 
+B25 (v2/Cc) 
+Ecart (Fr) 
+Ecart (%) 
+B26/Total (%) 
+B25/Total (%) 
 1
-   Administration générale
-896'455   
-1'028'885   
+Administration générale
+896'455 
+1'028'885 
 -132'430
 -12.87 %
-1.06 %   
-1.20 %   
+1.06 % 
+1.20 % 
 2
-   Finances 
-61'108'800   
-60'419'800   
+Finances 
+61'108'800 
+60'419'800 
 689'000
 1.14 %
-72.03 %   
-70.32 %   
+72.03 % 
+70.32 % 
 3
-   Domaines et bâtiments
-4'704'515   
-4'179'904   
+Domaines et bâtiments
+4'704'515 
+4'179'904 
 524'611
 12.55 %
-5.55 %   
-4.86 %   
+5.55 % 
+4.86 % 
 4
-   Urbanisme et travaux publics 
-10'563'485   
-13'520'290   
+Urbanisme et travaux publics 
+10'563'485 
+13'520'290 
 -2'956'805
 -21.87 %
-12.45 %   
-15.74 %   
+12.45 % 
+15.74 % 
 5
-   Instruction publique et cultes 
-560'290   
-531'090   
+Instruction publique et cultes 
+560'290 
+531'090 
 29'200
 5.50 %
-0.66 %   
-0.62 %   
+0.66 % 
+0.62 % 
 6
-   Sécurité - population - feu
-222'500   
-209'500   
-13'000   
+Sécurité - population - feu
+222'500 
+209'500 
+13'000 
 6.21 %
-0.26 %   
-0.24 %   
+0.26 % 
+0.24 % 
 7
-   Famille, jeunesse, sport et culture
-6'785'200   
-6'032'750   
-752'450   
+Famille, jeunesse, sport et culture
+6'785'200 
+6'032'750 
+752'450 
 12.47 %
-8.00 %   
-7.02 %   
-   Total
-84'841'245   
-85'922'219   
+8.00 % 
+7.02 % 
+Total
+84'841'245 
+85'922'219 
 -1'080'974
 -1.26 %
 15
 
 PRÉAVIS MUNICIPAL N° 30/2025 
- 
- 
+
 4.7. Comparatifs budgets et comptes 
- 
+
 Natures
 Comptes
 Montants
@@ -1742,98 +1733,98 @@ Variables
 LTDP
 30
 Autorités et personnel
-19'729'645  
-19'729'645  
-19'729'645  
+19'729'645 
+19'729'645 
+19'729'645 
 310
 Imprimés et fournitures de bureau
-518'568  
-518'568  
+518'568 
+518'568 
 311
 Achats de mobilier, matériel, machines et véhicules
-897'250  
-897'250  
+897'250 
+897'250 
 312
 Achats d'eau, d'énergie et de combustible
-1'115'850  
-1'115'850  
+1'115'850 
+1'115'850 
 313
 Autres fournitures et marchandises
-709'000  
-709'000  
+709'000 
+709'000 
 314
 Entretien des immeubles, routes et territoire
-3'298'100  
-3'298'100  
+3'298'100 
+3'298'100 
 315
 Entretien d'objets mobiliers et d'inst. techniques
-473'150  
-473'150  
+473'150 
+473'150 
 316
 Loyers, fermages et redevances d'utilisation
-91'950  
-91'950  
+91'950 
+91'950 
 317
 Réceptions et manifestations
-286'390  
-286'390  
+286'390 
+286'390 
 318
 Honoraires et prestations de services
-3'543'240  
-3'543'240  
+3'543'240 
+3'543'240 
 319
 Impôts, taxes, frais divers
-762'900  
-11'696'398  
-762'900  
+762'900 
+11'696'398 
+762'900 
 32
 Intérêts passifs
-522'502  
-522'502  
-522'502  
+522'502 
+522'502 
+522'502 
 33
 Amortissements
-8'155'420  
-8'155'420  
-8'155'420  
+8'155'420 
+8'155'420 
+8'155'420 
 351
 Charges cantonales
-15'689'900  
-15'689'900  
+15'689'900 
+15'689'900 
 352
 Charges d'autres communes ou ass. de communes
-18'834'680  
-34'524'580  
-18'834'680  
+18'834'680 
+34'524'580 
+18'834'680 
 36
 Aides et subventions (sans 3657)
-4'801'410  
-4'801'410  
+4'801'410 
+4'801'410 
 3657
 Transports publics
-1'952'000  
-6'753'410  
-1'952'000  
+1'952'000 
+6'753'410 
+1'952'000 
 38
 Attributions aux fonds et financements spéciaux
-2'152'075  
-2'152'075  
-2'152'075  
+2'152'075 
+2'152'075 
+2'152'075 
 39
 Imputations internes
-719'400  
-719'400  
-719'400  
+719'400 
+719'400 
+719'400 
 Totaux
-84'253'430  
-84'253'430  
-36'476'580  
-37'311'550  
-10'465'300  
+84'253'430 
+84'253'430 
+36'476'580 
+37'311'550 
+10'465'300 
 % selon total des charges
-43.29%  
-44.28%  
-12.42%  
+43.29% 
+44.28% 
+12.42% 
 Totaux budget 2025 (v2/Cc) en Fr
 85'557'663
 85'557'663
@@ -1857,15 +1848,7 @@ Evolution (B26/B25, %)
 16
 
 PRÉAVIS MUNICIPAL N° 30/2025 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 17
 
 PRÉAVIS MUNICIPAL N° 30/2025 
@@ -2016,30 +1999,14 @@ Ville de la Tour-de-Peilz
 Budget 2026 (v1/Mun)
 Budget 2025 (v2/CC)
 Comptes 2024
- 
- 
+
 Charges
 Revenus
 Charges
 Revenus
 Charges
 Revenus
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 1
 Administration générale
 14'763'178
@@ -2056,13 +2023,11 @@ Autorités
 98'325
 502'297.70
 113'197.35
- 
- 
- 
+
 665'150
- 
+
 514'050
- 
+
 389'100.35
 11
 Administration
@@ -2072,13 +2037,11 @@ Administration
 11'000
 1'812'325.92
 23'316.40
- 
- 
- 
+
 1'919'208
- 
+
 1'797'716
- 
+
 1'789'009.52
 12
 Service de l'économat
@@ -2088,13 +2051,11 @@ Service de l'économat
 42'000
 211'182.66
 50'053.36
- 
- 
- 
+
 233'000
- 
+
 234'100
- 
+
 161'129.30
 13
 Ressources humaines et assurances
@@ -2104,13 +2065,11 @@ Ressources humaines et assurances
 361'200
 4'048'637.44
 660'597.90
- 
- 
- 
+
 884'020
- 
+
 688'900
- 
+
 3'388'039.54
 15
 Affaires culturelles et de loisirs
@@ -2120,13 +2079,11 @@ Affaires culturelles et de loisirs
 182'230
 3'657'301.89
 174'141.95
- 
- 
- 
+
 4'243'645
- 
+
 4'216'570
- 
+
 3'483'159.94
 16
 Economie et tourisme
@@ -2136,13 +2093,11 @@ Economie et tourisme
 0
 12'000.00
 0.00
- 
- 
- 
+
 5'000
- 
+
 5'000
- 
+
 12'000.00
 17
 Sports
@@ -2152,13 +2107,11 @@ Sports
 63'430
 414'349.07
 237'073.25
- 
- 
- 
+
 292'900
- 
+
 276'470
- 
+
 177'275.82
 18
 Transports publics
@@ -2168,13 +2121,11 @@ Transports publics
 0
 3'987'540.40
 474'762.85
- 
- 
- 
+
 4'606'800
- 
+
 4'220'800
- 
+
 3'512'777.55
 19
 Service informatique
@@ -2184,22 +2135,13 @@ Service informatique
 270'700
 1'024'807.85
 298'292.70
- 
- 
- 
+
 1'017'000
- 
+
 1'029'000
- 
+
 726'515.15
- 
- 
- 
- 
- 
- 
- 
- 
+
 2
 Finances
 9'570'502
@@ -2216,13 +2158,11 @@ Comptabilité générale
 380'500
 613'611.06
 374'280.79
- 
- 
- 
+
 532'600
- 
+
 515'000
- 
+
 239'330.27
 21
 Impôts
@@ -2232,14 +2172,13 @@ Impôts
 57'403'000
 1'677'899.89
 55'380'083.88
- 
- 
+
 56'414'500
- 
+
 55'634'500
- 
+
 53'702'183.99
- 
+
 22
 Service financier
 6'816'902
@@ -2248,13 +2187,11 @@ Service financier
 1'736'300
 14'643'403.86
 8'906'290.30
- 
- 
- 
+
 5'153'602
- 
+
 6'647'250
- 
+
 5'737'113.56
 23
 Amortissements et réserves non-ventilés
@@ -2264,22 +2201,13 @@ Amortissements et réserves non-ventilés
 900'000
 912'729.80
 15'407.30
- 
- 
+
 810'000
- 
+
 820'000
- 
- 
+
 897'322.50
- 
- 
- 
- 
- 
- 
- 
- 
+
 3
 Domaines et bâtiments
 5'395'480
@@ -2288,7 +2216,7 @@ Domaines et bâtiments
 4'179'904
 4'014'932.72
 4'136'283.77
- 
+
 21
 
 CHARGES ET REVENUS PAR SERVICES
@@ -2296,22 +2224,14 @@ Ville de la Tour-de-Peilz
 Budget 2026 (v1/Mun)
 Budget 2025 (v2/CC)
 Comptes 2024
- 
- 
+
 Charges
 Revenus
 Charges
 Revenus
 Charges
 Revenus
- 
- 
- 
- 
- 
- 
- 
- 
+
 30
 Service administratif
 1'993'220
@@ -2320,13 +2240,11 @@ Service administratif
 350'100
 1'268'346.04
 288'658.11
- 
- 
- 
+
 1'643'120
- 
+
 1'394'690
- 
+
 979'687.93
 31
 Terrains
@@ -2336,13 +2254,11 @@ Terrains
 226'320
 290'000.00
 228'837.00
- 
- 
- 
+
 63'680
- 
+
 63'680
- 
+
 61'163.00
 32
 Forêts et pâturages
@@ -2352,14 +2268,12 @@ Forêts et pâturages
 34'650
 106'650.79
 130'569.80
- 
- 
- 
+
 39'950
- 
+
 47'450
 23'919.01
- 
+
 33
 Vignes
 201'300
@@ -2368,13 +2282,11 @@ Vignes
 135'800
 162'505.07
 105'996.48
- 
- 
- 
+
 93'100
- 
+
 90'250
- 
+
 56'508.59
 34
 Service des gérances
@@ -2384,14 +2296,13 @@ Service des gérances
 2'696'484
 947'523.58
 2'669'874.74
- 
- 
+
 1'442'125
- 
+
 1'586'534
- 
+
 1'722'351.16
- 
+
 35
 Bâtiments
 1'520'970
@@ -2400,22 +2311,13 @@ Bâtiments
 736'550
 1'239'907.24
 712'347.64
- 
- 
- 
+
 293'240
- 
+
 271'400
- 
+
 527'559.60
- 
- 
- 
- 
- 
- 
- 
- 
+
 4
 Urbanisme et travaux publics
 17'419'300
@@ -2432,13 +2334,11 @@ Service administratif
 230'000
 978'750.58
 89'237.70
- 
- 
- 
+
 1'096'200
- 
+
 1'233'100
- 
+
 889'512.88
 43
 Routes
@@ -2448,13 +2348,11 @@ Routes
 6'791'200
 3'633'953.64
 1'291'353.26
- 
- 
- 
+
 3'262'390
- 
+
 3'207'800
- 
+
 2'342'600.38
 44
 Parcs-promenades-cimetière
@@ -2464,13 +2362,11 @@ Parcs-promenades-cimetière
 359'365
 1'692'834.62
 128'795.68
- 
- 
- 
+
 2'336'325
- 
+
 2'188'585
- 
+
 1'564'038.94
 45
 Ordures ménagères et déchets
@@ -2480,14 +2376,7 @@ Ordures ménagères et déchets
 2'123'050
 1'881'292.67
 1'881'292.67
- 
- 
- 
- 
- 
- 
- 
- 
+
 46
 Réseau d'égouts et d'épuration
 2'679'800
@@ -2496,14 +2385,7 @@ Réseau d'égouts et d'épuration
 3'291'800
 1'516'435.83
 1'516'435.83
- 
- 
- 
- 
- 
- 
- 
- 
+
 47
 Cours d'eau - rives - port
 453'410
@@ -2512,22 +2394,13 @@ Cours d'eau - rives - port
 724'875
 353'505.47
 246'110.19
- 
- 
- 
+
 160'900
- 
+
 159'175
- 
+
 107'395.28
- 
- 
- 
- 
- 
- 
- 
- 
+
 5
 Instruction publique et cultes
 5'123'700
@@ -2544,13 +2417,11 @@ Administration des écoles
 389'440
 3'079'168.64
 874'386.83
- 
- 
- 
+
 3'422'665
- 
+
 3'391'680
- 
+
 2'204'781.81
 52
 Enseignement secondaire
@@ -2560,15 +2431,13 @@ Enseignement secondaire
 26'300
 187'653.07
 26'570.00
- 
- 
- 
+
 241'095
- 
+
 237'000
- 
+
 161'083.07
- 
+
 22
 
 CHARGES ET REVENUS PAR SERVICES
@@ -2576,22 +2445,14 @@ Ville de la Tour-de-Peilz
 Budget 2026 (v1/Mun)
 Budget 2025 (v2/CC)
 Comptes 2024
- 
- 
+
 Charges
 Revenus
 Charges
 Revenus
 Charges
 Revenus
- 
- 
- 
- 
- 
- 
- 
- 
+
 53
 Enseignement spécialisé
 12'000
@@ -2600,13 +2461,11 @@ Enseignement spécialisé
 0
 6'634.05
 0.00
- 
- 
- 
+
 12'000
- 
+
 12'000
- 
+
 6'634.05
 55
 Formation professionnelle
@@ -2616,13 +2475,11 @@ Formation professionnelle
 0
 14'114.85
 0.00
- 
- 
- 
+
 14'800
- 
+
 11'000
- 
+
 14'114.85
 56
 Service médical et dentaire
@@ -2632,13 +2489,11 @@ Service médical et dentaire
 200
 34'621.60
 200.00
- 
- 
- 
+
 48'900
- 
+
 46'900
- 
+
 34'421.60
 57
 Camps scolaires et activités culturelles
@@ -2648,13 +2503,11 @@ Camps scolaires et activités culturelles
 115'050
 518'076.05
 140'680.60
- 
- 
- 
+
 486'550
- 
+
 482'722
- 
+
 377'395.45
 58
 Temples et cultes
@@ -2664,22 +2517,13 @@ Temples et cultes
 100
 308'089.79
 3'925.00
- 
- 
- 
+
 337'400
- 
+
 356'500
- 
+
 304'164.79
- 
- 
- 
- 
- 
- 
- 
- 
+
 6
 Sécurité - population - feu
 5'618'610
@@ -2696,13 +2540,11 @@ Police administrative
 0
 4'707'684.67
 51'209.00
- 
- 
- 
+
 4'652'100
- 
+
 4'402'100
- 
+
 4'656'475.67
 62
 Contrôle des habitants
@@ -2712,13 +2554,11 @@ Contrôle des habitants
 207'000
 621'651.36
 234'487.53
- 
- 
- 
+
 478'320
- 
+
 620'700
- 
+
 387'163.83
 63
 Police sanitaire
@@ -2728,13 +2568,11 @@ Police sanitaire
 0
 77'191.87
 0.00
- 
- 
- 
+
 118'990
- 
+
 89'490
- 
+
 77'191.87
 64
 Service des inhumations
@@ -2744,13 +2582,11 @@ Service des inhumations
 2'500
 114'327.01
 2'500.00
- 
- 
- 
+
 141'700
- 
+
 137'900
- 
+
 111'827.01
 66
 Protection civile
@@ -2760,22 +2596,13 @@ Protection civile
 0
 33'392.69
 2'612.55
- 
- 
- 
+
 5'000
- 
+
 5'000
- 
+
 30'780.14
- 
- 
- 
- 
- 
- 
- 
- 
+
 7
 Famille, jeunesse, sport et culture
 26'362'660
@@ -2792,13 +2619,11 @@ Service administratif
 4'023'150
 10'129'263.76
 4'342'504.50
- 
- 
- 
+
 7'932'460
- 
+
 7'841'450
- 
+
 5'786'759.26
 71
 Service social
@@ -2808,13 +2633,11 @@ Service social
 58'600
 1'257'992.28
 45'363.70
- 
- 
- 
+
 1'407'500
- 
+
 1'379'450
- 
+
 1'212'628.58
 72
 Prévoyance sociale
@@ -2824,23 +2647,13 @@ Prévoyance sociale
 1'951'000
 13'049'107.60
 52'291.60
- 
- 
- 
+
 10'237'500
- 
+
 9'861'600
- 
+
 12'996'816.00
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 Total
 84'253'430
 84'841'245
@@ -2848,7 +2661,7 @@ Total
 85'922'219
 81'728'762.36
 81'773'738.44
- 
+
 23
 
 CHARGES ET REVENUS PAR SERVICES
@@ -6211,7 +6024,7 @@ BCV 2020-2029, Fr. 5'000'000.--, 0.20%
 10'166.68
 SFIN
 220.3223.26
-AEIS 2021-2026, Fr. 5'000'000.--,  0.00%
+AEIS 2021-2026, Fr. 5'000'000.--, 0.00%
 1
 SFIN
 220.3223.27
@@ -13828,7 +13641,7 @@ Remplacement logiciel régie immobilière (Fr. 30'000.--) et évolution logiciel
 Recettes diverses
 SFIN
 Adaptation selon les comptes des exercices précédents.
- 
+
 2
 FINANCES
 200
@@ -13918,7 +13731,7 @@ SFIN
 Emprunt remboursé en 2025 puis remplacé par un emprunt à court terme (dont les intérêts seront
 imputés dans le 220.3223.06).
 220.3223.26
-AEIS 2021-2026, Fr. 5'000'000.--,  0.00%
+AEIS 2021-2026, Fr. 5'000'000.--, 0.00%
 SFIN
 Mis le montant de Fr. 1.-- au budget pour faire apparaître la ligne, vu le taux à 0.00%.
 220.3223.30
@@ -13965,7 +13778,7 @@ Prél. FDIF - 1% inflation B25
 SFIN
 Comme pour les budgets 2023 à 2025, prélèvement 1% sur le fonds de réserve pour compenser
 l'impact attendu de l'inflation sur les charges.
- 
+
 3
 DOMAINES ET BÂTIMENTS
 300
@@ -14002,7 +13815,7 @@ Vignes
 330.4355.00
 Ventes de la récolte à la cave
 SDOM
-Remplacement du pinot blanc par du Divico, production  prévue dans 3 ans
+Remplacement du pinot blanc par du Divico, production prévue dans 3 ans
 340
 Bâtiments locatifs
 340.3080.00
@@ -14142,7 +13955,7 @@ Compte passé du groupe 350 au groupe créé 351 pour les structures d'accueil
 Frais accessoires UAPE Collège de Vassin
 SDOM
 Compte passé du groupe 350 au groupe créé 351 pour les structures d'accueil
- 
+
 4
 URBANISME ET TRAVAUX PUBLICS
 400
@@ -14304,7 +14117,7 @@ Rive-Reine
 Part. due au SIGE
 SUTP
 En attente budget SIGE - base budget 2025
- 
+
 5
 INSTRUCTION PUBLIQUE ET CULTES
 500
@@ -14412,7 +14225,7 @@ Eglise catholique
 Part. aux frais
 SDOM
 Moins de travaux de réfection planifiés en 2026 que l'année précédente (part de La Tour-de-Peilz).
- 
+
 6
 SÉCURITÉ - POPULATION - FEU
 89
@@ -14502,7 +14315,7 @@ Inhumations
 Traitements auxiliaires
 SUTP
 Indemnités marguiliers, auparavant via compte 640.3011.00
- 
+
 7
 FAMILLE, JEUNESSE, SPORT ET CULTURE
 700
@@ -15217,7 +15030,7 @@ Impôts conjoncturels moyens 2021-2024
 4'661'658
 97
 
-ENDETTEMENT (BRUT)
+ENDETTEMENT (BRUT)
 2024
 2025
 2026
@@ -15225,107 +15038,107 @@ Habitants
 12'812
 13'000
 13'200
-Taux d'impôt communal (%)
+Taux d'impôt communal (%)
 64.00
 64.00
 64.00
-Taux d'impôt foncier (‰)
+Taux d'impôt foncier (‰)
 1.20
 1.20
 1.20
-Valeurs moyennes sur 5 ans (2020‐2024)
-Compte de fonctionnement
-Marge d'auto‐financement moyenne
+Valeurs moyennes sur 5 ans (2020‐2024)
+Compte de fonctionnement
+Marge d'auto‐financement moyenne
 4'054'540
 4'054'540
-Marge d'auto‐financement cumulée
+Marge d'auto‐financement cumulée
 4'054'540
 8'109'079
 Investissements
-Investissements nets (DIN) moyens
+Investissements nets (DIN) moyens
 8'639'909
 8'639'909
-Cumul investissements à financer
+Cumul investissements à financer
 8'639'909
 17'279'819
-Excédent (+) ou insuffisance (‐) de financement
+Excédent (+) ou insuffisance (‐) de financement
 ‐4'585'370
 ‐4'585'370
-Dette brute (921 + 922 + 923)
+Dette brute (921 + 922 + 923)
 56'259'354
 60'844'724
 65'430'094
-Dette brute (921 + 922 + 923) par habitant
+Dette brute (921 + 922 + 923) par habitant
 4'680
 4'957
-Valeurs moyennes sur 10 ans (2014‐2023)
-Compte de fonctionnement
-Marge d'auto‐financement moyenne
+Valeurs moyennes sur 10 ans (2014‐2023)
+Compte de fonctionnement
+Marge d'auto‐financement moyenne
 3'347'652
 3'347'652
-Marge d'auto‐financement cumulée
+Marge d'auto‐financement cumulée
 3'347'652
 6'695'304
 Investissements
-Investissements nets (DIN) moyens
+Investissements nets (DIN) moyens
 6'456'108
 6'456'108
-Cumul investissements à financer
+Cumul investissements à financer
 6'456'108
 12'912'216
-Excédent (+) ou insuffisance (‐) de financement
+Excédent (+) ou insuffisance (‐) de financement
 ‐3'108'456
 ‐3'108'456
-Dette brute (921 + 922 + 923)
+Dette brute (921 + 922 + 923)
 60'234'832
 63'343'288
 66'451'744
-Dette brute (921 + 922 + 923) par habitant
+Dette brute (921 + 922 + 923) par habitant
 4'873
 5'034
 98
 
-ENDETTEMENT (NET)
-Ville de La Tour‐de‐Peilz
-   ENDETTEMENT (NET)
-Comptes 2024 
-   Comptes courants créanciers (9206)
-52'575   
-   Emprunts à court terme (921)
-0   
-   Emprunts à moyen et long termes (922)
-55'000'000   
-   Engagements propres établissements et fonds spéciaux (923)
-1'259'354   
-   Endettement brut (total 1)
-56'311'930   
-   Avoirs disponibles (9102)
-5'040'155   
-   Comptes courants auprès d’autres collectivités publiques (9111)
-145'881   
-   Epargne (titres et placements, 9120)
-1'330   
-   Prêts (placements de capitaux, prêts, 9122)
-0   
-   Prêts et participations permanentes (915)
-1'664'187   
-   Remboursements d'emprunts
-0   
-   Total 2
-6'851'553   
-   Endettement net (total 1 ‐ total 2)
-49'460'377   
-   Habitants au 31.12.N
-12'812   
-   Endettement net par habitant au 31.12.N
-3'860   
-   Plafond d'endettement brut (2021‐2026)
-100'000'000   
+ENDETTEMENT (NET)
+Ville de La Tour‐de‐Peilz
+ENDETTEMENT (NET)
+Comptes 2024 
+Comptes courants créanciers (9206)
+52'575 
+Emprunts à court terme (921)
+0 
+Emprunts à moyen et long termes (922)
+55'000'000 
+Engagements propres établissements et fonds spéciaux (923)
+1'259'354 
+Endettement brut (total 1)
+56'311'930 
+Avoirs disponibles (9102)
+5'040'155 
+Comptes courants auprès d’autres collectivités publiques (9111)
+145'881 
+Epargne (titres et placements, 9120)
+1'330 
+Prêts (placements de capitaux, prêts, 9122)
+0 
+Prêts et participations permanentes (915)
+1'664'187 
+Remboursements d'emprunts
+0 
+Total 2
+6'851'553 
+Endettement net (total 1 ‐ total 2)
+49'460'377 
+Habitants au 31.12.N
+12'812 
+Endettement net par habitant au 31.12.N
+3'860 
+Plafond d'endettement brut (2021‐2026)
+100'000'000 
 99
 
 Plan des investissements et entretien 
 
-PLAN DES INVESTISSEMENTS ET ENTRETIEN (EN MILLIERS DE FR.)
+PLAN DES INVESTISSEMENTS ET ENTRETIEN (EN MILLIERS DE FR.)
 Ligne
 Libellé
 Préavis
@@ -15340,313 +15153,313 @@ Préavis
 2033
 2034
 2035
-2036 et +
+2036 et +
 Total
 général
-   URBANISME ET TRAVAUX PUBLICS
-   Routes et aménagements
+URBANISME ET TRAVAUX PUBLICS
+Routes et aménagements
 2
-   Mise en œuvre plan directeur éclairage public, 2ème étape 
+Mise en œuvre plan directeur éclairage public, 2ème étape 
 26/2025
-565 
-200 
-765 
+565 
+200 
+765 
 3b
-   Assainissement réseau routier selon l'OPB ‐  Revêtements phonoabsorbants
+Assainissement réseau routier selon l'OPB ‐ Revêtements phonoabsorbants
 ‐
-100 
-100 
-100 
-100 
-200 
-200 
-200 
-1'000 
+100 
+100 
+100 
+100 
+200 
+200 
+200 
+1'000 
 4
-   Réaménagement bords du lac (secteur Jardins de l'Oyonne ‐ Bain des Dames), étude et travaux
+Réaménagement bords du lac (secteur Jardins de l'Oyonne ‐ Bain des Dames), étude et travaux
 ‐
-75 
-200 
-200 
-200 
-675 
+75 
+200 
+200 
+200 
+675 
 5a
-   Refonte du carrefour Rte de Chailly ‐ Av. de Pérouge ‐ Ch. du Gregnolet
+Refonte du carrefour Rte de Chailly ‐ Av. de Pérouge ‐ Ch. du Gregnolet
 ‐
-850 
-850 
+850 
+850 
 7
-   Assainissement décharge des Saviez / Villeneuve phase 2
+Assainissement décharge des Saviez / Villeneuve phase 2
 ‐
-50 
-50 
-100 
+50 
+50 
+100 
 8
-   Ch. de Béranges 153 à 172 / aménagement d'un trottoir
+Ch. de Béranges 153 à 172 / aménagement d'un trottoir
 ‐
-150 
-150 
+150 
+150 
 9a
-   Ch. de Muraz / réfection complète chemin 
+Ch. de Muraz / réfection complète chemin 
 14/2025
-140 
-140 
+140 
+140 
 10
-   Aménagement d'un cheminement en rives du lac (Procédures secteur ouest)
+Aménagement d'un cheminement en rives du lac (Procédures secteur ouest)
 1/2021
-25 
-25 
-50 
+25 
+25 
+50 
 11
-   Aménagement d'un cheminement en rives du lac (Réalisation secteur ouest), mesure Agglo PA5 A
+Aménagement d'un cheminement en rives du lac (Réalisation secteur ouest), mesure Agglo PA5 A
 ‐
-1'000 
-2'000 
-3'000 
+1'000 
+2'000 
+3'000 
 12
-   Aménagement d'un cheminement en rives du lac (Etude et procédures secteur est)
+Aménagement d'un cheminement en rives du lac (Etude et procédures secteur est)
 ‐
-100 
-100 
-100 
-100 
-400 
+100 
+100 
+100 
+100 
+400 
 13
-   Aménagement d'un cheminement en rives du lac (Réalisation secteur est), mesure Agglo PA5 A
+Aménagement d'un cheminement en rives du lac (Réalisation secteur est), mesure Agglo PA5 A
 ‐
-1'000 
-2'000 
-3'000 
+1'000 
+2'000 
+3'000 
 17
-   Rempl. pont CFF av. des Baumes ‐ participation communale étude et travaux
+Rempl. pont CFF av. des Baumes ‐ participation communale étude et travaux
 ‐
-25 
-25 
-300 
-350 
+25 
+25 
+300 
+350 
 20a
-   Réfect. Chaussée (après assainissem. Collect.) rue des Terreaux 14/16 av. des Mousquetaires 7/9
+Réfect. Chaussée (après assainissem. Collect.) rue des Terreaux 14/16 av. des Mousquetaires 7/9
 ‐
-100 
-650 
-750 
+100 
+650 
+750 
 23a
-   Réfect. Chaussée (après assainissem. Collect) ch. du Vallon (élargissement+mobilité douce)
+Réfect. Chaussée (après assainissem. Collect) ch. du Vallon (élargissement+mobilité douce)
 ‐
-1'500 
-500 
-2'000 
+1'500 
+500 
+2'000 
 24a
-   Réfect. Chaussée (après assainissem. Collect) ch. des Bulesses inférieur (Baumes ‐ Perrausaz)
+Réfect. Chaussée (après assainissem. Collect) ch. des Bulesses inférieur (Baumes ‐ Perrausaz)
 14/2025
-300 
-300 
+300 
+300 
 25a
-   Réfect. Chaussée (après assainissem. Collect) av. des Mousquetaires 12 à 24
+Réfect. Chaussée (après assainissem. Collect) av. des Mousquetaires 12 à 24
 ‐
-800 
-800 
-1'600 
+800 
+800 
+1'600 
 26
-   Réaménagement ‐ av. des Baumes amont (pont CFF‐Perrausaz) ‐ Mesure Agglo PA5 A
+Réaménagement ‐ av. des Baumes amont (pont CFF‐Perrausaz) ‐ Mesure Agglo PA5 A
 ‐
-100 
-1'500 
-500 
-2'100 
+100 
+1'500 
+500 
+2'100 
 28a
-   Réfect. Chaussée (après assainissem. Collect) av. de Traménaz 1 à 29
+Réfect. Chaussée (après assainissem. Collect) av. de Traménaz 1 à 29
 ‐
-500 
-500 
-1'000 
+500 
+500 
+1'000 
 29a
-   Réfect. Chaussée (après assainissem. Collect) av. de Traménaz 29 à 51 ‐ Mesure Agglo PA5 A Voie verte
+Réfect. Chaussée (après assainissem. Collect) av. de Traménaz 29 à 51 ‐ Mesure Agglo PA5 A Voie verte
 ‐
-600 
-600 
-1'200 
+600 
+600 
+1'200 
 31a
-   Réaménagement Avenue de la Gare ‐ travaux (hors collecteurs)
+Réaménagement Avenue de la Gare ‐ travaux (hors collecteurs)
 ‐
-2'000 
-2'000 
-4'000 
+2'000 
+2'000 
+4'000 
 32a
-   Réfect. Chaussée (après assainissem. Collect) av. de Bel‐Air ‐ Av. de la Cressire inférieure
+Réfect. Chaussée (après assainissem. Collect) av. de Bel‐Air ‐ Av. de la Cressire inférieure
 ‐
-600 
-600 
-1'200 
+600 
+600 
+1'200 
 33a
-   Réfect. Chaussée (après assainissem. Collect) av. de la Cressire supérieure
+Réfect. Chaussée (après assainissem. Collect) av. de la Cressire supérieure
 ‐
-450 
-450 
+450 
+450 
 34a
-   Réfect. Chaussée (après assainissem. Collect) av. de Bel‐Air 3 à 37  (Baumes ‐ Béranges)
+Réfect. Chaussée (après assainissem. Collect) av. de Bel‐Air 3 à 37 (Baumes ‐ Béranges)
 ‐
-450 
-450 
-900 
+450 
+450 
+900 
 35a
-   Réfect. Chaussée (après assainissem. Collect) ch. d'Entre‐deux‐Crêts
+Réfect. Chaussée (après assainissem. Collect) ch. d'Entre‐deux‐Crêts
 ‐
-300 
-300 
+300 
+300 
 36a
-   Réfect. Chaussée après assainissem. EU&EC av. des Alpes ‐ Mesure Agglo PA5 A
+Réfect. Chaussée après assainissem. EU&EC av. des Alpes ‐ Mesure Agglo PA5 A
 ‐
-100 
-100 
-1'500 
-1'500 
-3'200 
+100 
+100 
+1'500 
+1'500 
+3'200 
 37a
-   Réfect. Chaussée (après assainissem. Collect) rue du Château
+Réfect. Chaussée (après assainissem. Collect) rue du Château
 ‐
-500 
-500 
+500 
+500 
 38b
-   Mise en œuvre mesures Plan Directeur de la Mobilité ‐ Mesures diverses
+Mise en œuvre mesures Plan Directeur de la Mobilité ‐ Mesures diverses
 ‐
-200 
-200 
-400 
+200 
+200 
+400 
 39
-   Voie verte intercommunale ‐ études et travaux ‐ tronçon Traménaz 44 ‐  St‐Maurice ‐ Mesure Agglo PA5 A
+Voie verte intercommunale ‐ études et travaux ‐ tronçon Traménaz 44 ‐ St‐Maurice ‐ Mesure Agglo PA5 A
 ‐
-100 
-300 
-300 
-700 
+100 
+300 
+300 
+700 
 40
-   Réfection de la chassée et réaménagement ‐ Grand'Rue ‐ études et travaux ‐ Mesure Agglo PA5 A
+Réfection de la chassée et réaménagement ‐ Grand'Rue ‐ études et travaux ‐ Mesure Agglo PA5 A
 ‐
-100 
-100 
-950 
-950 
-2'100 
+100 
+100 
+950 
+950 
+2'100 
 42a
-   Réfect. Chaussée (après assainissem. Collect) et réaménagement ch. des Murs Blanc et ch. de Vassin
+Réfect. Chaussée (après assainissem. Collect) et réaménagement ch. des Murs Blanc et ch. de Vassin
 ‐
-1'600 
-1'000 
-2'600 
+1'600 
+1'000 
+2'600 
 43a
-   Réfect. Chaussée rte de Saint‐Maurice ‐ Mesure Agglo PA5 B Voie verte
+Réfect. Chaussée rte de Saint‐Maurice ‐ Mesure Agglo PA5 B Voie verte
 ‐
-100 
-100 
-2'000 
-2'000 
-4'200 
+100 
+100 
+2'000 
+2'000 
+4'200 
 44a
-   Réfect. Chaussée av. de Perrausaz 
+Réfect. Chaussée av. de Perrausaz 
 ‐
-100 
-100 
-1'900 
-1'900 
-4'000 
+100 
+100 
+1'900 
+1'900 
+4'000 
 45a
-   Réfect. Chaussée av. de Pérouge
+Réfect. Chaussée av. de Pérouge
 ‐
-500 
-2'000 
-2'500 
+500 
+2'000 
+2'500 
 46a
-   Réfect. Chaussée av. Baumes aval 1 à 13 ‐ études et travaux ‐ Mesure Agglo PA5 A
+Réfect. Chaussée av. Baumes aval 1 à 13 ‐ études et travaux ‐ Mesure Agglo PA5 A
 ‐
-100 
-100 
-1'500 
-500 
-2'200 
+100 
+100 
+1'500 
+500 
+2'200 
 47a
-   Réfect. Chaussée rte de Blonay
+Réfect. Chaussée rte de Blonay
 ‐
-1'000 
-1'500 
-2'500 
+1'000 
+1'500 
+2'500 
 48a
-   Réfect. Chaussée ch. de Béranges inférieur (Pont CFF ‐ Perrausaz)
+Réfect. Chaussée ch. de Béranges inférieur (Pont CFF ‐ Perrausaz)
 ‐
-750 
-750 
-1'500 
+750 
+750 
+1'500 
 49
-   Réaménagement de la déchetterie La Faraz, études et travaux
+Réaménagement de la déchetterie La Faraz, études et travaux
 ‐
-100 
-600 
-600 
-1'300 
+100 
+600 
+600 
+1'300 
 56
-   Déploiement écopoints récolte déchets verts ménagers (Gastrovert Private)
+Déploiement écopoints récolte déchets verts ménagers (Gastrovert Private)
 ‐
-300 
-400 
-700 
+300 
+400 
+700 
 57
-   Création d'une microforêt au cimetière de Vassin
+Création d'une microforêt au cimetière de Vassin
 20/2025
-62 
-62 
+62 
+62 
 58
-   Requalification de la rue de l'Oyonne et intégration Vélolac ‐ Mesure Agglo PA5 A, études ‐ travaux
+Requalification de la rue de l'Oyonne et intégration Vélolac ‐ Mesure Agglo PA5 A, études ‐ travaux
 ‐
-50 
-300 
-370 
-720 
+50 
+300 
+370 
+720 
 59
-   Réaménagement et sécurisation ‐ Quai Roussy et Place du Four ‐ Mesure Agglo PA5 B
+Réaménagement et sécurisation ‐ Quai Roussy et Place du Four ‐ Mesure Agglo PA5 B
 ‐
-50 
-500 
-500 
-1'050 
-   Sous‐total
-7'742 
-8'125 
-6'375 
-7'450 
-4'900 
-4'150 
-4'770 
-6'100 
-4'900 
-2'000 
+50 
+500 
+500 
+1'050 
+Sous‐total
+7'742 
+8'125 
+6'375 
+7'450 
+4'900 
+4'150 
+4'770 
+6'100 
+4'900 
+2'000 
 56'512
-   Lacs, cours d’eau et égouts
+Lacs, cours d’eau et égouts
 5b
-   Carrefour Rte de Chailly ‐ Av. de Pérouge ‐ Ch. du Gregnolet, adaptations EC et ruisseau Sully
+Carrefour Rte de Chailly ‐ Av. de Pérouge ‐ Ch. du Gregnolet, adaptations EC et ruisseau Sully
 ‐
-100 
-100 
+100 
+100 
 20b
-   Mise en séparatif EU+EC rue des Terreaux 14/16 ‐ av. des Mousquetaires 7/9
+Mise en séparatif EU+EC rue des Terreaux 14/16 ‐ av. des Mousquetaires 7/9
 ‐
-100 
-600 
-700 
+100 
+600 
+700 
 23b
-   Assainissem. Collect. EU+EC ch. du Vallon (mise en séparatif partielle)
+Assainissem. Collect. EU+EC ch. du Vallon (mise en séparatif partielle)
 ‐
-200 
-200 
+200 
+200 
 24b
-   Séparatif EU+EC ch. des Bulesses inférieur +  Baumes 19 à 35 + Levant 1‐5
+Séparatif EU+EC ch. des Bulesses inférieur + Baumes 19 à 35 + Levant 1‐5
 14/2025
-300 
-300 
-Page 1/3
-17.09.2025 15:48
+300 
+300 
+Page 1/3
+17.09.2025 15:48
 101
 
-PLAN DES INVESTISSEMENTS ET ENTRETIEN (EN MILLIERS DE FR.)
+PLAN DES INVESTISSEMENTS ET ENTRETIEN (EN MILLIERS DE FR.)
 Ligne
 Libellé
 Préavis
@@ -15661,297 +15474,297 @@ Préavis
 2033
 2034
 2035
-2036 et +
+2036 et +
 Total
 général
 25b
-   Mise en séparatif EU+EC av. des Mousquetaires 12 à 24
+Mise en séparatif EU+EC av. des Mousquetaires 12 à 24
 ‐
-400 
-300 
-700 
+400 
+300 
+700 
 28b
-   Mise en séparatif EU+EC ‐ Av. de Traménaz 1 à 29
+Mise en séparatif EU+EC ‐ Av. de Traménaz 1 à 29
 ‐
-500 
-400 
-900 
+500 
+400 
+900 
 29b
-   Mise en séparatif EU+EC ‐ Av. de Traménaz 29 à 51
+Mise en séparatif EU+EC ‐ Av. de Traménaz 29 à 51
 ‐
-500 
-500 
-1'000 
+500 
+500 
+1'000 
 31b
-   Avenue de la Gare ‐ travaux EC/EU
+Avenue de la Gare ‐ travaux EC/EU
 ‐
-300 
-300 
+300 
+300 
 32b
-   Mise en séparatif EU+EC ‐ Av. de Bel‐Air ‐ Av. de la Cressire inférieure
+Mise en séparatif EU+EC ‐ Av. de Bel‐Air ‐ Av. de la Cressire inférieure
 ‐
-200 
-350 
-550 
+200 
+350 
+550 
 33b
-   Mise en séparatif EU+EC ‐ Av. de la Cressire supérieure
+Mise en séparatif EU+EC ‐ Av. de la Cressire supérieure
 ‐
-400 
-400 
+400 
+400 
 34b
-   Mise en séparatif EU+EC ‐ Av. de Bel‐Air 3 à 37  (Baumes ‐ Béranges)
+Mise en séparatif EU+EC ‐ Av. de Bel‐Air 3 à 37 (Baumes ‐ Béranges)
 ‐
-400 
-400 
-800 
+400 
+400 
+800 
 35b
-   Assainissem. Collect. EU+EC ch. dEntre‐deux‐Crêts
+Assainissem. Collect. EU+EC ch. dEntre‐deux‐Crêts
 ‐
-400 
-400 
+400 
+400 
 36b
-   Mise en séparatif EU+EC ‐ Av. des Alpes
+Mise en séparatif EU+EC ‐ Av. des Alpes
 ‐
-800 
-800 
-1'600 
+800 
+800 
+1'600 
 37b
-   Assainissement collecteurs rue du Château
+Assainissement collecteurs rue du Château
 ‐
-200 
-200 
+200 
+200 
 42b
-   Mise en séparatif et réfection collecteurs ‐ ch. des Murs‐Blancs et ch. de Vassin
+Mise en séparatif et réfection collecteurs ‐ ch. des Murs‐Blancs et ch. de Vassin
 ‐
-800 
-800 
+800 
+800 
 44b
-   Assainissement collecteurs ‐ Av. de Perrausaz
+Assainissement collecteurs ‐ Av. de Perrausaz
 ‐
-200 
-200 
-400 
+200 
+200 
+400 
 45b
-   Assainissement collecteurs ‐ Av. de Pérouge
+Assainissement collecteurs ‐ Av. de Pérouge
 ‐
-200 
-200 
+200 
+200 
 46b
-   Assainissement collecteurs ‐ Av. des Baumes aval 1 à 13
+Assainissement collecteurs ‐ Av. des Baumes aval 1 à 13
 ‐
-250 
-250 
+250 
+250 
 47b
-   Assainissement collecteurs ‐ Route de Blonay
+Assainissement collecteurs ‐ Route de Blonay
 ‐
-300 
-300 
+300 
+300 
 48b
-   Assainissement collecteurs ch. de Béranges inférieur (pont CFF ‐ Perrausaz)
+Assainissement collecteurs ch. de Béranges inférieur (pont CFF ‐ Perrausaz)
 ‐
-200 
-200 
+200 
+200 
 50
-   Renaturation embouchure Oyonne, étude et travaux
+Renaturation embouchure Oyonne, étude et travaux
 ‐
-50 
-200 
-250 
+50 
+200 
+250 
 52
-   ECF Ruisseau de L'Ognona ‐ participation communale ‐ travaux
+ECF Ruisseau de L'Ognona ‐ participation communale ‐ travaux
 ‐
-25 
-50 
-75 
+25 
+50 
+75 
 55
-   Revitalisation et agrandissement grève de la Maladaire, travaux communaux
+Revitalisation et agrandissement grève de la Maladaire, travaux communaux
 ‐
-200 
-200 
-   Sous‐total
-2'050 
-2'325 
-1'150 
-1'650 
-1'700 
-650 
-700 
-200 
-200 
-200 
+200 
+200 
+Sous‐total
+2'050 
+2'325 
+1'150 
+1'650 
+1'700 
+650 
+700 
+200 
+200 
+200 
 10'825
-   TOTAL URBANISME ET TRAVAUX PUBLICS
-9'792 
-10'450 
-7'525 
-9'100 
-6'600 
-4'800 
-5'470 
-6'300 
-5'100 
-2'200 
-67'337 
-   DOMAINES ET BÂTIMENTS
-   Bâtiments d’utilité publique
+TOTAL URBANISME ET TRAVAUX PUBLICS
+9'792 
+10'450 
+7'525 
+9'100 
+6'600 
+4'800 
+5'470 
+6'300 
+5'100 
+2'200 
+67'337 
+DOMAINES ET BÂTIMENTS
+Bâtiments d’utilité publique
 10
-   Maison Hugonin / réfection enveloppe extérieure et aménagement intérieur
+Maison Hugonin / réfection enveloppe extérieure et aménagement intérieur
 ‐
-800 
-200 
-1'000 
+800 
+200 
+1'000 
 33
-   Maison Charlemagne, transformation /rénovation
+Maison Charlemagne, transformation /rénovation
 14/2024
-2'300 
-1'600 
-3'900 
+2'300 
+1'600 
+3'900 
 12a
-   Château de La Tour / crédit d'étude /crédit de construction/rénovation
+Château de La Tour / crédit d'étude /crédit de construction/rénovation
 28/2017
-540 
-2'000 
-2'000 
-3'000 
-1'000 
-8'540 
+540 
+2'000 
+2'000 
+3'000 
+1'000 
+8'540 
 12b
-   Château de La Tour crédit restauration donjon
+Château de La Tour crédit restauration donjon
 16/2025
-100 
-156 
-256 
+100 
+156 
+256 
 14
-   Ch. de Béranges 111 / assainissement énergétique et réaméagement intérieur et serres
+Ch. de Béranges 111 / assainissement énergétique et réaméagement intérieur et serres
 ‐
-1'500 
-1'100 
-2'600 
+1'500 
+1'100 
+2'600 
 16
-   Restaurant de la Maladaire / démolition + nlle construction
+Restaurant de la Maladaire / démolition + nlle construction
 ‐
-200 
-2'000 
-2'000 
-4'200 
+200 
+2'000 
+2'000 
+4'200 
 17
-   Garderie du Gregnolet 
+Garderie du Gregnolet 
 24/2024
-4'100 
-400 
-4'500 
+4'100 
+400 
+4'500 
 18
-   Centre de Vassin
+Centre de Vassin
 ‐
-100 
-200 
-300 
+100 
+200 
+300 
 19
-   Maison des aînés, Escale et appartement adaptés
+Maison des aînés, Escale et appartement adaptés
 ‐
-100 
-2'000 
-5'000 
-5'000 
-2'900 
-15'000 
+100 
+2'000 
+5'000 
+5'000 
+2'900 
+15'000 
 22
-   Création d'une nouvelle crèche, remplacé par 23
+Création d'une nouvelle crèche, remplacé par 23
 ‐
 23
-   Centre d'accueil pré et parascolaire (sur le site actuel Yakari et Cadet Rousselle)
+Centre d'accueil pré et parascolaire (sur le site actuel Yakari et Cadet Rousselle)
 ‐
-500 
-3'000 
-3'000 
-3'000 
-9'500 
+500 
+3'000 
+3'000 
+3'000 
+9'500 
 24
-   Mousquetaires UAPE et réfection de la cour
+Mousquetaires UAPE et réfection de la cour
 ‐
-450 
-1'000 
-1'200 
-1'200 
-3'850 
+450 
+1'000 
+1'200 
+1'200 
+3'850 
 25
-   Edicule Jardin Roussy extension
+Edicule Jardin Roussy extension
 ‐
-300 
-300 
-   Sous‐total
-7'140 
-9'506 
-12'800 
-12'400 
-10'100 
-2'000 
-53'946 
-   Bâtiments d’utilité scolaire
+300 
+300 
+Sous‐total
+7'140 
+9'506 
+12'800 
+12'400 
+10'100 
+2'000 
+53'946 
+Bâtiments d’utilité scolaire
 30
-   Collège des Mousquetaires création de 5 classes supplémentaires et d'un nouveau couvert
+Collège des Mousquetaires création de 5 classes supplémentaires et d'un nouveau couvert
 27/2024
-2'450 
-300 
-2'750 
+2'450 
+300 
+2'750 
 32
-   Collège des Mousquetaires assainissement des façades (vitrages)
+Collège des Mousquetaires assainissement des façades (vitrages)
 27/2024
-1'200 
-1'200 
+1'200 
+1'200 
 35
-   Complexe sportif de Bel‐Air refection toiture buvette et installation solaire
+Complexe sportif de Bel‐Air refection toiture buvette et installation solaire
 ‐
-200 
-200 
+200 
+200 
 36
-   Complexe sportif de Bel‐Air réaménagement infrastructures sportives
+Complexe sportif de Bel‐Air réaménagement infrastructures sportives
 ‐
-400 
-1'600 
-2'000 
+400 
+1'600 
+2'000 
 37
-   Collège de Bel‐Air/rénovation ‐ assainissement
+Collège de Bel‐Air/rénovation ‐ assainissement
 ‐
-300 
-2'000 
-1'900 
-4'200 
+300 
+2'000 
+1'900 
+4'200 
 38
-   Collège de Bel‐Air extension‐nouvelle construction
+Collège de Bel‐Air extension‐nouvelle construction
 ‐
-450 
-900 
-2'000 
-1'200 
-4'550 
+450 
+900 
+2'000 
+1'200 
+4'550 
 39
-   Collèges /remplacement de l'éclairage fluorescent par du LED
+Collèges /remplacement de l'éclairage fluorescent par du LED
 37/2024
-300 
-350 
-650 
+300 
+350 
+650 
 40
-   Collège de Marronniers assainissement énergétique et salle de gym
+Collège de Marronniers assainissement énergétique et salle de gym
 ‐
-100 
-700 
-600 
-1'400 
+100 
+700 
+600 
+1'400 
 41
-   Complexe sportif des Mousquetaires assainissement énergétique et technique piscine
+Complexe sportif des Mousquetaires assainissement énergétique et technique piscine
 ‐
-100 
-100 
-600 
-200 
-1'000 
-2'000 
-Page 2/3
-17.09.2025 15:48
+100 
+100 
+600 
+200 
+1'000 
+2'000 
+Page 2/3
+17.09.2025 15:48
 102
 
-PLAN DES INVESTISSEMENTS ET ENTRETIEN (EN MILLIERS DE FR.)
+PLAN DES INVESTISSEMENTS ET ENTRETIEN (EN MILLIERS DE FR.)
 Ligne
 Libellé
 Préavis
@@ -15966,280 +15779,280 @@ Préavis
 2033
 2034
 2035
-2036 et +
+2036 et +
 Total
 général
 42
-   Collège de Bel‐Air II (nouveau)
+Collège de Bel‐Air II (nouveau)
 ‐
-150 
-350 
-500 
-500 
-2'000 
-10'000 
-8'000 
-500 
-22'000 
+150 
+350 
+500 
+500 
+2'000 
+10'000 
+8'000 
+500 
+22'000 
 43
-   Courbet Extension
+Courbet Extension
 ‐
-7'000 
-7'000 
+7'000 
+7'000 
 44
-   Collège des Mousquetaires installation des tableaux interactifs
+Collège des Mousquetaires installation des tableaux interactifs
 ‐
-180 
-180 
-   Sous‐total
-3'950 
-1'580 
-1'400 
-4'650 
-3'850 
-4'100 
-1'100 
-2'000 
-10'000 
-8'000 
-500 
-7'000 
+180 
+180 
+Sous‐total
+3'950 
+1'580 
+1'400 
+4'650 
+3'850 
+4'100 
+1'100 
+2'000 
+10'000 
+8'000 
+500 
+7'000 
 48'130
-   Bâtiments locatifs
+Bâtiments locatifs
 50a
-   Assainissement et rénovation parc immobilier locatif (motion Eugster)
+Assainissement et rénovation parc immobilier locatif (motion Eugster)
 22/2022
-1'800 
-3'000 
-3'000 
-2'000 
-9'800 
+1'800 
+3'000 
+3'000 
+2'000 
+9'800 
 50b
-   Assainissement et rénovation parc immobilier locatif 2ème étape
+Assainissement et rénovation parc immobilier locatif 2ème étape
 ‐
-500 
-500 
-1'000 
-1'000 
-1'000 
-1'000 
-5'000 
-   Sous‐total
-1'800 
-3'000 
-3'000 
-2'000 
-500 
-500 
-1'000 
-1'000 
-1'000 
-1'000 
+500 
+500 
+1'000 
+1'000 
+1'000 
+1'000 
+5'000 
+Sous‐total
+1'800 
+3'000 
+3'000 
+2'000 
+500 
+500 
+1'000 
+1'000 
+1'000 
+1'000 
 14'800
-   Patrimoine
+Patrimoine
 60
-   Maison de maître du domaine de Villard
+Maison de maître du domaine de Villard
 ‐
-200 
-2'800 
-3'000 
+200 
+2'800 
+3'000 
 61
-   Grange de Villard
+Grange de Villard
 ‐
-3'000 
-3'000 
-   Sous‐total
-200 
-5'800 
+3'000 
+3'000 
+Sous‐total
+200 
+5'800 
 6'000
-   Chalets d’alpages
+Chalets d’alpages
 70
-   ‐
 ‐
-   Sous‐total
-   Divers ‐ Terrains non bâtis
+‐
+Sous‐total
+Divers ‐ Terrains non bâtis
 80
-   Cimetière ‐ aménagement secteur entretien jardiner, assanissement des bâtiments et installations
+Cimetière ‐ aménagement secteur entretien jardiner, assanissement des bâtiments et installations
 ‐
-100 
-300 
-400 
-800 
+100 
+300 
+400 
+800 
 81
-   Suppression et remplacement des chaudières à mazout
+Suppression et remplacement des chaudières à mazout
 ‐
-500 
-500 
-500 
-1'500 
+500 
+500 
+500 
+1'500 
 82
-   Acquisitions immobilière
+Acquisitions immobilière
 ‐
-3'000 
-3'000 
-3'000 
-3'000 
-12'000 
+3'000 
+3'000 
+3'000 
+3'000 
+12'000 
 84
-   Aménagements de la Faraz
+Aménagements de la Faraz
 ‐
-300 
-100 
-400 
-   Sous‐total
-3'800 
-3'700 
-3'800 
-3'400 
+300 
+100 
+400 
+Sous‐total
+3'800 
+3'700 
+3'800 
+3'400 
 14'700
-   TOTAL DOMAINES ET BÂTIMENTS
-12'890 
-18'086 
-26'700 
-22'850 
-17'850 
-6'600 
-2'100 
-3'000 
-11'000 
-9'000 
-500 
-7'000 
-137'576 
-   FINANCES
-   Informatique
+TOTAL DOMAINES ET BÂTIMENTS
+12'890 
+18'086 
+26'700 
+22'850 
+17'850 
+6'600 
+2'100 
+3'000 
+11'000 
+9'000 
+500 
+7'000 
+137'576 
+FINANCES
+Informatique
 1
-   Nouveau datacenter Collège Courbet
+Nouveau datacenter Collège Courbet
 ‐
-150 
-150 
-300 
+150 
+150 
+300 
 2
-   Raccordement des sites externes en fibre optique au datacenter
+Raccordement des sites externes en fibre optique au datacenter
 ‐
-25 
-25 
-25 
-25 
-100 
+25 
+25 
+25 
+25 
+100 
 3
-   Remplacement serveurs et stockage existants (remplacés en 2023 et 2024)
+Remplacement serveurs et stockage existants (remplacés en 2023 et 2024)
 ‐
-50 
-50 
-100 
+50 
+50 
+100 
 4
-   Solutions surveillance réseaux/systèmes/cybersécurité
+Solutions surveillance réseaux/systèmes/cybersécurité
 ‐
-25 
-25 
-25 
-25 
-25 
-25 
-25 
-25 
-25 
-25 
-25 
-275 
+25 
+25 
+25 
+25 
+25 
+25 
+25 
+25 
+25 
+25 
+25 
+275 
 5
-   Remplacement de postes de travail
+Remplacement de postes de travail
 ‐
-50 
-50 
-50 
-50 
-50 
-50 
-50 
-50 
-50 
-50 
-50 
-550 
+50 
+50 
+50 
+50 
+50 
+50 
+50 
+50 
+50 
+50 
+50 
+550 
 6
-   Nouvelle version Microsoft Office 2024 LTSC (rempl. version 2016)
+Nouvelle version Microsoft Office 2024 LTSC (rempl. version 2016)
 ‐
-75 
-100 
-175 
+75 
+100 
+175 
 7
-   Nouvelle versions Microsoft Windows 11 (rempl. version 10)
+Nouvelle versions Microsoft Windows 11 (rempl. version 10)
 ‐
-50 
-25 
-100 
-175 
+50 
+25 
+100 
+175 
 8
-   Evolutions ERP (logiciel gestion du temps)
+Evolutions ERP (logiciel gestion du temps)
 ‐
-25 
-25 
+25 
+25 
 9
-   Introduction d'une GED administrative pour les services
+Introduction d'une GED administrative pour les services
 ‐
-50 
-50 
-50 
-50 
-200 
+50 
+50 
+50 
+50 
+200 
 10
-   Nouvelles normes comptables MCH2 et évolution ERP (ProConcept) ‐> 2029
+Nouvelles normes comptables MCH2 et évolution ERP (ProConcept) ‐> 2029
 ‐
-25 
-25 
-25 
-25 
-100 
+25 
+25 
+25 
+25 
+100 
 11
-   E‐guichet (cyberadministration)
+E‐guichet (cyberadministration)
 ‐
-25 
-25 
-50 
-50 
-150 
-   Sous‐total
-150 
-200 
-325 
-375 
-225 
-200 
-175 
-75 
-75 
-175 
-175 
+25 
+25 
+50 
+50 
+150 
+Sous‐total
+150 
+200 
+325 
+375 
+225 
+200 
+175 
+75 
+75 
+175 
+175 
 2'150
-   TOTAL FINANCES
-150 
-200 
-325 
-375 
-225 
-200 
-175 
-75 
-75 
-175 
-175 
-2'150 
-   TOTAL GÉNÉRAL
-13'040 
-28'078 
-37'475 
-30'750 
-27'175 
-13'400 
-7'075 
-8'545 
-17'375 
-14'275 
-2'875 
-7'000 
-207'063 
-Page 3/3
-17.09.2025 15:48
+TOTAL FINANCES
+150 
+200 
+325 
+375 
+225 
+200 
+175 
+75 
+75 
+175 
+175 
+2'150 
+TOTAL GÉNÉRAL
+13'040 
+28'078 
+37'475 
+30'750 
+27'175 
+13'400 
+7'075 
+8'545 
+17'375 
+14'275 
+2'875 
+7'000 
+207'063 
+Page 3/3
+17.09.2025 15:48
 103

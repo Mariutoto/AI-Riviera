@@ -237,13 +237,13 @@ Un poste de coordinateur·trice des manifestations à 60 %, rattaché au Greffe 
 logistiques en lien avec les manifestations. Du côté de l’ABCDé, il est prévu d’activer un poste de stagiaire 
 bachelor pour un projet en lien avec la classification des objets. D’autre part, un taux d’activité supplémentaire 
 de 30 % est nécessaire au sein du Secteur conciergerie afin de renforcer l’équipe de nettoyage entre la salle des 
-Remparts, le collège Courbet ainsi que le bâtiment de Vassin.  
+Remparts, le collège Courbet ainsi que le bâtiment de Vassin. 
 Par ailleurs et comme prévu selon le préavis N° 2/2025, le poste de chef de projet architecte à 100 % et celui de 
 dessinateur en bâtiments à 60 % au sein du Service des domaines et bâtiments deviennent pérennes et sont 
 ainsi intégrés au budget. 
 Pour terminer, des reclassifications et promotions en faveur de 8 membres du personnel communal, des 
 réserves pour un total d’1 EPT pour palier la perte de taux d’activité suite à différents départs ainsi que les primes 
-d’ancienneté et de départ à la retraite ont été comptabilisées au budget.  
+d’ancienneté et de départ à la retraite ont été comptabilisées au budget. 
 5
 
 PRÉAVIS MUNICIPAL N° 30/2025 
@@ -720,8 +720,7 @@ Dette brute (921 + 922 + 923) par habitant
 8
 
 PRÉAVIS MUNICIPAL N° 30/2025 
- 
- 
+
 Selon le tableau ci-dessus, l'endettement de la Commune pourrait se situer entre Fr. 65 et 66 mios à la fin de 
 la législature 2021-2026, par rapport au plafond d'endettement de Fr. 100 mios. 
 A noter que dans les comptes 2024, les investissements nets (dépenses moins recettes, hors amortissements) 
@@ -738,43 +737,41 @@ Commune.
 Voici le tableau de l'endettement net selon la méthode proposée par l'Union des communes vaudoises (UCV). 
 Etant donné que les calculs se basent sur des comptes à l'actif et au passif du bilan, qui ne sont pas projetés dans 
 le cadre de l'établissement du budget, les chiffres sont fournis selon les comptes 2024. 
- 
- 
- 
-   ENDETTEMENT (NET)
+
+ENDETTEMENT (NET)
 Comptes 2024 
-   Comptes courants créanciers (9206)
-52'575   
-   Emprunts à court terme (921)
-0   
-   Emprunts à moyen et long termes (922)
-55'000'000   
-   Engagements propres établissements et fonds spéciaux (923)
-1'259'354   
-   Endettement brut (total 1)
-56'311'930   
-   Avoirs disponibles (9102)
-5'040'155   
-   Comptes courants auprès d’autres collectivités publiques (9111)
-145'881   
-   Epargne (titres et placements, 9120)
-1'330   
-   Prêts (placements de capitaux, prêts, 9122)
-0   
-   Prêts et participations permanentes (915)
-1'664'187   
-   Remboursements d'emprunts
-0   
-   Total 2
-6'851'553   
-   Endettement net (total 1 - total 2)
-49'460'377   
-   Habitants au 31.12.N
-12'812   
-   Endettement net par habitant au 31.12.N
-3'860   
-   Plafond d'endettement brut (2021-2026)
-100'000'000   
+Comptes courants créanciers (9206)
+52'575 
+Emprunts à court terme (921)
+0 
+Emprunts à moyen et long termes (922)
+55'000'000 
+Engagements propres établissements et fonds spéciaux (923)
+1'259'354 
+Endettement brut (total 1)
+56'311'930 
+Avoirs disponibles (9102)
+5'040'155 
+Comptes courants auprès d’autres collectivités publiques (9111)
+145'881 
+Epargne (titres et placements, 9120)
+1'330 
+Prêts (placements de capitaux, prêts, 9122)
+0 
+Prêts et participations permanentes (915)
+1'664'187 
+Remboursements d'emprunts
+0 
+Total 2
+6'851'553 
+Endettement net (total 1 - total 2)
+49'460'377 
+Habitants au 31.12.N
+12'812 
+Endettement net par habitant au 31.12.N
+3'860 
+Plafond d'endettement brut (2021-2026)
+100'000'000 
 9
 
 PRÉAVIS MUNICIPAL N° 30/2025 
@@ -1191,80 +1188,80 @@ Total des revenus
 -1.26%
 3'067'507
 3.75%
-   CHARGES
-B26 (v1/Mun)   
-B25 (v2/Cc)   
-Ecart (Fr)   
-Ecart (%)   
-B26/Total (%)   
-B25/Total (%)   
+CHARGES
+B26 (v1/Mun) 
+B25 (v2/Cc) 
+Ecart (Fr) 
+Ecart (%) 
+B26/Total (%) 
+B25/Total (%) 
 30
-   Autorités et personnel
-19'729'645   
-19'122'340   
-607'305   
-3.18 %   
-23.42 %   
-22.35 %   
+Autorités et personnel
+19'729'645 
+19'122'340 
+607'305 
+3.18 % 
+23.42 % 
+22.35 % 
 31
-   Biens, services, marchandises
-11'696'398   
-10'925'722   
-770'676   
-7.05 %   
-13.88 %   
-12.77 %   
+Biens, services, marchandises
+11'696'398 
+10'925'722 
+770'676 
+7.05 % 
+13.88 % 
+12.77 % 
 32
-   Intérêts passifs
-522'502   
-616'750   
+Intérêts passifs
+522'502 
+616'750 
 -94'248
 -15.28 %
-0.62 %   
-0.72 %   
+0.62 % 
+0.72 % 
 33
-   Amortissements
-8'155'420   
-10'883'620   
+Amortissements
+8'155'420 
+10'883'620 
 -2'728'200
 -25.07 %
-9.68 %   
-12.72 %   
+9.68 % 
+12.72 % 
 35
-   Part. et remb. collectivités publiques
-34'524'580   
-34'803'800   
+Part. et remb. collectivités publiques
+34'524'580 
+34'803'800 
 -279'220
 -0.80 %
-40.98 %   
-40.68 %   
+40.98 % 
+40.68 % 
 36
-   Aides et subventions
-6'753'410   
-6'278'756   
+Aides et subventions
+6'753'410 
+6'278'756 
 474'654
 7.56 %
-8.02 %   
-7.34 %   
+8.02 % 
+7.34 % 
 38
-   Attributions aux fonds et fin. spéciaux
-2'152'075   
-2'238'525   
+Attributions aux fonds et fin. spéciaux
+2'152'075 
+2'238'525 
 -86'450
 -3.86 %
-2.55 %   
-2.62 %   
+2.55 % 
+2.62 % 
 39
-   Imputations internes
-719'400   
-688'150   
+Imputations internes
+719'400 
+688'150 
 31'250
 4.54 %
-0.85 %   
-0.80 %   
-   Total
-84'253'430   
-85'557'663   
+0.85 % 
+0.80 % 
+Total
+84'253'430 
+85'557'663 
 -1'304'233
 -1.52 %
 11
@@ -1291,215 +1288,212 @@ Aides et subventions
 Les principaux montants compris dans ce poste sont les subventions versées à Montreux-Vevey Tourisme, au 
 Fonds culturel Riviera, à la Fondation du Musée suisse du jeu, au Centre de loisirs pour seniors "L'Escale" ainsi 
 que la couverture des déficits des lignes de transports urbains (VMCV). 
-   CHARGES
-B26 (v1/Mun)   
-B25 (v2/Cc)   
-C24   
-C23   
-C22   
+CHARGES
+B26 (v1/Mun) 
+B25 (v2/Cc) 
+C24 
+C23 
+C22 
 30
-   Autorités et personnel
-19'729'645   
-19'122'340   
-17'635'812   
-16'783'927   
-15'637'252   
+Autorités et personnel
+19'729'645 
+19'122'340 
+17'635'812 
+16'783'927 
+15'637'252 
 31
-   Biens, services, marchandises
-11'696'398   
-10'925'722   
-9'383'591   
-9'188'493   
-9'080'742   
+Biens, services, marchandises
+11'696'398 
+10'925'722 
+9'383'591 
+9'188'493 
+9'080'742 
 32
-   Intérêts passifs
-522'502   
-616'750   
-490'745   
-371'007   
-279'469   
+Intérêts passifs
+522'502 
+616'750 
+490'745 
+371'007 
+279'469 
 35
-   Part. et remb. collectivités publiques
-34'524'580   
-34'803'800   
-41'073'545   
-41'785'782   
-39'029'891   
+Part. et remb. collectivités publiques
+34'524'580 
+34'803'800 
+41'073'545 
+41'785'782 
+39'029'891 
 36
-   Aides et subventions
-6'753'410   
-6'278'756   
-5'830'025   
-5'604'135   
-5'242'962   
-   Total
-73'226'535   
-71'747'368   
-74'413'718   
-73'733'344   
-69'270'317   
+Aides et subventions
+6'753'410 
+6'278'756 
+5'830'025 
+5'604'135 
+5'242'962 
+Total
+73'226'535 
+71'747'368 
+74'413'718 
+73'733'344 
+69'270'317 
 12
 
 PRÉAVIS MUNICIPAL N° 30/2025 
- 
+
 4.3. Revenus par natures, évolution, analyse 
 Les revenus par nature évoluent comme suit : 
- 
+
 Voici la répartition graphique des revenus par nature : 
- 
+
 Evolution des revenus nets (sans prélèvements sur fonds de réserve et imputations internes) 
 Les revenus nets augmentent de Fr. 1.27 mio ou 1.81% : 
- 
- 
- 
- 
-   REVENUS
-B26 (v1/Mun)   
-B25 (v2/Cc)   
-Ecart   
-%   
-B26/Total (%)   
-B25/Total (%)   
+
+REVENUS
+B26 (v1/Mun) 
+B25 (v2/Cc) 
+Ecart 
+% 
+B26/Total (%) 
+B25/Total (%) 
 40
-   Impôts
-55'415'000   
-54'673'000   
-742'000   
-1.36 %   
-65.32 %   
-63.63 %   
+Impôts
+55'415'000 
+54'673'000 
+742'000 
+1.36 % 
+65.32 % 
+63.63 % 
 41
-   Patentes, concessions
-413'000   
-402'000   
-11'000   
-2.74 %   
-0.49 %   
-0.47 %   
+Patentes, concessions
+413'000 
+402'000 
+11'000 
+2.74 % 
+0.49 % 
+0.47 % 
 42
-   Revenus du patrimoine
-4'580'220   
-4'360'375   
-219'845   
-5.04 %   
-5.40 %   
-5.07 %   
+Revenus du patrimoine
+4'580'220 
+4'360'375 
+219'845 
+5.04 % 
+5.40 % 
+5.07 % 
 43
-   Taxes, émoluments, produits des ventes
-5'669'985   
-5'849'769   
--179'784   
--3.07 %   
-6.68 %   
-6.81 %   
+Taxes, émoluments, produits des ventes
+5'669'985 
+5'849'769 
+-179'784 
+-3.07 % 
+6.68 % 
+6.81 % 
 44
-   Parts à des recettes cantonales
-1'440'000   
-1'350'000   
-90'000   
-6.67 %   
-1.70 %   
-1.57 %   
+Parts à des recettes cantonales
+1'440'000 
+1'350'000 
+90'000 
+6.67 % 
+1.70 % 
+1.57 % 
 45
-   Part. et remb. collectivités publiques
-3'746'100   
-3'363'600   
-382'500   
-11.37 %   
-4.42 %   
-3.91 %   
+Part. et remb. collectivités publiques
+3'746'100 
+3'363'600 
+382'500 
+11.37 % 
+4.42 % 
+3.91 % 
 46
-   Autres prestations et subventions
-113'000   
-113'000   
-0.13 %   
-0.13 %   
+Autres prestations et subventions
+113'000 
+113'000 
+0.13 % 
+0.13 % 
 48
-   Prélèvements sur fonds et fin. spéciaux
-12'744'540   
-15'122'325   
--2'377'785   
--15.72 %   
-15.02 %   
-17.60 %   
+Prélèvements sur fonds et fin. spéciaux
+12'744'540 
+15'122'325 
+-2'377'785 
+-15.72 % 
+15.02 % 
+17.60 % 
 49
-   Imputations internes
-719'400   
-688'150   
-31'250   
-4.54 %   
-0.85 %   
-0.80 %   
-   Total
-84'841'245   
-85'922'219   
--1'080'974   
--1.26 %   
-   REVENUS
-B26 (v1/Mun)   
-B25 (v2/Cc)   
-C24   
-C23   
-C22   
+Imputations internes
+719'400 
+688'150 
+31'250 
+4.54 % 
+0.85 % 
+0.80 % 
+Total
+84'841'245 
+85'922'219 
+-1'080'974 
+-1.26 % 
+REVENUS
+B26 (v1/Mun) 
+B25 (v2/Cc) 
+C24 
+C23 
+C22 
 40
-   Impôts
-55'415'000   
-54'673'000   
-52'705'076   
-51'696'903   
-48'732'552   
+Impôts
+55'415'000 
+54'673'000 
+52'705'076 
+51'696'903 
+48'732'552 
 41
-   Patentes, concessions
-413'000   
-402'000   
-387'118   
-408'094   
-432'142   
+Patentes, concessions
+413'000 
+402'000 
+387'118 
+408'094 
+432'142 
 42
-   Revenus du patrimoine
-4'580'220   
-4'360'375   
-4'385'654   
-4'235'180   
-4'146'901   
+Revenus du patrimoine
+4'580'220 
+4'360'375 
+4'385'654 
+4'235'180 
+4'146'901 
 43
-   Taxes, émoluments, produits des ventes
-5'669'985   
-5'849'769   
-6'067'208   
-7'026'937   
-6'749'603   
+Taxes, émoluments, produits des ventes
+5'669'985 
+5'849'769 
+6'067'208 
+7'026'937 
+6'749'603 
 44
-   Parts à des recettes cantonales
-1'440'000   
-1'350'000   
-1'480'101   
-1'092'119   
-1'530'376   
+Parts à des recettes cantonales
+1'440'000 
+1'350'000 
+1'480'101 
+1'092'119 
+1'530'376 
 45
-   Part. et remb. collectivités publiques
-3'746'100   
-3'363'600   
-12'624'876   
-12'969'795   
-11'921'664   
+Part. et remb. collectivités publiques
+3'746'100 
+3'363'600 
+12'624'876 
+12'969'795 
+11'921'664 
 46
-   Autres prestations et subventions
-113'000   
-113'000   
-306'735   
-907'851   
-161'400   
-   Total
-71'377'305   
-70'111'744   
-77'956'767   
-78'336'879   
-73'674'638   
+Autres prestations et subventions
+113'000 
+113'000 
+306'735 
+907'851 
+161'400 
+Total
+71'377'305 
+70'111'744 
+77'956'767 
+78'336'879 
+73'674'638 
 13
 
 PRÉAVIS MUNICIPAL N° 30/2025 
- 
+
 Patentes et concessions 
 Ce montant comprend, entre autres, la taxe à l'usage du sol (0.007 Fr./kWh), la taxe spécifique (0.003 Fr./kWh) 
 et la redevance de la Compagnie du gaz. 
@@ -1509,7 +1503,7 @@ administratif ainsi que des redevances d'utilisation du domaine public ou droit 
 Taxes, émoluments, produits des ventes 
 Il s'agit notamment des émoluments pour les documents d'identité, des permis de construire, des participations 
 des parents à l'accueil de jour des enfants, des taxes de raccordement et d'utilisation (eaux claires, égouts) et 
-les produits de la taxe déchets.  
+les produits de la taxe déchets. 
 Parts à des recettes cantonales 
 Il s'agit de la part de la Commune à l'impôt sur les gains immobiliers. 
 Participation et remboursement de collectivités 
@@ -1518,79 +1512,77 @@ des enfants, les participations à l'Accueil familial de jour et la compensation
 rubrique est essentiellement due à la comptabilisation de la NPIV. 
 4.4. Charges par services, évolution, analyse 
 Les charges par service évoluent comme suit : 
- 
- 
- 
+
 Voici la répartition graphique des charges par service : 
- 
-   CHARGES
-B26 (v1/Mun)   
-B25 (v2/Cc)   
-Ecart (Fr)   
-Ecart (%)   
-B26/Total (%)   
-B25/Total (%)   
+
+CHARGES
+B26 (v1/Mun) 
+B25 (v2/Cc) 
+Ecart (Fr) 
+Ecart (%) 
+B26/Total (%) 
+B25/Total (%) 
 1
-   Administration générale
-14'763'178   
-14'011'491   
-751'687   
-5.36 %   
-17.52 %   
-16.38 %   
+Administration générale
+14'763'178 
+14'011'491 
+751'687 
+5.36 % 
+17.52 % 
+16.38 % 
 2
-   Finances 
-9'570'502   
-11'127'550   
--1'557'048   
--13.99 %   
-11.36 %   
-13.01 %   
+Finances 
+9'570'502 
+11'127'550 
+-1'557'048 
+-13.99 % 
+11.36 % 
+13.01 % 
 3
-   Domaines et bâtiments
-5'395'480   
-4'460'840   
-934'640   
-20.95 %   
-6.40 %   
-5.21 %   
+Domaines et bâtiments
+5'395'480 
+4'460'840 
+934'640 
+20.95 % 
+6.40 % 
+5.21 % 
 4
-   Urbanisme et travaux publics
-17'419'300   
-20'308'950   
--2'889'650   
--14.23 %   
-20.67 %   
-23.74 %   
+Urbanisme et travaux publics
+17'419'300 
+20'308'950 
+-2'889'650 
+-14.23 % 
+20.67 % 
+23.74 % 
 5
-   Instruction publique et cultes 
-5'123'700   
-5'068'892   
-54'808   
-1.08 %   
-6.08 %   
-5.92 %   
+Instruction publique et cultes 
+5'123'700 
+5'068'892 
+54'808 
+1.08 % 
+6.08 % 
+5.92 % 
 6
-   Sécurité - population - feu
-5'618'610   
-5'464'690   
-153'920   
-2.82 %   
-6.67 %   
-6.39 %   
+Sécurité - population - feu
+5'618'610 
+5'464'690 
+153'920 
+2.82 % 
+6.67 % 
+6.39 % 
 7
-   Famille, jeunesse, sport et culture
-26'362'660   
-25'115'250   
-1'247'410   
-4.97 %   
-31.29 %   
-29.35 %   
-   Total
-84'253'430   
-85'557'663   
--1'304'233   
--1.52 %   
+Famille, jeunesse, sport et culture
+26'362'660 
+25'115'250 
+1'247'410 
+4.97 % 
+31.29 % 
+29.35 % 
+Total
+84'253'430 
+85'557'663 
+-1'304'233 
+-1.52 % 
 14
 
 PRÉAVIS MUNICIPAL N° 30/2025 
@@ -1613,81 +1605,80 @@ au budget 2025)
 Les critères de distinction entre charges fixes et variables de la Commune peuvent bien entendu prêter à 
 discussion, en revanche, il ressort de cette présentation que la marge de manœuvre, à savoir une influence 
 directe et à court terme de la Commune, ne concerne qu'environ 12% du total des charges. 
-   REVENUS
-B26 (v1/Mun)   
-B25 (v2/Cc)   
-Ecart (Fr)   
-Ecart (%)   
-B26/Total (%)   
-B25/Total (%)   
+REVENUS
+B26 (v1/Mun) 
+B25 (v2/Cc) 
+Ecart (Fr) 
+Ecart (%) 
+B26/Total (%) 
+B25/Total (%) 
 1
-   Administration générale
-896'455   
-1'028'885   
+Administration générale
+896'455 
+1'028'885 
 -132'430
 -12.87 %
-1.06 %   
-1.20 %   
+1.06 % 
+1.20 % 
 2
-   Finances 
-61'108'800   
-60'419'800   
+Finances 
+61'108'800 
+60'419'800 
 689'000
 1.14 %
-72.03 %   
-70.32 %   
+72.03 % 
+70.32 % 
 3
-   Domaines et bâtiments
-4'704'515   
-4'179'904   
+Domaines et bâtiments
+4'704'515 
+4'179'904 
 524'611
 12.55 %
-5.55 %   
-4.86 %   
+5.55 % 
+4.86 % 
 4
-   Urbanisme et travaux publics 
-10'563'485   
-13'520'290   
+Urbanisme et travaux publics 
+10'563'485 
+13'520'290 
 -2'956'805
 -21.87 %
-12.45 %   
-15.74 %   
+12.45 % 
+15.74 % 
 5
-   Instruction publique et cultes 
-560'290   
-531'090   
+Instruction publique et cultes 
+560'290 
+531'090 
 29'200
 5.50 %
-0.66 %   
-0.62 %   
+0.66 % 
+0.62 % 
 6
-   Sécurité - population - feu
-222'500   
-209'500   
-13'000   
+Sécurité - population - feu
+222'500 
+209'500 
+13'000 
 6.21 %
-0.26 %   
-0.24 %   
+0.26 % 
+0.24 % 
 7
-   Famille, jeunesse, sport et culture
-6'785'200   
-6'032'750   
-752'450   
+Famille, jeunesse, sport et culture
+6'785'200 
+6'032'750 
+752'450 
 12.47 %
-8.00 %   
-7.02 %   
-   Total
-84'841'245   
-85'922'219   
+8.00 % 
+7.02 % 
+Total
+84'841'245 
+85'922'219 
 -1'080'974
 -1.26 %
 15
 
 PRÉAVIS MUNICIPAL N° 30/2025 
- 
- 
+
 4.7. Comparatifs budgets et comptes 
- 
+
 Natures
 Comptes
 Montants
@@ -1700,98 +1691,98 @@ Variables
 LTDP
 30
 Autorités et personnel
-19'729'645  
-19'729'645  
-19'729'645  
+19'729'645 
+19'729'645 
+19'729'645 
 310
 Imprimés et fournitures de bureau
-518'568  
-518'568  
+518'568 
+518'568 
 311
 Achats de mobilier, matériel, machines et véhicules
-897'250  
-897'250  
+897'250 
+897'250 
 312
 Achats d'eau, d'énergie et de combustible
-1'115'850  
-1'115'850  
+1'115'850 
+1'115'850 
 313
 Autres fournitures et marchandises
-709'000  
-709'000  
+709'000 
+709'000 
 314
 Entretien des immeubles, routes et territoire
-3'298'100  
-3'298'100  
+3'298'100 
+3'298'100 
 315
 Entretien d'objets mobiliers et d'inst. techniques
-473'150  
-473'150  
+473'150 
+473'150 
 316
 Loyers, fermages et redevances d'utilisation
-91'950  
-91'950  
+91'950 
+91'950 
 317
 Réceptions et manifestations
-286'390  
-286'390  
+286'390 
+286'390 
 318
 Honoraires et prestations de services
-3'543'240  
-3'543'240  
+3'543'240 
+3'543'240 
 319
 Impôts, taxes, frais divers
-762'900  
-11'696'398  
-762'900  
+762'900 
+11'696'398 
+762'900 
 32
 Intérêts passifs
-522'502  
-522'502  
-522'502  
+522'502 
+522'502 
+522'502 
 33
 Amortissements
-8'155'420  
-8'155'420  
-8'155'420  
+8'155'420 
+8'155'420 
+8'155'420 
 351
 Charges cantonales
-15'689'900  
-15'689'900  
+15'689'900 
+15'689'900 
 352
 Charges d'autres communes ou ass. de communes
-18'834'680  
-34'524'580  
-18'834'680  
+18'834'680 
+34'524'580 
+18'834'680 
 36
 Aides et subventions (sans 3657)
-4'801'410  
-4'801'410  
+4'801'410 
+4'801'410 
 3657
 Transports publics
-1'952'000  
-6'753'410  
-1'952'000  
+1'952'000 
+6'753'410 
+1'952'000 
 38
 Attributions aux fonds et financements spéciaux
-2'152'075  
-2'152'075  
-2'152'075  
+2'152'075 
+2'152'075 
+2'152'075 
 39
 Imputations internes
-719'400  
-719'400  
-719'400  
+719'400 
+719'400 
+719'400 
 Totaux
-84'253'430  
-84'253'430  
-36'476'580  
-37'311'550  
-10'465'300  
+84'253'430 
+84'253'430 
+36'476'580 
+37'311'550 
+10'465'300 
 % selon total des charges
-43.29%  
-44.28%  
-12.42%  
+43.29% 
+44.28% 
+12.42% 
 Totaux budget 2025 (v2/Cc) en Fr
 85'557'663
 85'557'663
@@ -1815,15 +1806,7 @@ Evolution (B26/B25, %)
 16
 
 PRÉAVIS MUNICIPAL N° 30/2025 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 17
 
 PRÉAVIS MUNICIPAL N° 30/2025 
@@ -1857,11 +1840,6 @@ Sandra Pasquier
 Pierre-A. Dupertuis 
 18
 
- 
- 
- 
- 
- 
 Au Conseil Communal de La Tour-de-Peilz, 
 Monsieur le Président, 
 Mesdames les Conseillères, Messieurs les Conseillers, 
@@ -1870,17 +1848,13 @@ Président
 Berthier Loris (PLR) (excusé le 12 novembre 2025) 
 Membres 
 Bonvin Jérôme (LC+I+VL) (excusé les 13 octobre 2025 + 3 novembre 2025) 
- 
- 
+
 Chervet Guy (PLR) (excusé le 13 octobre 2025) 
- 
- 
+
 Negro Piero (PSDG) 
- 
- 
+
 Schmidhauser Jean-Yves (PSDG) (excusé le 3 novembre 2025) 
- 
- 
+
 Tirelli Ludovic (VERTS) 
 a participé à la séance d’information proposée à l’ensemble du Conseil le 3 novembre 2025, à 19h30. 
 Elle s’est réunie également à deux reprises, à savoir les 13 octobre 2025 et 12 novembre 2025, pour 
@@ -1902,17 +1876,17 @@ la population a rejeté, par référendum, l’augmentation des impôts communau
 conséquent, la version du budget 2025 utilisée pour la comparaison avec le budget 2026 correspond à 
 celle votée par le Conseil communal, mais ajustée sur la base de 64 points. Les comptes concernés sont 
 les suivants : 
- 
+
 Rapport de la commission des finances chargée d’étudier le préavis N° 30/2025 relatif au projet de 
 budget de la Commune pour l’exercice 2026 
 
-Rapport - Préavis N° 30/2025  
+Rapport - Préavis N° 30/2025 
 2|13 
- 
+
 1.2. Note N°2 du SFIN datée du 7 octobre 2025 
 Cette note du SFIN est relative aux « tâches spéciales SIGE » et souhaite ainsi amender le budget 2026 
 de la manière suivante : 
- 
+
 Les charges seront ainsi augmentées de Fr. 10'000.‐ et en conséquence l’excédent de revenus sera 
 diminué du même montant. 
 1.3. Note N°3 du SFIN datée du 9 octobre 2025 
@@ -1922,28 +1896,27 @@ réduirait les recettes communales provenant de l’impôt sur les gains immobil
 En cas d’acceptation de cette mesure par le Grand Conseil (date probable d’adoption définitive du 
 budget du Canton est le mardi 16 décembre 2025), cela aurait pour conséquence une diminution des 
 recettes de quelque Fr. 555ʹ000.‐ sur le montant de Fr. 1ʹ230ʹ000.- prévu. 
- 
+
 1.4. Note N°4 du SFIN datée du 31 octobre 2025 
 Cette note du SFIN est relative au budget 2026 des VMCV, pas encore connu au moment de la rédaction 
 du préavis. 
- 
+
 Les charges seront ainsi diminuées de Fr. 16'500.‐ et en conséquence l’excédent de revenus sera 
 augmenté du même montant. 
- 
 
-Rapport - Préavis N° 30/2025  
+Rapport - Préavis N° 30/2025 
 3|13 
- 
+
 1.5. Note N°5 du SFIN datée du 11 novembre 2025 
 Cette note du SFIN est relative à l’indexation des salaires, fixée à 0.1% lors de la séance de la 
 Municipalité du 10 novembre 2025, alors que le budget incluait une indexation de 0.5%. 
- 
+
 Les charges seront donc diminuées de Fr. 56ʹ750.‐ et il est proposé d’imputer cette amélioration dans le 
 compte 130.4361.03 ʺAjustement indexationʺ, améliorant le résultat du budget du même montant. 
 1.6. Note N°6 du SFIN datée du 6 novembre 2025 
 Cette note du SFIN est relative aux réseaux ASICC, VV et RéEL. Ces réseaux ont validé une 
 mensualisation des salaires des accueillantes familiales de jour sur 6 mois au lieu de 12 mois. 
- 
+
 Les charges seront ainsi diminuées de Fr. 199'450.‐ (comptes 705.3099.01 et 706.3525.05) et les recettes 
 diminuées de Fr. 163'500.‐ (comptes 705.4525.02/03/04). Il en découle une évolution positive du résultat 
 de Fr. 35'950.‐. 
@@ -1960,9 +1933,9 @@ que les besoins en investissements restent considérables.
 La COFIN alerte sur la faible marge de manœuvre des autorités et appelle à une planification financière 
 rigoureuse et à des priorités claires afin de maîtriser l’endettement et préserver l’équilibre budgétaire. 
 
-Rapport - Préavis N° 30/2025  
+Rapport - Préavis N° 30/2025 
 4|13 
- 
+
 2.2. Prévisions : 
 Comme mentionné au chapitre 3.9 du projet de budget, l’autofinancement moyen des quatre derniers 
 exercices (21-24) s’élève à 4,7 millions de francs. Or, le plan des investissements (annexe au préavis) pour la 
@@ -2005,11 +1978,11 @@ financer tous les projets futurs et sur le fait que le plafond d’endettement f
 rapidement atteint. Elle attend de la Municipalité qu’elle définisse des priorités claires sur ces 
 investissements. 
 
-Rapport - Préavis N° 30/2025  
+Rapport - Préavis N° 30/2025 
 5|13 
- 
+
 3. Généralités 
- 
+
 Selon le budget 2026 initial présenté par la Municipalité, les charges (brutes, avec écritures comptables) 
 se montent à Fr. 84.25 mios, contre Fr. 85.56 mios au budget 2025, soit une diminution de Fr. 1.31 mio 
 ou 1.52%. Les charges nettes (épurées des écritures comptables) se montent à Fr. 73.23 mios, contre 
@@ -2052,9 +2025,9 @@ réserves d'un total de Fr. 2.03 mios (Fr. 0.84 mio pour compenser l'impact de l
 et Fr. 1.19 mios pour la péréquation directe, principe identique au budget 2025), ayant pour but de 
 contenir l'impact de ces effets transitoires sur le budget. 
 
-Rapport - Préavis N° 30/2025  
+Rapport - Préavis N° 30/2025 
 6|13 
- 
+
 La COFIN n’a, sur le principe, pas d’objection à cette manière de faire. Les circonstances actuelles liées 
 à l’évolution des finances communales, ainsi que la prochaine implémentation de nouvelles règles 
 comptables (MCH2, qui seront implémentées en principe en 2027), justifient en effet cette dissolution. 
@@ -2066,11 +2039,11 @@ comptable de Fr. 0.59 mio.
 Sans la dissolution de ces provisions, l’excédent de charges budgété (avant 
 amendements) aurait été d’environ Fr. 1.44 mios, ce qui est, une fois encore, 
 révélateur de l’état des finances communales, qui restent fragiles. 
- 
+
 3.3. Investissements, emprunts et autofinancement. 
 Les investissements figurant dans le plan d’investissement pour 2026 totalisent Fr. 28.08 mios 
 (Fr. 0.20 mio pour Finances, Fr. 18.09 mios pour Domaines et bâtiments ainsi que Fr. 9.80 mios pour 
-Urbanisme et travaux publics).  
+Urbanisme et travaux publics). 
 Au vu de la marge d’autofinancement négative budgétée de Fr. 1.85 mios, cela signifie que notre 
 Commune va devoir continuer à fortement emprunter. Il est précisé dans le présent préavis, que le 
 plafond d'endettement est utilisé à hauteur Fr. 61.26 mios, au moment de la rédaction du préavis. 
@@ -2089,17 +2062,15 @@ certains investissements, potentiellement au détriment des services offerts à 
 La COFIN a attiré l’attention du Conseil depuis de nombreuses années sur la marge 
 d’autofinancement nettement insuffisante de notre Commune et ses conséquences 
 sur l’endettement. 
- 
+
 Pour rappel, les investissements ne passent pas par le budget annuel. L’annexe au budget n’est 
 qu’indicative et ne lie ni la Municipalité, ni le Conseil communal. La COFIN prend note que la liste 
 n’est qu’une liste d’intentions. 
 La COFIN réémet le vœu de disposer à l’avenir d’une liste priorisée des investissements sur 5 ans. 
- 
- 
 
-Rapport - Préavis N° 30/2025  
+Rapport - Préavis N° 30/2025 
 7|13 
- 
+
 3.4. Nouvelle péréquation intercommunale vaudoise (NPIV) 
 Pour rappel, la nouvelle péréquation intercommunale vaudoise (NPIV) est entrée en vigueur en 2025. 
 Les projections pour le budget 2026 sont fournies par le Canton. 
@@ -2121,7 +2092,7 @@ en lien avec le décompte 2024 de Fr. 18.94 mios (une provision a été comptabi
 des comptes 2024). Ainsi, un revenu comptable de Fr. 3.55 mios a été porté au budget 2026 
 (comptes 223.4809.00 et 720.4809.00), contre Fr. 3.24 mios lors du budget 2025. 
 Voici un graphique sur l’évolution des coûts NPIV pour la Commune sur 10 ans : 
- 
+
 3.5. VMCV 
 Du côté des VMCV, le budget 2026 a été communiqué, sous réserve de l’approbation par le Canton. Il 
 en résulte un déficit à charge de La Tour-de-Peilz estimé à Fr. 2.70 mios, soit une augmentation de 
@@ -2129,9 +2100,9 @@ Fr. 0.39 mio rapport au budget 2025 (comptes de charges dans la division 180).
 Une augmentation de 5% à la ligne 201 a été anticipée par la Municipalité. De plus l’horaire 2026 verra 
 l’entrée en vigueur des nouvelles lignes de bus pour la Commune (cf. préavis n° 01/2025). 
 
-Rapport - Préavis N° 30/2025  
+Rapport - Préavis N° 30/2025 
 8|13 
- 
+
 Selon les informations de la DGMR, les coûts non couverts par le trafic régional (compte 180.3517.00) 
 sont de Fr. 1.93 mios contre Fr. 1.81 mios au budget 2025. 
 3.6. Sécurité Riviera (ASR) 
@@ -2152,17 +2123,16 @@ pour l’organisation de cette rencontre qui a permis de mieux comprendre le rô
 ainsi que le processus décisionnel. 
 Elle constate que le nombre de places d’accueil (ainsi que la demande pour celles-ci) ne cesse d’augmenter 
 au fil des années (+415% de 2008 à 2024 selon la brochure d’information fournie par la FSAT). 
- 
+
 3.8. Personnel communal 
 La masse salariale (nature 301) de la Commune, sans les traitements de l'Accueil familial de jour (entité 
 faisant partie des réseaux VV, RéEL et ASICC, figurant sous la division 705 de la comptabilité 
 communale mais dont le déficit est subventionné par ces réseaux), augmente de Fr. 270'000.-- ou 2.40% 
 par rapport au budget 2025. 
- 
 
-Rapport - Préavis N° 30/2025  
+Rapport - Préavis N° 30/2025 
 9|13 
- 
+
 La COFIN identifie les raisons ci-dessous pour justifier cette augmentation : 
 • 
 L’indexation des salaires initialement budgétée à 0.5% en fonction de l’évolution de l’IPC pour 
@@ -2189,27 +2159,25 @@ Le budget 2026 prévoit des revenus d’impôts sur les personnes physiques de F
 diminution de Fr. 1.20 mios ou 3.87% par rapport au budget 2025. 
 Les impôts sur la fortune au budget 2026 sont estimés à Fr. 6.98 mios, soit une diminution de 
 Fr. 0.37 mio par rapport au budget 2025. 
-Ces ajustements sont basés sur les revenus des comptes 2024, inférieurs aux exercices précédents.  
+Ces ajustements sont basés sur les revenus des comptes 2024, inférieurs aux exercices précédents. 
 3.9.2. Impôts sur les personnes morales 
 La Municipalité prévoit pour les impôts sur les sociétés en 2026 des revenus de Fr. 10.35 mios, 
 supérieurs de Fr. 0.76 mio ou 7.92% par rapport au budget 2025. 
 Le rendement de l’impôt sur le bénéfice ainsi que de l’impôt sur le capital a été adapté (Fr. 1.55 mios et 
-Fr. - 0.74 mio) selon les précédentes perceptions.  
+Fr. - 0.74 mio) selon les précédentes perceptions. 
 En parallèle, la compensation financière pour atténuer les effets de la Réforme fiscale et financement 
 de l'AVS (RFFA) sur l'imposition des entreprises a été ajustée à la baisse par rapport au budget 2025. 
-3.9.3. Impôts conjoncturels (droits de mutations, successions et donations, gains immobiliers)  
+3.9.3. Impôts conjoncturels (droits de mutations, successions et donations, gains immobiliers) 
 Ces trois postes ont été augmentés (Fr. 1.21 mios ou 7.92%) par rapport au budget 2025. 
 3.9.4. Diverses taxes (impôt foncier et divers) 
 L’impôt foncier a été légèrement réajusté à la hausse par la Municipalité, de Fr. 0.02 mio ou 0.58% par 
 rapport au budget 2025, notamment en lien avec le volume conséquent de livraison de logements et la 
-croissance de la population.  
+croissance de la population. 
 Les autres valeurs ont été ajustées en diminution de Fr. 0.05 mio par rapport au budget 2025. 
- 
- 
 
-Rapport - Préavis N° 30/2025  
+Rapport - Préavis N° 30/2025 
 10|13 
- 
+
 4. Résumé des principales explications données par la Municipalité lors de la 
 séance de présentation du budget du 3 novembre 2025 
 Voici les réponses apportées aux principales questions posées lors de la séance du 3 novembre 2025 : 
@@ -2245,7 +2213,7 @@ crédit extra-budgétaire.
 Remplacement logiciel régie immobilière (Fr. 30'000.-) et 
 évolution logiciel inhumations QGIS (Fr.10'000.-). Les 
 projets informatiques sont distingués au niveau des comptes 
-de la maintenance des systèmes (190.3189.00).  
+de la maintenance des systèmes (190.3189.00). 
 440.3145.02-04 Végétation arborée 
 Il s’agit de la mise en place de végétation arborée pour des 
 préavis déjà votés. 
@@ -2257,14 +2225,12 @@ revenu (705.3069.00).
 705.3099.01 Reval. 2026 AMF 3 réseaux 
 Revalorisation en 2026 des traitements des accueillantes sur 
 les 3 réseaux VV, RéEL & ASICC. 
- 
- 
 
-Rapport - Préavis N° 30/2025  
+Rapport - Préavis N° 30/2025 
 11|13 
- 
+
 5. Propositions d’amendements 
-5.1.  
+5.1. 
 Amendements de la Municipalité 
 Proposition d’amendement N° 1 
 Amendement technique tâches spéciales SIGE (note 2 à la COFIN) 
@@ -2341,12 +2307,10 @@ Ajustement indexation
 Fr. 56’750 
 Fr. 56’750 
 Il en découlera une augmentation de Fr. 56'750.- de l’excédent de revenus figurant au budget 2026. 
- 
- 
 
-Rapport - Préavis N° 30/2025  
+Rapport - Préavis N° 30/2025 
 12|13 
- 
+
 Proposition d’amendement N°4 
 Amendement technique 705 AFJ mensualisation 6 mois (note 6 à la COFIN) 
 Les montants budgétés dans les comptes ci-dessous sont amendés pour être ajustés de la façon suivante : 
@@ -2412,7 +2376,7 @@ Fr.675’000
 Fr. 555’000 
 Il en découlera une diminution de Fr. 555’000.- de l’excédent de revenus figurant au budget 2026. 
 5.3. Récapitulation des amendements 
- 
+
 Charges 
 Revenus 
 Différence 
@@ -2422,14 +2386,14 @@ Fr 84'841'245.--
 Fr. 587'815.-- 
 Amendement N°1, SIGE 
 Fr. 10'000.-- 
- 
+
 Fr. -10'000.-- 
 Amendement N°2, VMCV 
 Fr. -16'500.-- 
- 
+
 Fr. 16'500.-- 
 Amendement N°3, Indexation 
- 
+
 Fr. 56’750.-- 
 Fr. 56’750.-- 
 Amendement N°4, AFJ 
@@ -2437,7 +2401,7 @@ Fr. -199'450.--
 Fr. -163'500.-- 
 Fr. 35'950.-- 
 Amendement N°5, Gains immobiliers 
- 
+
 Fr. -555’000.-- 
 Fr. -555’000.-- 
 Budget 2026 amendé 
@@ -2445,9 +2409,9 @@ Fr. 84'047'480.--
 Fr. 84'179’495.-- 
 Fr. 132’015.-- 
 
-Rapport - Préavis N° 30/2025  
+Rapport - Préavis N° 30/2025 
 13|13 
- 
+
 6. Conclusions 
 Compte tenu de ce qui précède, la Commission des Finances, à l’unanimité des membres présents, vous 
 propose, Monsieur le Président, Mesdames les Conseillères et Messieurs les Conseillers, d’adopter la 
@@ -2475,7 +2439,7 @@ Fr.
 Excédent de recettes présumé 
 Fr. 
 132'015.-- 
- 
+
 La Tour-de-Peilz, le 12 novembre 2025 
 Pour la Commission des Finances 
 Loris Berthier, Président - rapporteur 
@@ -2484,51 +2448,46 @@ Conseil communal
 Maison de Commune 
 Grand-Rue 46 - CP 304 
 1814 La Tour-de-Peilz 
- 
+
 EXTRAIT 
-du procès-verbal de la séance du Conseil communal  
+du procès-verbal de la séance du Conseil communal 
 de La Tour-de-Peilz du 10 décembre 2025 
- 
- 
+
 Présidence : M. Yvan Kraehenbuehl 
- 
- 
+
 Préavis municipal N° 30/2025 – Budget 2026 de la Commune de La Tour-de-Peilz 
- 
- 
+
 LE CONSEIL COMMUNAL DE LA TOUR-DE-PEILZ 
-•  
-vu le préavis municipal N° 30/2025,  
-•  
-vu le rapport de la Commission des finances,  
-•  
-considérant que cet objet a été porté à l’ordre du jour,  
+• 
+vu le préavis municipal N° 30/2025, 
+• 
+vu le rapport de la Commission des finances, 
+• 
+considérant que cet objet a été porté à l’ordre du jour, 
 d é c i d e 
 d’approuver le budget de fonctionnement de la Commune pour l’exercice 2026 tel qu’amendé et 
 prévoyant : 
- 
-•  
-Charges  
-Fr.  
-84'047'480.-  
-•  
-Revenus  
-Fr.  
-84'179'495.-  
-•  
-Excédent de recettes présumé  
-Fr.  
+
+• 
+Charges 
+Fr. 
+84'047'480.- 
+• 
+Revenus 
+Fr. 
+84'179'495.- 
+• 
+Excédent de recettes présumé 
+Fr. 
 132'015.- 
- 
+
 Adopté à une large majorité (deux abstentions) tel qu’amendé. 
- 
+
 La Tour-de-Peilz, le 10 décembre 2025 
- 
- 
+
 CONSEIL COMMUNAL DE LA TOUR-DE-PEILZ 
- 
+
 Le Président 
 La Secrétaire 
- Yvan Kraehenbuehl 
-Carole Dind 
- 
+Yvan Kraehenbuehl 
+Carole Dind

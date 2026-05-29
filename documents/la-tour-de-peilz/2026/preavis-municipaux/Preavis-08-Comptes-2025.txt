@@ -3,26 +3,25 @@ Maison de Commune
 Grand-Rue 46 · CP 304 
 1814 La Tour-de-Peilz 
 1 
- 
+
 PRÉAVIS MUNICIPAL N° 8/2026 
- 
+
 le 6 mai 2026 
- 
+
 Rapport des comptes 2025 de la Commune de La Tour-de-Peilz 
- 
+
 10.03.02-2604-Preavis-08-Comptes-2025.docx 
- 
+
 Au Conseil communal de 
 1814 La Tour-de-Peilz 
- 
+
 Monsieur le Président, 
-Mesdames et Messieurs,  
+Mesdames et Messieurs, 
 1. Objet du préavis 
 Lors de sa séance du 23 mars 2026, la Municipalité a approuvé les comptes de l'exercice 2025 présentés et 
 commentés ci-dessous. 
-Les comptes 2025 (avant répartition du résultat) de la Commune présentent :  
- 
- 
+Les comptes 2025 (avant répartition du résultat) de la Commune présentent : 
+
 - un total de charges de 
 Fr. 
 78'100'659.17 
@@ -32,7 +31,7 @@ Fr.
 - un excédent de revenus de 
 Fr. 
 190'571.50 
- 
+
 Le budget 2025 voté le 11 décembre 2024 par le Conseil communal (version 2, sans crédits extra-budgétaires) 
 prévoyait des charges de Fr. 86'309'663.- et des revenus de Fr. 86'674'219.-, soit un excédent de revenus de 
 Fr. 364'556.-. 
@@ -48,11 +47,9 @@ bénéfice (avant répartition du résultat) supérieur au budget et une marge d
 l'année précédente, grâce à des charges maîtrisées et des recettes fiscales stables, avec des investissements 
 conséquents". 
 Les éléments-clé (avant répartition du résultat) sont les suivants : 
- 
- 
 
 2 
- 
+
 2.1. Eléments favorables 
 Résultat 
 - Un excédent de revenus (Fr. 0.19 mio) meilleur que budgété (excédent de revenus de Fr. 0.04 mio), soit une 
@@ -98,12 +95,11 @@ mio aux comptes 2024 (qui comprenaient des recettes conjoncturelles exceptionnel
 une moyenne de Fr. 3.76 mios de 2021 à 2023). 
 
 3 
- 
+
 3. Détail des éléments‐clés 
 3.1. Recettes fiscales 
 Les recettes fiscales 2025 sont les suivantes : 
- 
- 
+
 Observation générale 
 Pour mémoire, lors de l'élaboration du budget 2025, durant l'été 2024, les derniers comptes bouclés étaient 
 ceux de l'exercice 2023. Le total des recettes fiscales des comptes 2023 (de Fr. 54.23 mios) avait fortement 
@@ -118,8 +114,7 @@ D'autre part, les recettes fiscales des comptes 2025 présentent des impôts sup
 physiques de Fr. 2.48 mios et sur les personnes morales de Fr. 0.28 mio par rapport aux comptes 2024. Les 
 impôts sur les personnes physiques, qui ont connu une baisse inattendue à Fr. 34.36 mios en 2024 (après un pic 
 à Fr. 37.24 mios en 2023), ont donc retrouvé un niveau proche de la moyenne des exercices 2021 à 2023. 
- 
- 
+
 Exercice
 C2021
 C2022
@@ -416,9 +411,9 @@ Fonds amortissement Nouveau Collège Courbet
 Evolution des impôts 2021 à 2025
 
 4 
- 
+
 Voici la représentation graphique de cette évolution : 
- 
+
 Impôts sur les personnes physiques 
 Le budget 2025 prévoyait des recettes de Fr. 40.04 mios, montant qui s'est avéré un peu trop optimiste suite à 
 l'établissement des comptes, pour les raisons expliquées sous la rubrique "Observation générale". 
@@ -443,14 +438,13 @@ Les impôts conjoncturels (droits de mutations, impôt sur les successions et do
 immobiliers) présentent un résultat de Fr. 3.27 mios et sont inférieurs de Fr. 0.48 mio ou 12.70 % au budget et 
 proches de la moyenne 2021 à 2023 (Fr. 3.76 mios), en comparaison du résultat exceptionnel de Fr. 7.36 mios 
 en 2024. 
- 
 
 5 
- 
+
 Progression des impôts réguliers selon les impôts conjoncturels (recettes aléatoires) 
 Les impôts réguliers 2025, de Fr. 50.90 mios, sont supérieurs aux comptes 2024 (Fr. 48.02 mios) et également 
 supérieurs à la moyenne des 3 exercices précédents 2022 à 2024 (Fr. 48.72 mios). 
- 
+
 3.2. Péréquation intercommunale (péréquation directe, réforme policière et cohésion sociale) 
 Solde décompte 2024 
 Pour mémoire, dans les comptes 2024, des provisions pour le solde global supposé défavorable du décompte 
@@ -475,7 +469,7 @@ supposé favorable du décompte de la péréquation 2025 (montant à recevoir) o
 600.3511.04 Facture policière (NPIV) provision solde 
 - 15'000.-
 720.3515.16 Cohésion sociale (NPIV) provision solde 
- - 330'000.-
+- 330'000.-
 Total (solde favorable) 
 2'085'000.-
 Le coût de la péréquation 2025 est donc estimé à Fr. 19.11 mios, soit Fr. 6.15 mios pour la péréquation directe, 
@@ -508,103 +502,103 @@ donations
 encaissés
 2015
 64
-41'102'910   
--1.91%   
-1'611'015   
-492'402   
-2'103'417   
-5.12%   
-38'999'493   
+41'102'910 
+-1.91% 
+1'611'015 
+492'402 
+2'103'417 
+5.12% 
+38'999'493 
 2016
 64
-45'282'293   
-9.23%   
-3'287'612   
-982'585   
-4'270'197   
-9.43%   
-41'012'096   
+45'282'293 
+9.23% 
+3'287'612 
+982'585 
+4'270'197 
+9.43% 
+41'012'096 
 2017
 64
-47'614'508   
-13.68%   
-2'412'290   
-1'102'536   
-3'514'826   
-7.38%   
-44'099'683   
+47'614'508 
+13.68% 
+2'412'290 
+1'102'536 
+3'514'826 
+7.38% 
+44'099'683 
 2018
 64
-50'863'878   
-10.97%   
-6'033'081   
-2'106'081   
-8'139'162   
-16.00%   
-42'724'716   
+50'863'878 
+10.97% 
+6'033'081 
+2'106'081 
+8'139'162 
+16.00% 
+42'724'716 
 2019
 64
-49'538'510   
--2.61%   
-3'019'498   
-783'600   
-3'803'098   
-7.68%   
-45'735'411   
+49'538'510 
+-2.61% 
+3'019'498 
+783'600 
+3'803'098 
+7.68% 
+45'735'411 
 2020
 64
-47'866'739   
--3.37%   
-2'311'108   
-968'602   
-3'279'709   
-6.85%   
-44'587'029   
+47'866'739 
+-3.37% 
+2'311'108 
+968'602 
+3'279'709 
+6.85% 
+44'587'029 
 2021
 64
-52'759'020   
-10.22%   
-1'925'224   
-1'895'538   
-3'820'762   
-7.24%   
-48'938'258   
+52'759'020 
+10.22% 
+1'925'224 
+1'895'538 
+3'820'762 
+7.24% 
+48'938'258 
 2022
 64
-51'397'246   
--2.58%   
-3'131'870   
-1'285'645   
-4'417'515   
-8.59%   
-46'979'731   
+51'397'246 
+-2.58% 
+3'131'870 
+1'285'645 
+4'417'515 
+8.59% 
+46'979'731 
 2023
 64
-54'231'500   
-5.51%   
-2'079'722   
-965'063   
-3'044'785   
-5.61%   
-51'186'716   
+54'231'500 
+5.51% 
+2'079'722 
+965'063 
+3'044'785 
+5.61% 
+51'186'716 
 2024
 64
-55'380'084   
-2.12%   
-5'944'048   
-1'419'522   
-7'363'570   
-13.30%   
-48'016'514   
+55'380'084 
+2.12% 
+5'944'048 
+1'419'522 
+7'363'570 
+13.30% 
+48'016'514 
 Progression des impôts communaux réguliers et conjoncturels
 
 6 
- 
+
 Comme précisé dans le cadre du budget 2026, ce fonds de réserve sera maintenu, avec une dissolution prévue 
 de Fr. 3.55 mios dans le budget cité, toujours dans le but de pouvoir compenser à l'avenir d'éventuels décomptes 
 avec solde défavorable supérieur aux provisions. 
 Voici la représentation graphique de cette évolution : 
- 
+
 3.3. Intérêt annuel pour les fondations 
 Vu le taux d'intérêt (avance à terme fixe à un an) positif au 31.12.25, l'attribution d'un intérêt annuel de 0.95% 
 a été effectuée à chacune des fondations figurant au passif du bilan de la Commune (rubrique 9233 
@@ -622,7 +616,7 @@ Affectés - Evacuation des eaux (FEE)
 Fr. 
 1'601'301.34 
 604'482.92 
-9280.003.00  
+9280.003.00 
 Affectés - Energies renouv. dévelop. dur. (FERDD) 
 Fr. 
 291'139.35 
@@ -636,7 +630,7 @@ Fr.
 Affectés - Part. taxe séjour subv. occas. (FTS) 
 Fr. 
 - 
-1'952.85  
+1'952.85 
 3.5. Marge d'autofinancement 
 La marge d'autofinancement (cash-flow) se calcule en déduisant du total des charges, respectivement des 
 revenus, les amortissements (rubrique 33), les attributions et prélèvements sur fonds de réserve (rubriques 
@@ -645,108 +639,99 @@ Tout comme lors des quatre exercices précédents (2021 à 2024), la marge d'aut
 nouveau positive de Fr. 3.18 mios. Le budget, quant à lui, dégageait une marge négative de Fr. 1.96 mio. 
 
 7 
- 
+
 Voici les chiffres après la répartition du résultat : 
- 
- 
+
 3.6. Evolution de la dette (brute) 
 À la fin de l'année 2025, la dette (brute) atteint Fr. 61.27 mios, comprenant Fr. 10 mios de dettes à court terme 
 (921), Fr. 50 mios de dettes à long terme (922) et Fr. 1.27 mio pour les fondations (9233). 
 Pour mémoire, le plafond d'endettement de Fr. 100 mios pour la législature 2021-2026 a été voté le 11 mai 2022. 
 Auparavant, il se situait à Fr. 85 mios. 
- 
- 
- 
-   ENDETTEMENT (BRUT)
-Comptes 2025   
-Budget 2025   
-Comptes 2024   
-Ecart (Fr)   
-Ecart (%)   
-   Dettes à court et long terme (921 + 922) au 31.12.N-1
-55'000'000   
-66'172'926   
-59'000'000   
--4'000'000   
--6.78 %   
-   Fondations (9233) au 31.12.N-1
-1'259'354   
-1'200'000   
-1'269'296   
--9'942   
--0.78 %   
-   Endettement brut (921 + 922 + 9233) au 31.12.N-1
-56'259'354   
-67'372'926   
-60'269'296   
--4'009'942   
--6.65 %   
-   Investissements planifiés (nets) en N
-26'583'000   
-   Investissements estimés (nets) en N
-9'325'043   
-   Investissements effectifs (nets) en N
-9'714'177   
-2'228'132   
-7'486'045   
-335.98 %   
-   Marge d'autofinancement en N
-3'175'021   
-3'386'949   
-3'543'049   
--368'029   
--10.39 %   
-   Dettes à court et long terme (921 + 922) au 31.12.N
-60'000'000   
-73'000'000   
-55'000'000   
-5'000'000   
-9.09 %   
-   Fondations (9233) au 31.12.N
-1'267'058   
-1'160'000   
-1'259'354   
-7'703   
-0.61 %   
-   Endettement brut (921 + 922 + 9233) au 31.12.N
-61'267'058   
-74'160'000   
-56'259'354   
-5'007'703   
-8.90 %   
-   Habitants au 31.12.N
-13'053   
-13'000   
-13'000   
-53   
-0.41 %   
-   Endettement brut par habitant au 31.12.N
-4'694   
-5'705   
-4'328   
-366   
-8.46 %   
-   Plafond d'endettement (2021-2026)
-100'000'000   
-100'000'000   
-100'000'000   
+
+ENDETTEMENT (BRUT)
+Comptes 2025 
+Budget 2025 
+Comptes 2024 
+Ecart (Fr) 
+Ecart (%) 
+Dettes à court et long terme (921 + 922) au 31.12.N-1
+55'000'000 
+66'172'926 
+59'000'000 
+-4'000'000 
+-6.78 % 
+Fondations (9233) au 31.12.N-1
+1'259'354 
+1'200'000 
+1'269'296 
+-9'942 
+-0.78 % 
+Endettement brut (921 + 922 + 9233) au 31.12.N-1
+56'259'354 
+67'372'926 
+60'269'296 
+-4'009'942 
+-6.65 % 
+Investissements planifiés (nets) en N
+26'583'000 
+Investissements estimés (nets) en N
+9'325'043 
+Investissements effectifs (nets) en N
+9'714'177 
+2'228'132 
+7'486'045 
+335.98 % 
+Marge d'autofinancement en N
+3'175'021 
+3'386'949 
+3'543'049 
+-368'029 
+-10.39 % 
+Dettes à court et long terme (921 + 922) au 31.12.N
+60'000'000 
+73'000'000 
+55'000'000 
+5'000'000 
+9.09 % 
+Fondations (9233) au 31.12.N
+1'267'058 
+1'160'000 
+1'259'354 
+7'703 
+0.61 % 
+Endettement brut (921 + 922 + 9233) au 31.12.N
+61'267'058 
+74'160'000 
+56'259'354 
+5'007'703 
+8.90 % 
+Habitants au 31.12.N
+13'053 
+13'000 
+13'000 
+53 
+0.41 % 
+Endettement brut par habitant au 31.12.N
+4'694 
+5'705 
+4'328 
+366 
+8.46 % 
+Plafond d'endettement (2021-2026)
+100'000'000 
+100'000'000 
+100'000'000 
 
 8 
- 
+
 Voici l'évolution de la dette brute sous forme de deux graphiques : 
- 
- 
- 
- 
- 
- 
 
 9 
- 
+
 3.7. Evolution de la dette (nette) 
 Dans son rapport sur le budget 2022, la Commission des finances a souhaité qu'à l'avenir soit également fourni 
 l'endettement net par habitant. Le tableau ci‐après de l'endettement net selon la méthode proposée par l'UCV. 
- 
+
 Il en ressort que l'endettement net se monte à Fr. 56.54 mios au 31.12.2025, ce qui représente une part de 
 Fr. 4'332.‐ par habitant. 
 4. Détails des comptes 
@@ -754,92 +739,92 @@ Fr. 4'332.‐ par habitant.
 Ces tableaux présentent les écarts des charges et des revenus dont la valeur absolue est égale ou supérieure à 
 Fr. 100'000.- par rapport au budget. Ne sont pas comprises les écritures comptables (amortissements, 
 attributions à et prélèvements sur fonds de réserves, imputations internes, écritures de répartition de résultat). 
- 
-   ENDETTEMENT (NET)
-Comptes 2025   
-Comptes 2024   
-Ecart (Fr)   
-Ecart (%)   
-   Comptes courants créanciers (9206)
-42'650   
-52'575   
--9'925   
--18.88 %   
-   Emprunts à court terme (921)
-10'000'000   
-0   
-10'000'000   
-0.00 %   
-   Emprunts à moyen et long termes (922)
-50'000'000   
-55'000'000   
--5'000'000   
--9.09 %   
-   Engagements propres établissements et fonds spéciaux (923)
-1'267'058   
-1'259'354   
-7'703   
-0.61 %   
-   Endettement brut (total 1)
-61'309'708   
-56'311'930   
-4'997'778   
-8.88 %   
-   Avoirs disponibles (9102)
-2'486'228   
-5'040'155   
--2'553'928   
--50.67 %   
-   Comptes courants auprès d’autres collectivités publiques (9111)
-602'803   
-145'881   
-456'923   
-313.22 %   
-   Epargne (titres et placements, 9120)
-17'226   
-1'330   
-15'896   
-1195.21 %   
-   Prêts (placements de capitaux, prêts, 9122)
-0   
-0   
-0   
-0.00 %   
-   Prêts et participations permanentes (915)
-1'664'187   
-1'664'187   
-0   
-0.00 %   
-   Remboursements d'emprunts
-0   
-0   
-0   
-0.00 %   
-   Total 2
-4'770'444   
-6'851'553   
--2'081'109   
--30.37 %   
-   Endettement net (total 1 ‐ total 2)
-56'539'264   
-49'460'377   
-7'078'887   
-14.31 %   
-   Habitants au 31.12.N
-13'053   
-12'812   
-241   
-1.88 %   
-   Endettement net par habitant au 31.12.N
-4'332   
-3'860   
-471   
-12.20 %   
-   Plafond d'endettement (2021-2026/2016-2021)
-100'000'000   
-100'000'000   
-0   
-0.00 %   
+
+ENDETTEMENT (NET)
+Comptes 2025 
+Comptes 2024 
+Ecart (Fr) 
+Ecart (%) 
+Comptes courants créanciers (9206)
+42'650 
+52'575 
+-9'925 
+-18.88 % 
+Emprunts à court terme (921)
+10'000'000 
+0 
+10'000'000 
+0.00 % 
+Emprunts à moyen et long termes (922)
+50'000'000 
+55'000'000 
+-5'000'000 
+-9.09 % 
+Engagements propres établissements et fonds spéciaux (923)
+1'267'058 
+1'259'354 
+7'703 
+0.61 % 
+Endettement brut (total 1)
+61'309'708 
+56'311'930 
+4'997'778 
+8.88 % 
+Avoirs disponibles (9102)
+2'486'228 
+5'040'155 
+-2'553'928 
+-50.67 % 
+Comptes courants auprès d’autres collectivités publiques (9111)
+602'803 
+145'881 
+456'923 
+313.22 % 
+Epargne (titres et placements, 9120)
+17'226 
+1'330 
+15'896 
+1195.21 % 
+Prêts (placements de capitaux, prêts, 9122)
+0 
+0 
+0 
+0.00 % 
+Prêts et participations permanentes (915)
+1'664'187 
+1'664'187 
+0 
+0.00 % 
+Remboursements d'emprunts
+0 
+0 
+0 
+0.00 % 
+Total 2
+4'770'444 
+6'851'553 
+-2'081'109 
+-30.37 % 
+Endettement net (total 1 ‐ total 2)
+56'539'264 
+49'460'377 
+7'078'887 
+14.31 % 
+Habitants au 31.12.N
+13'053 
+12'812 
+241 
+1.88 % 
+Endettement net par habitant au 31.12.N
+4'332 
+3'860 
+471 
+12.20 % 
+Plafond d'endettement (2021-2026/2016-2021)
+100'000'000 
+100'000'000 
+0 
+0.00 % 
 CHARGES
 Compte
 Libellé
@@ -901,13 +886,7 @@ Electricité
 347.03%
 
 10 
- 
- 
- 
- 
- 
- 
- 
+
 600
 Administration
 600.3521.00
@@ -1149,12 +1128,12 @@ Solde année précédente (facture sociale)
 -
 
 11 
- 
+
 4.2. Charges par nature 
 Le total des charges de Fr. 78'250'659.17 (après répartition du résultat), comprenant une provision de 
 Fr. 0.35 mio pour le solde de la péréquation 2025 (voir point 3.2), est inférieur de Fr. 7'635'882.83 (ou 8.89 %) 
 au budget (ne comprenant pas cette provision), dont la répartition par nature se présente comme suit : 
- 
+
 Les "Biens, services et marchandises" (nature 31) diminuent de Fr. -1'746'943.48 (15.79 %). Toutes les sous-
 rubriques de cette nature sont inférieures par rapport au budget. Voici les écarts les plus importants : 
 - Entretien des immeubles, routes et territoire (nature 314, Fr. - 658'056.34 ou - 23.11 %) 
@@ -1168,91 +1147,90 @@ ainsi que sa part au fonds de péréquation (division 223) et le financement de 
 Par ailleurs, la participation à l'Association Sécurité Riviera (ASR) a coûté Fr. 3'589'004.84, soit Fr. 435'695.16 de 
 moins que prévu au budget (compte 600.3521.00). 
 Charges par nature en % du total 
- 
+
 4.3. Revenus par nature 
 Le total des revenus de Fr. 78'291'230.67 (après répartition du résultat), comprenant une provision de 
 Fr. 2.43 mios pour le solde de la péréquation 2025 (voir point 3.2), est inférieur de Fr. 85'925'219 (ou - 8.88 %) par 
-rapport au budget (ne comprenant pas cette provision).  
-   CHARGES
-Comptes 2025   
-Budget 2025   
-Ecart (Fr)   
-Ecart (%)   
-C25/Total (%)   
-B25/Total (%)   
+rapport au budget (ne comprenant pas cette provision). 
+CHARGES
+Comptes 2025 
+Budget 2025 
+Ecart (Fr) 
+Ecart (%) 
+C25/Total (%) 
+B25/Total (%) 
 30
-   Autorités et personnel
-17'750'192.67   
-19'306'340   
--1'556'147.33   
--8.06 %   
-22.68 %   
-22.48 %   
+Autorités et personnel
+17'750'192.67 
+19'306'340 
+-1'556'147.33 
+-8.06 % 
+22.68 % 
+22.48 % 
 31
-   Biens, services, marchandises
-9'316'157.52   
-11'063'101   
--1'746'943.48   
--15.79 %   
-11.91 %   
-12.88 %   
+Biens, services, marchandises
+9'316'157.52 
+11'063'101 
+-1'746'943.48 
+-15.79 % 
+11.91 % 
+12.88 % 
 32
-   Intérêts passifs
-459'685.83   
-616'750   
--157'064.17   
--25.47 %   
-0.59 %   
-0.72 %   
+Intérêts passifs
+459'685.83 
+616'750 
+-157'064.17 
+-25.47 % 
+0.59 % 
+0.72 % 
 33
-   Amortissements
-6'031'477.32   
-10'883'620   
--4'852'142.68   
--44.58 %   
-7.71 %   
-12.67 %   
+Amortissements
+6'031'477.32 
+10'883'620 
+-4'852'142.68 
+-44.58 % 
+7.71 % 
+12.67 % 
 35
-   Part. et remb. collectivités publiques
-34'941'858.88   
-34'803'800   
-138'058.88   
-0.40 %   
-44.65 %   
-40.52 %   
+Part. et remb. collectivités publiques
+34'941'858.88 
+34'803'800 
+138'058.88 
+0.40 % 
+44.65 % 
+40.52 % 
 36
-   Aides et subventions
-6'018'285.09   
-6'283'256   
--264'970.91   
--4.22 %   
-7.69 %   
-7.32 %   
+Aides et subventions
+6'018'285.09 
+6'283'256 
+-264'970.91 
+-4.22 % 
+7.69 % 
+7.32 % 
 38
-   Attributions aux fonds et fin. spéciaux
-3'112'939.49   
-2'238'525   
-874'414.49   
-39.06 %   
-3.98 %   
-2.61 %   
+Attributions aux fonds et fin. spéciaux
+3'112'939.49 
+2'238'525 
+874'414.49 
+39.06 % 
+3.98 % 
+2.61 % 
 39
-   Imputations internes
-620'062.37   
-691'150   
--71'087.63   
--10.29 %   
-0.79 %   
-0.80 %   
-   Total
-78'250'659.17   
-85'886'542   
--7'635'882.83   
--8.89 %   
+Imputations internes
+620'062.37 
+691'150 
+-71'087.63 
+-10.29 % 
+0.79 % 
+0.80 % 
+Total
+78'250'659.17 
+85'886'542 
+-7'635'882.83 
+-8.89 % 
 
 12 
- 
- 
+
 Pour mémoire, la nature 40 "Impôts" ci-dessus ne comprend pas l'impôt sur les frontaliers ou l'impôt sur les 
 gains immobiliers (nature 44), ni la compensation RFFA (nature 45). 
 Le poste "Patentes et Concessions" (nature 41) comprend entre autre la taxe à l'usage du sol (0.007 Fr./kWh) 
@@ -1260,7 +1238,7 @@ pour Fr. 321'373.40, la taxe spécifique (0.003 Fr./kWh) pour Fr. 137'717.20, la
 Fr. 8'000.- ainsi que la redevance de la Compagnie du gaz pour Fr. 98'848.95. 
 Dans les "Revenus du patrimoine" (nature 42) se trouvent entre autres les revenus des titres pour Fr. 498'000.-, 
 les droits de superficie (DDP) pour Fr. 241'080.- ainsi que les loyers des bâtiments des patrimoines financier (nature 
-423, Fr. 2'638'054.71) et administratif (nature 427, Fr. 930'332.10).  
+423, Fr. 2'638'054.71) et administratif (nature 427, Fr. 930'332.10). 
 Les "Taxes, émoluments et produits des ventes" (nature 43) comprennent notamment par ordre d'importance 
 décroissant la taxe forfaitaire sur les déchets, les taxes d'évacuation des eaux, les participations des parents à 
 l'Accueil familial de jour et la taxe au sac pour les déchets. 
@@ -1274,99 +1252,99 @@ Les "Prélèvements sur fonds et financements spéciaux" (nature 48) comprennent
 de réserve (nature 480) pour Fr. 3'986'843.25 ainsi que des prélèvements sur les financements (nature 481) de 
 Fr. 2'023'124.46. 
 Revenus par nature en % du total 
- 
-   REVENUS
-Comptes 2025   
-Budget 2025   
-Ecart (Fr)   
-Ecart (%)   
-C25/Total (%)   
-B25/Total (%)   
+
+REVENUS
+Comptes 2025 
+Budget 2025 
+Ecart (Fr) 
+Ecart (%) 
+C25/Total (%) 
+B25/Total (%) 
 40
-   Impôts
-52'014'506.35   
-54'673'000   
--2'658'493.65   
--4.86 %   
-66.44 %   
-63.63 %   
+Impôts
+52'014'506.35 
+54'673'000 
+-2'658'493.65 
+-4.86 % 
+66.44 % 
+63.63 % 
 41
-   Patentes, concessions
-565'939.55   
-402'000   
-163'939.55   
-40.78 %   
-0.72 %   
-0.47 %   
+Patentes, concessions
+565'939.55 
+402'000 
+163'939.55 
+40.78 % 
+0.72 % 
+0.47 % 
 42
-   Revenus du patrimoine
-4'423'122.39   
-4'360'375   
-62'747.39   
-1.44 %   
-5.65 %   
-5.07 %   
+Revenus du patrimoine
+4'423'122.39 
+4'360'375 
+62'747.39 
+1.44 % 
+5.65 % 
+5.07 % 
 43
-   Taxes, émoluments, produits des ventes
-6'395'646.69   
-5'849'769   
-545'877.69   
-9.33 %   
-8.17 %   
-6.81 %   
+Taxes, émoluments, produits des ventes
+6'395'646.69 
+5'849'769 
+545'877.69 
+9.33 % 
+8.17 % 
+6.81 % 
 44
-   Parts à des recettes cantonales
-993'913.15   
-1'350'000   
--356'086.85   
--26.38 %   
-1.27 %   
-1.57 %   
+Parts à des recettes cantonales
+993'913.15 
+1'350'000 
+-356'086.85 
+-26.38 % 
+1.27 % 
+1.57 % 
 45
-   Part. et remb. collectivités publiques
-6'807'883.56   
-3'363'600   
-3'444'283.56   
-102.40 %   
-8.70 %   
-3.91 %   
+Part. et remb. collectivités publiques
+6'807'883.56 
+3'363'600 
+3'444'283.56 
+102.40 % 
+8.70 % 
+3.91 % 
 46
-   Autres prestations et subventions
-460'188.90   
-113'000   
-347'188.90   
-307.25 %   
-0.59 %   
-0.13 %   
+Autres prestations et subventions
+460'188.90 
+113'000 
+347'188.90 
+307.25 % 
+0.59 % 
+0.13 % 
 48
-   Prélèvements sur fonds et fin. spéciaux
-6'009'967.71   
-15'122'325   
--9'112'357.29   
--60.26 %   
-7.68 %   
-17.60 %   
+Prélèvements sur fonds et fin. spéciaux
+6'009'967.71 
+15'122'325 
+-9'112'357.29 
+-60.26 % 
+7.68 % 
+17.60 % 
 49
-   Imputations internes
-620'062.37   
-691'150   
--71'087.63   
--10.29 %   
-0.79 %   
-0.80 %   
-   Total
-78'291'230.67   
-85'925'219   
--7'633'988.33   
--8.88 %   
+Imputations internes
+620'062.37 
+691'150 
+-71'087.63 
+-10.29 % 
+0.79 % 
+0.80 % 
+Total
+78'291'230.67 
+85'925'219 
+-7'633'988.33 
+-8.88 % 
 
 13 
- 
+
 4.4. Charges par service 
 Comme mentionné au chapitre des charges par nature, le total de charges de Fr. 78'250'659.17 (après 
 répartition du résultat) est inférieur de Fr. -7'635'882.83 (ou 8.89 %) au budget, dont la répartition par service 
 se présent comme suit : 
- 
+
 Pour l'Administration générale (1), l'essentiel de l'écart de Fr. - 869'837.91 s'explique par les divisions 180 
 "Transports publics" (écart Fr. -289'639.45), 190 "Service informatique" (écart Fr. -127'195.93), 111 
 "Administration générale" (écart Fr. -99'591.25) et 131 "Assurances diverses" (écart Fr. -25'634.59). 
@@ -1377,88 +1355,84 @@ Du côté de Urbanisme et travaux publics (4), l'essentiel de la différence de 
 comptes d'amortissement du préavis 08/2020 "RC780 EdV-Maladaire" (430.3321.12 et 460.3321.08), qui 
 interviendra finalement en 2026 au lieu de 2025, pour Fr. 4'210'000.-. 
 Charges par service en % du total 
- 
- 
- 
- 
- 
-   CHARGES
-Comptes 2025   
-Budget 2025   
-Ecart (Fr)   
-Ecart (%)   
-C25/Total (%)   
-B25/Total (%)   
+
+CHARGES
+Comptes 2025 
+Budget 2025 
+Ecart (Fr) 
+Ecart (%) 
+C25/Total (%) 
+B25/Total (%) 
 1
-   Administration générale
-13'238'632.09   
-14'108'470   
--869'837.91   
--6.17 %   
-16.92 %   
-16.43 %   
+Administration générale
+13'238'632.09 
+14'108'470 
+-869'837.91 
+-6.17 % 
+16.92 % 
+16.43 % 
 2
-   Finances 
-12'313'749.51   
-11'127'550   
-1'186'199.51   
-10.66 %   
-15.74 %   
-12.96 %   
+Finances 
+12'313'749.51 
+11'127'550 
+1'186'199.51 
+10.66 % 
+15.74 % 
+12.96 % 
 3
-   Domaines et bâtiments
-4'015'322.59   
-4'685'740   
--670'417.41   
--14.31 %   
-5.13 %   
-5.46 %   
+Domaines et bâtiments
+4'015'322.59 
+4'685'740 
+-670'417.41 
+-14.31 % 
+5.13 % 
+5.46 % 
 4
-   Urbanisme et travaux publics
-14'511'033.64   
-20'308'950   
--5'797'916.36   
--28.55 %   
-18.54 %   
-23.65 %   
+Urbanisme et travaux publics
+14'511'033.64 
+20'308'950 
+-5'797'916.36 
+-28.55 % 
+18.54 % 
+23.65 % 
 5
-   Instruction publique et cultes 
-4'499'073.22   
-5'068'892   
--569'818.78   
--11.24 %   
-5.75 %   
-5.90 %   
+Instruction publique et cultes 
+4'499'073.22 
+5'068'892 
+-569'818.78 
+-11.24 % 
+5.75 % 
+5.90 % 
 6
-   Sécurité - population - feu
-5'203'544.99   
-5'471'690   
--268'145.01   
--4.90 %   
-6.65 %   
-6.37 %   
+Sécurité - population - feu
+5'203'544.99 
+5'471'690 
+-268'145.01 
+-4.90 % 
+6.65 % 
+6.37 % 
 7
-   Famille, jeunesse, sport et culture
-24'469'303.13   
-25'115'250   
--645'946.87   
--2.57 %   
-31.27 %   
-29.24 %   
-   Total
-78'250'659.17   
-85'886'542   
--7'635'882.83   
--8.89 %   
+Famille, jeunesse, sport et culture
+24'469'303.13 
+25'115'250 
+-645'946.87 
+-2.57 % 
+31.27 % 
+29.24 % 
+Total
+78'250'659.17 
+85'886'542 
+-7'635'882.83 
+-8.89 % 
 
 14 
- 
+
 4.5. Revenus par service 
 Comme mentionné au chapitre des revenus par nature, le total des revenus de Fr. 78'291'230.67 (après répartition 
 du résultat) est inférieur de Fr. -7'633'988.33 (ou -8.88%) par rapport au budget, dont la répartition par service se 
 présent comme suit : 
- 
-Pour Finances (2), la quasi-totalité de l'écart de Fr. -2'181'158.77  s'explique par la division 210 "Impôts" (voir 
+
+Pour Finances (2), la quasi-totalité de l'écart de Fr. -2'181'158.77 s'explique par la division 210 "Impôts" (voir 
 point 3.1) ainsi que les prélèvelement de Fr. 1.29 mio (compte 223.4809.00 "Prél. fonds régul. péréq. 
 (péréquation directe)") et de Fr. 0.86 mio (compte 230.4809.08 "Prél. FDIF - 1% inflation B25") prévus au budget, 
 mais qui n'ont pas été nécessaires dans les comptes vu l'excédent de revenus. 
@@ -1468,84 +1442,80 @@ comptes de prélèvements sur fonds de réserve de l'amortissement du préavis N
 Du côté de Famille, jeunesse, sport et culture (7), la différence de Fr. -1'853'281.17 s'explique principalement 
 par la non-utilisation du prélèvement sur fonds de réserve de Fr. 1.95 mio prévu au budget pour la facture sociale 
 (via le compte 720.4809.00), vu les comptes favorables. 
- 
+
 Revenus par service en % du total 
- 
- 
- 
- 
- 
-   REVENUS
-Comptes 2025   
-Budget 2025   
-Ecart (Fr)   
-Ecart (%)   
-C25/Total (%)   
-B25/Total (%)   
+
+REVENUS
+Comptes 2025 
+Budget 2025 
+Ecart (Fr) 
+Ecart (%) 
+C25/Total (%) 
+B25/Total (%) 
 1
-   Administration générale
-1'459'798.85   
-1'031'885   
-427'913.85   
-41.47 %   
-1.86 %   
-1.20 %   
+Administration générale
+1'459'798.85 
+1'031'885 
+427'913.85 
+41.47 % 
+1.86 % 
+1.20 % 
 2
-   Finances 
-58'238'641.23   
-60'419'800   
--2'181'158.77   
--3.61 %   
-74.39 %   
-70.32 %   
+Finances 
+58'238'641.23 
+60'419'800 
+-2'181'158.77 
+-3.61 % 
+74.39 % 
+70.32 % 
 3
-   Domaines et bâtiments
-4'186'434.58   
-4'179'904   
-6'530.58   
-0.16 %   
-5.35 %   
-4.86 %   
+Domaines et bâtiments
+4'186'434.58 
+4'179'904 
+6'530.58 
+0.16 % 
+5.35 % 
+4.86 % 
 4
-   Urbanisme et travaux publics 
-9'038'696.11   
-13'520'290   
--4'481'593.89   
--33.15 %   
-11.54 %   
-15.73 %   
+Urbanisme et travaux publics 
+9'038'696.11 
+13'520'290 
+-4'481'593.89 
+-33.15 % 
+11.54 % 
+15.73 % 
 5
-   Instruction publique et cultes 
-681'946.78   
-531'090   
-150'856.78   
-28.41 %   
-0.87 %   
-0.62 %   
+Instruction publique et cultes 
+681'946.78 
+531'090 
+150'856.78 
+28.41 % 
+0.87 % 
+0.62 % 
 6
-   Sécurité - population - feu
-506'244.29   
-209'500   
-296'744.29   
-141.64 %   
-0.65 %   
-0.24 %   
+Sécurité - population - feu
+506'244.29 
+209'500 
+296'744.29 
+141.64 % 
+0.65 % 
+0.24 % 
 7
-   Famille, jeunesse, sport et culture
-4'179'468.83   
-6'032'750   
--1'853'281.17   
--30.72 %   
-5.34 %   
-7.02 %   
-   Total
-78'291'230.67   
-85'925'219   
--7'633'988.33   
--8.88 %   
+Famille, jeunesse, sport et culture
+4'179'468.83 
+6'032'750 
+-1'853'281.17 
+-30.72 % 
+5.34 % 
+7.02 % 
+Total
+78'291'230.67 
+85'925'219 
+-7'633'988.33 
+-8.88 % 
 
 15 
- 
+
 4.6. Charges selon degrés d'influence de la Commune 
 Le tableau ci‐dessous a pour but d'illustrer les différents types de charges (après répartition du résultat) selon 
 les degrés d'influence de la Commune, à savoir : 
@@ -1562,11 +1532,7 @@ au budget)
 Les critères de distinction entre charges fixes et variables de la Commune peuvent bien entendu prêter à 
 discussion, en revanche, il ressort de cette présentation que la marge de manœuvre, à savoir une influence 
 directe et à court terme de la Commune, ne concerne qu'environ 12 % du total des charges. 
- 
- 
- 
- 
- 
+
 Natures
 Comptes
 Montants
@@ -1579,94 +1545,94 @@ Variables
 LTDP
 30
 Autorités et personnel
-17'750'193  
-17'750'193  
-17'750'193  
+17'750'193 
+17'750'193 
+17'750'193 
 310
 Imprimés et fournitures de bureau
-383'591  
-383'591  
+383'591 
+383'591 
 311
 Achats de mobilier, matériel, machines et véhicules
-708'795  
-708'795  
+708'795 
+708'795 
 312
 Achats d'eau, d'énergie et de combustible
-1'109'926  
-1'109'926  
+1'109'926 
+1'109'926 
 313
 Autres fournitures et marchandises
-569'437  
-569'437  
+569'437 
+569'437 
 314
 Entretien des immeubles, routes et territoire
-2'189'194  
-2'189'194  
+2'189'194 
+2'189'194 
 315
 Entretien d'objets mobiliers et d'inst. techniques
-258'241  
-258'241  
+258'241 
+258'241 
 316
 Loyers, fermages et redevances d'utilisation
-89'118  
-89'118  
+89'118 
+89'118 
 317
 Réceptions et manifestations
-203'959  
-203'959  
+203'959 
+203'959 
 318
 Honoraires et prestations de services
-3'082'046  
-3'082'046  
+3'082'046 
+3'082'046 
 319
 Impôts, taxes, frais divers
-721'850  
-9'316'158  
-721'850  
+721'850 
+9'316'158 
+721'850 
 32
 Intérêts passifs
-459'686  
-459'686  
-459'686  
+459'686 
+459'686 
+459'686 
 33
 Amortissements
-6'031'477  
-6'031'477  
-6'031'477  
+6'031'477 
+6'031'477 
+6'031'477 
 351
 Charges cantonales
-15'484'400  
-15'484'400  
+15'484'400 
+15'484'400 
 352
 Charges d'autres communes ou ass. de communes
-19'457'459  
-34'941'859  
-19'457'459  
+19'457'459 
+34'941'859 
+19'457'459 
 36
 Aides et subventions
-6'018'285  
-6'018'285  
-6'018'285  
+6'018'285 
+6'018'285 
+6'018'285 
 38
 Attributions aux fonds et financements spéciaux
-3'112'939  
-3'112'939  
-3'112'939  
+3'112'939 
+3'112'939 
+3'112'939 
 39
 Imputations internes
-620'062  
-620'062  
-620'062  
+620'062 
+620'062 
+620'062 
 Totaux
-78'250'659  
-78'250'659  
-34'941'859  
-33'360'889  
-9'947'912  
+78'250'659 
+78'250'659 
+34'941'859 
+33'360'889 
+9'947'912 
 % selon total des charges
-44.65%  
-42.63%  
-12.71%  
+44.65% 
+42.63% 
+12.71% 
 Totaux budget (Fr)
 85'886'542
 85'886'542
@@ -1684,21 +1650,21 @@ Evolution C/B (%)
 -12.90%
 
 16 
- 
+
 5. Répartition du résultat 
 5.1. Répartition du résultat de l'exercice 2025 
 Au vu des chapitres précédents, la répartition proposée du résultat de l'exercice est la suivante : 
 Comptes avant répartition du résultat 
- 
+
 Total des charges 
 78'100'659.17 
 Total des revenus 
 78'291'230.67 
 Excédent de revenus 1 
 190'571.50 
- 
+
 Amortissements 
- 
+
 Amortissement des débiteurs (3301) 
 - 
 Amortissements complémentaires (330/332) 
@@ -1707,12 +1673,12 @@ Amortissement partiel du découvert (230.3330.00/9190.001.00)
 - 
 Excédent de revenus 2 
 190'571.50 
- 
+
 Attribution aux fonds de réserve 
- 
+
 Dépenses et investissements futurs (FDIF) (230.3809.01/9282.001.00) 
 ‐ 150'000.00 
- 
+
 Excédent de revenus 3 (viré à découvert) 
 40'571.50 
 Pour mémoire, le découvert au bilan (existant de 2019 à 2023) a été entièrement amorti au 31.12.2024. 
@@ -1734,13 +1700,9 @@ Attribution du résultat de l'exercice 2025
 150'000.00 
 Solde au 31.12.25 
 12'668'092.48 
- 
- 
- 
- 
 
 17 
- 
+
 6. Conclusions 
 En conclusion, nous vous demandons, Monsieur le Président, Mesdames et Messieurs, de bien vouloir voter les 
 conclusions suivantes : 
@@ -1758,31 +1720,23 @@ d’adopter les comptes communaux pour l’exercice 2025 tels que présentés ;
 d’approuver la gestion pour l’exercice 2025 ; 
 3. 
 de donner décharge à la Municipalité de sa gestion pour l’année 2025. 
- 
- 
- 
- 
- 
+
 Adopté par la Municipalité dans sa séance du 13 avril 2026. 
- 
- 
- 
- 
+
 Vu par le Préfet le ________________________________________ 
- 
- 
+
 AU NOM DE LA MUNICIPALITÉ 
- 
+
 La Syndique : 
- 
+
 Le Secrétaire : 
 Sandra Pasquier 
 P.-A. Dupertuis 
- 
+
 AU NOM DU CONSEIL COMMUNAL 
- 
+
 Le Président : 
- 
+
 La Secrétaire : 
 Yvan Krähenbühl 
-Carole Dind 
+Carole Dind

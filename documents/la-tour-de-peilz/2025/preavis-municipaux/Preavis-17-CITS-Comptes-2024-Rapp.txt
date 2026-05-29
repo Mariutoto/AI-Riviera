@@ -1,8 +1,3 @@
- 
- 
- 
- 
- 
 Au Conseil Communal de La Tour-de-Peilz, 
 Madame la Présidente, 
 M Mesdames les Conseillères, Messieurs les Conseillers, 
@@ -10,17 +5,17 @@ La commission chargée d’examiner l’objet cité en titre s’est réunie le 
 du Conseil communal de Vevey. Elle était composée de : 
 Mesdames 
 Margareta Brüssow, 
- 
+
 Margaux Couttet, 
- 
+
 Alice Gavillet, 
- 
+
 Gabrielle Heller, 
-Messieurs  
+Messieurs 
 Kurt Egli, président-rapporteur, 
- 
+
 Philippe Neyroud et 
- 
+
 Michel Tobler. 
 La commission s’est réunie pour des explications techniques et des informations complémentaires. 
 Nous remercions Monsieur le Conseiller municipal Jean-Pierre Schwab et la délégation de Office de 
@@ -34,269 +29,269 @@ Questions aux responsables de l’entente et réponses reçues
 Il s’agit d’une synthèse des questions posées par la délégation boélande et de la veveysane qui, par 
 suite d’un petit problème administratif, ont siégé séparément. 
 Pour ce qui concerne l’ampleur du phénomène Airbnb et des logements touristiques non déclarés : plus 
-de 700 logements sont aujourd’hui identifiés sur Airbnb dans la région, dont une part significative :  
+de 700 logements sont aujourd’hui identifiés sur Airbnb dans la région, dont une part significative : 
 • 
-n’est pas déclarée auprès des communes,  
+n’est pas déclarée auprès des communes, 
 • 
 ou est faussement déclarée comme résidence principale alors qu’il s’agit de résidences secondaires 
-ou de logements vacants.  
-Les conséquences sont multiples :  
+ou de logements vacants. 
+Les conséquences sont multiples : 
 • 
-fiscales (évasion de la taxe de séjour et de la taxe sur les résidences secondaires),  
+fiscales (évasion de la taxe de séjour et de la taxe sur les résidences secondaires), 
 • 
-sécuritaires (absence de fiche d’arrivée pour la Police Riviera),  
+sécuritaires (absence de fiche d’arrivée pour la Police Riviera), 
 • 
-statistiques (fausse estimation des logements vacants),  
+statistiques (fausse estimation des logements vacants), 
 • 
-réglementaires (changements d’affectation non autorisés).  
+réglementaires (changements d’affectation non autorisés). 
 Un croisement de données (Airbnb, registre des habitants, cadastre) a permis de lancer un projet pilote 
 à Corseaux. L’écart y était révélateur : 13 résidences secondaires déclarées contre 105 identifiées lors de 
-l’étude.  
+l’étude. 
 Rapport de la commission ad hoc chargée d’étudier le préavis municipal N° 17/2025 – Comptes 2024 
 de l’Entente intercommunale sur la taxe de séjour et sur la taxe sur les résidences secondaires 
 Riviera – Villeneuve 
 
-Rapport - Préavis municipal N° 17/2025  
+Rapport - Préavis municipal N° 17/2025 
 2|6 
 Les recours contre la taxe sur les résidences secondaires sont actuellement en suspens volontaire, dans 
-l’attente d’un arrêt de la CDAP.  
-Les objectifs sont les suivants :  
+l’attente d’un arrêt de la CDAP. 
+Les objectifs sont les suivants : 
 • 
-éviter des décisions contradictoires entre communes,  
+éviter des décisions contradictoires entre communes, 
 • 
-ne pas surcharger inutilement les COREMI,  
+ne pas surcharger inutilement les COREMI, 
 • 
-attendre une jurisprudence claire (nombre de pièces, affectation, usage, etc.).  
-Pour résumer la situation actuelle :  
+attendre une jurisprudence claire (nombre de pièces, affectation, usage, etc.). 
+Pour résumer la situation actuelle : 
 • 
-Environ 200 recours par an sont en attente,  
+Environ 200 recours par an sont en attente, 
 • 
-4 recours sont pendants devant la CDAP,  
+4 recours sont pendants devant la CDAP, 
 • 
-Risque financier est estimé à CHF 2 millions,  
+Risque financier est estimé à CHF 2 millions, 
 • 
-Il n’y aura pas d’effet rétroactif prévu sur les montants déjà encaissés.  
-L’impact administratif est important et a une conséquence direct sur le renforcement des effectifs.  
+Il n’y aura pas d’effet rétroactif prévu sur les montants déjà encaissés. 
+L’impact administratif est important et a une conséquence direct sur le renforcement des effectifs. 
 La mise en place de la taxe sur les résidences secondaires a entraîné une charge administrative lourde 
-et généré :  
+et généré : 
 • 
-jusqu’à 900 courriels mensuels,  
+jusqu’à 900 courriels mensuels, 
 • 
-un afflux de demandes aux guichets et par téléphone,  
+un afflux de demandes aux guichets et par téléphone, 
 • 
-l’engagement d’une auxiliaire à 100 %,  
+l’engagement d’une auxiliaire à 100 %, 
 • 
-un appui crucial du service des finances de Montreux, notamment pour la gestion du contentieux.  
+un appui crucial du service des finances de Montreux, notamment pour la gestion du contentieux. 
 Depuis février 2025, l’équipe compte 2 EPT, mais reste à la limite de ses capacités. Le projet de 
-digitalisation devient essentiel pour :  
+digitalisation devient essentiel pour : 
 • 
-réduire les tâches de saisie,  
+réduire les tâches de saisie, 
 • 
-faciliter les échanges avec les communes et hébergeurs,  
+faciliter les échanges avec les communes et hébergeurs, 
 • 
-améliorer la fiabilité des déclarations et de la facturation.  
-La digitalisation des prestations reste un objectif principal :  
+améliorer la fiabilité des déclarations et de la facturation. 
+La digitalisation des prestations reste un objectif principal : 
 Trois établissements pilotes (Royal Plaza, Mona, Astra) testent depuis début 2025 un dispositif 
-entièrement numérique pour la :  
+entièrement numérique pour la : 
 • 
-déclaration des nuitées en ligne,  
+déclaration des nuitées en ligne, 
 • 
-génération automatique des Montreux Riviera Cards,  
+génération automatique des Montreux Riviera Cards, 
 • 
-transmission directe des fiches d’arrivée à la Police Riviera.  
-Premiers retours très positifs :  
+transmission directe des fiches d’arrivée à la Police Riviera. 
+Premiers retours très positifs : 
 • 
-un gain de temps important pour les établissements,  
+un gain de temps important pour les établissements, 
 • 
-une meilleure traçabilité des nuitées,  
+une meilleure traçabilité des nuitées, 
 • 
-une réduction de 4 à 5 heures de travail administratif par jour pour l’équipe CITS.  
+une réduction de 4 à 5 heures de travail administratif par jour pour l’équipe CITS. 
 Ce système vise aussi à mieux encadrer les hébergeurs indépendants, souvent mal informés des 
-obligations réglementaires.  
+obligations réglementaires. 
 Un encadrement juridique renforcé a été mis en place. 
-Le nouveau règlement a permis de doter la CITS de leviers supplémentaires pour :  
+Le nouveau règlement a permis de doter la CITS de leviers supplémentaires pour : 
 • 
-accéder à des données tierces (agences, plateformes, sociétés de sous-location),  
+accéder à des données tierces (agences, plateformes, sociétés de sous-location), 
 • 
-identifier les propriétaires effectifs,  
+identifier les propriétaires effectifs, 
 • 
-contourner les stratégies d’opacité (conciergeries, sociétés écrans).  
+contourner les stratégies d’opacité (conciergeries, sociétés écrans). 
 Le résultat, à savoir près de CHF 400'000.– de recettes supplémentaires récupérées en 2023–2024 sur 
 des cas non régularisés auparavant est encourageant. 
 
-Rapport - Préavis municipal N° 17/2025  
+Rapport - Préavis municipal N° 17/2025 
 3|6 
 Certaines voix se sont élevées concernant un possible conflit d’intérêts entre la gouvernance et la 
-représentation au sein du Bureau de la CITS, qui compte :  
+représentation au sein du Bureau de la CITS, qui compte : 
 • 
 4 membres issus du secteur touristique qui participent aux décisions de subvention dont ils 
-pourraient bénéficier indirectement.  
-Les responsables nous répondent que :  
+pourraient bénéficier indirectement. 
+Les responsables nous répondent que : 
 • 
-les membres sont désignés comme représentants d’un secteur, non comme bénéficiaires directs,  
+les membres sont désignés comme représentants d’un secteur, non comme bénéficiaires directs, 
 • 
-les décisions de financement sont validées collectivement par le bureau,  
+les décisions de financement sont validées collectivement par le bureau, 
 • 
 un audit ou une réflexion sur la gouvernance est envisageable, mais aucun élément ne laisse 
-supposer une dérive structurelle à ce jour.  
+supposer une dérive structurelle à ce jour. 
 Dans le détail la Montreux Riviera Card (MRC) repose sur un modèle de cofinancement tripartite, dans 
-la majorité des cas :  
+la majorité des cas : 
 • 
-Le touriste paie 50% du billet, le rabais de 50% est couvert comme suit :  
-o 50 % du rabais est couvert par la CITS via la taxe de séjour,  
-o 50 % est pris en charge par les prestataires partenaires (musées, châteaux, etc.),  
-Le rabais appliqué est donc généralement de 50 % pour les attractions concernées.  
-Cependant, des cas particuliers existent :  
+Le touriste paie 50% du billet, le rabais de 50% est couvert comme suit : 
+o 50 % du rabais est couvert par la CITS via la taxe de séjour, 
+o 50 % est pris en charge par les prestataires partenaires (musées, châteaux, etc.), 
+Le rabais appliqué est donc généralement de 50 % pour les attractions concernées. 
+Cependant, des cas particuliers existent : 
 • 
 Pour certaines prestations, un rabais de 30 % est accordé. Dans ce cas, la CITS en finance 15 %, et les 
-15 % restants sont pris en charge par les prestataires.  
+15 % restants sont pris en charge par les prestataires. 
 • 
 D’autres prestations – le plus souvent situées hors de la Riviera, telles que Glacier 3000 ou le musée 
-Cailler – offrent un rabais entièrement financé par l’attraction elle-même, sans participation de la CITS.  
+Cailler – offrent un rabais entièrement financé par l’attraction elle-même, sans participation de la CITS. 
 Les prestataires adhèrent à ce modèle, car la MRC leur permet de toucher une clientèle ciblée sans frais 
 marketing directs, tout en augmentant leur fréquentation et leur visibilité régionale. 
 Après le test concluant quant à la recherche de logements touristiques non déclarés sur Corseaux le 
 prochain projet-pilote sera mis en œuvre à La Tour-de-Peilz en collaboration avec l’enquêteur de 
 l’Office de la population. L’objectif est de croiser les données issues du registre des habitants, du 
-cadastre et des contrôles de terrain pour identifier :  
+cadastre et des contrôles de terrain pour identifier : 
 • 
-les logements vacants,  
+les logements vacants, 
 • 
-les résidences secondaires non déclarées,  
+les résidences secondaires non déclarées, 
 • 
-les changements d’affectation non annoncés,  
+les changements d’affectation non annoncés, 
 • 
-ou encore les contribuables non-inscrits à la commune.  
+ou encore les contribuables non-inscrits à la commune. 
 Lorsqu’un logement est mis en location sans l’accord du propriétaire, une situation qui se présente 
-régulièrement, la CITS applique systématiquement les mesures suivantes :  
+régulièrement, la CITS applique systématiquement les mesures suivantes : 
 • 
-Information du propriétaire,  
+Information du propriétaire, 
 • 
-Notification au service d’urbanisme de la commune,  
+Notification au service d’urbanisme de la commune, 
 • 
-Contact avec la gérance, si elle est connue,  
+Contact avec la gérance, si elle est connue, 
 • 
-Transmission du dossier à la police du commerce.  
+Transmission du dossier à la police du commerce. 
 Ces démarches visent à rétablir la légalité, notamment en cas de changement d’usage non déclaré ou 
 de violation du bail. Plusieurs propriétaires ou gérances ont entamé des démarches juridiques contre 
-les locataires concernés.  
+les locataires concernés. 
 Quant à la provision obligatoire de 25 % pour les débiteurs douteux, il s’agit d’une mesure de prudence 
 comptable. L’ajustement opéré au 31.12.2024 repose sur les postes ouverts à cette date (clôture en mars 
 2025) d’où la contradiction avec le texte. Plusieurs montants ont été encaissés depuis. Cette provision 
 permet d’éviter une surestimation des recettes. Elle est actualisée chaque année et ne correspond pas à 
 une perte effective, mais à une mesure conservatoire en cas de non-paiement. 
 
-Rapport - Préavis municipal N° 17/2025  
+Rapport - Préavis municipal N° 17/2025 
 4|6 
 Les CHF 700'000.– attribués au Fonds de réserve pour l’équipement touristique proviennent du 
 bénéfice réalisé en 2023. Après validation des comptes, l’Entente a décidé d’en affecter une partie en 
 2024 au fonds de réserve pour l’équipement touristique. Cette somme permet de financer des projets 
-concrets tels que :  
+concrets tels que : 
 • 
-la signalétique régionale,  
+la signalétique régionale, 
 • 
-des infrastructures d’accueil.  
+des infrastructures d’accueil. 
 En 2025, un montant supplémentaire de CHF 500'000.–, issu du bénéfice 2024, sera affecté au même 
-fonds pour soutenir des projets présentés à l’Entente, dans la limite des ressources disponibles.  
+fonds pour soutenir des projets présentés à l’Entente, dans la limite des ressources disponibles. 
 Pour la « part affectée aux organismes bénéficiaires” il s’agit de montants attribués sur la base de 
-conventions en cours, notamment :  
+conventions en cours, notamment : 
 • 
-CHF 1'500'000. – à Montreux-Vevey Tourisme pour l’exploitation des Points I,  
+CHF 1'500'000. – à Montreux-Vevey Tourisme pour l’exploitation des Points I, 
 • 
-une contribution au Fonds d’équipement touristique Riviera,  
+une contribution au Fonds d’équipement touristique Riviera, 
 • 
-CHF 12'000. – pour le mandat d’agent touristique régional.  
-Ces montants sont fixes et ne varient que si les conventions sont renégociées.  
-Quant à la rétrocession de la part rendue aux communes partenaires elle repose sur :  
+CHF 12'000. – pour le mandat d’agent touristique régional. 
+Ces montants sont fixes et ne varient que si les conventions sont renégociées. 
+Quant à la rétrocession de la part rendue aux communes partenaires elle repose sur : 
 • 
-un pourcentage des recettes encaissées l’année précédente,  
+un pourcentage des recettes encaissées l’année précédente, 
 • 
-un forfait annuel fixe :  
-o CHF 10'000.– pour les communes de plus de 10'000 habitants,  
-o CHF 5'000. – pour les autres.  
+un forfait annuel fixe : 
+o CHF 10'000.– pour les communes de plus de 10'000 habitants, 
+o CHF 5'000. – pour les autres. 
 Ce mécanisme incite les communes à collaborer activement avec l’Entente pour identifier et contrôler 
 les hébergements touristiques et ainsi maximiser les recettes locales. Les fonds alloués à des projets 
 locaux gagnent également en pertinence. Les communes connaissant mieux leur tissu associatif et les 
-besoins spécifiques de leur territoire que la CITS.  
+besoins spécifiques de leur territoire que la CITS. 
 Par rapport à la subvention pour Vibiscum en 2024, une avance de 80 % de la subvention annuelle 
 (CHF 90'000.) a été versée au Festival, à la demande de l’organisateur. À ce moment-là, ni l’annulation 
 de l’édition ni la faillite n’étaient annoncées. Ces événements ont déclenché une procédure de 
-recouvrement aujourd’hui en cours.  
+recouvrement aujourd’hui en cours. 
 La CITS soutient les événements selon les retombées attendues en matière de nuitées, de notoriété et 
-d’animation touristique. Vibiscum remplissait ces critères au moment de la décision, prise le 20.03.2024.  
+d’animation touristique. Vibiscum remplissait ces critères au moment de la décision, prise le 20.03.2024. 
 Quant aux résultats du Marché de Noël de Vevey à la date de la séance, les comptes de l’événement 
-n’avaient pas été transmis. Il est donc impossible d’en évaluer l’impact touristique ou économique.  
+n’avaient pas été transmis. Il est donc impossible d’en évaluer l’impact touristique ou économique. 
 Les décisions entre l’Entente et les commissions communales (COREMI) ne sont pas homogènes. Les 
 recours au CDAP sont liés à ces différences car le manque d’harmonisation entre les COREMI entraîne 
-des décisions divergentes, ce qui crée :  
+des décisions divergentes, ce qui crée : 
 • 
-une insécurité juridique pour les contribuables,  
+une insécurité juridique pour les contribuables, 
 • 
 un risque accru de recours auprès des juridictions supérieures, notamment le Tribunal cantonal 
 (CDAP). 
-Par exemple, pour les résidences secondaires, un propriétaire peut :  
+Par exemple, pour les résidences secondaires, un propriétaire peut : 
 • 
-contester le nombre de pièces facturées,  
+contester le nombre de pièces facturées, 
 • 
-voir ce nombre modifié après vérification par le service de l’urbanisme,  
+voir ce nombre modifié après vérification par le service de l’urbanisme, 
 • 
-puis déposer un nouveau recours contre la facture rectifiée.  
+puis déposer un nouveau recours contre la facture rectifiée. 
 L’idée d’une commission de recours intercommunale unique progresse, mais elle nécessite une analyse 
-juridique approfondie.  
+juridique approfondie. 
 
-Rapport - Préavis municipal N° 17/2025  
+Rapport - Préavis municipal N° 17/2025 
 5|6 
 En revanche, une décision du CDAP ne pourrait pas déclencher une avalanche de nouveaux recours. 
 Seuls les recours déposés dans les délais légaux seront concernés par les effets d’un arrêt du CDAP. En 
-d’autres termes :  
+d’autres termes : 
 • 
-les dossiers en suspens seront réexaminés à la lumière de la jurisprudence,  
+les dossiers en suspens seront réexaminés à la lumière de la jurisprudence, 
 • 
-mais aucun nouveau recours ne sera recevable s’il est hors délai.  
-Cela garantit une gestion maîtrisée du contentieux, en concentrant les efforts sur les cas déjà pendants.  
-Les charges de personnel ont augmenté en raison :  
+mais aucun nouveau recours ne sera recevable s’il est hors délai. 
+Cela garantit une gestion maîtrisée du contentieux, en concentrant les efforts sur les cas déjà pendants. 
+Les charges de personnel ont augmenté en raison : 
 • 
-de la hausse des tâches administratives (recours, contrôles, digitalisation),  
+de la hausse des tâches administratives (recours, contrôles, digitalisation), 
 • 
-de la nécessité de répondre dans des délais raisonnables aux sollicitations.  
-Pour l’historique des effectifs :  
+de la nécessité de répondre dans des délais raisonnables aux sollicitations. 
+Pour l’historique des effectifs : 
 • 
 En 2024 : 1.3 EPT jusqu’en septembre, puis 0.5 EPT, renforcé par un collaborateur auxiliaire à 100 % 
-dès février,  
+dès février, 
 • 
-En 2025 : 2.0 EPT dès février, comprenant :  
-o une auxiliaire pérennisée à 100 % dès le 15 mai,  
-o une responsable de l’office de perception à 100 % dès le 1er février.  
+En 2025 : 2.0 EPT dès février, comprenant : 
+o une auxiliaire pérennisée à 100 % dès le 15 mai, 
+o une responsable de l’office de perception à 100 % dès le 1er février. 
 Cette organisation permet une répartition plus efficace entre gestion courante, contrôle, comptabilité et 
 communication avec les communes. L’équipe reste fortement appuyée par le service des finances de 
-Montreux, notamment en 2024, pour :  
+Montreux, notamment en 2024, pour : 
 • 
-le suivi comptable,  
+le suivi comptable, 
 • 
-le traitement des contentieux,  
+le traitement des contentieux, 
 • 
-et l’accompagnement stratégique.  
+et l’accompagnement stratégique. 
 Les risques liés aux recours au CDAP sont évalués sur la base suivante : 
 • 
- du nombre de recours en cours (environ 200, dont 4 pendants devant la CDAP),  
+du nombre de recours en cours (environ 200, dont 4 pendants devant la CDAP), 
 • 
-de la typologie des dossiers (erreurs de calcul, nombre de pièces, changement d’usage, etc.),  
+de la typologie des dossiers (erreurs de calcul, nombre de pièces, changement d’usage, etc.), 
 • 
-des montants contestés (environ CHF 2 millions),  
+des montants contestés (environ CHF 2 millions), 
 • 
-et d’une analyse juridique coordonnée avec la fiduciaire et les services communaux.  
+et d’une analyse juridique coordonnée avec la fiduciaire et les services communaux. 
 Une provision spécifique a été inscrite aux comptes 2024. Elle sera ajustée dès que les premiers arrêts 
-de la CDAP seront rendus.  
+de la CDAP seront rendus. 
 La question quant à savoir si les conseils communaux doivent voter les comptes de l’Entente 
 intercommunale a été transmise aux autorités cantonales pour clarification. Les points soulevés 
-concernent :  
+concernent : 
 • 
-le caractère consultatif ou décisionnel du vote des conseils communaux,  
+le caractère consultatif ou décisionnel du vote des conseils communaux, 
 • 
-l’étendue de leur responsabilité politique et financière,  
+l’étendue de leur responsabilité politique et financière, 
 • 
 et le statut particulier de la commune boursière (Montreux), qui pourrait justifier une procédure 
-distincte.  
+distincte. 
 Une réponse formelle est attendue afin d’éclaircir la procédure applicable et de déterminer si le vote a 
 une portée symbolique ou exécutoire. 
 Discussion et conclusions 
@@ -306,7 +301,7 @@ l’ensemble des commissaires se montrent satisfaits du préavis. Quelques préc
 ont été demandées et sont après avoir reçu une explication cohérente et concluante incorporées dans le 
 présent rapport. 
 
-Rapport - Préavis municipal N° 17/2025  
+Rapport - Préavis municipal N° 17/2025 
 6|6 
 Prise de décision 
 A l’unanimité la commission vous propose d’accepter les conclusions du préavis municipal N° 17/2025. 
@@ -315,16 +310,15 @@ Nous vous demandons, Madame la Présidente, Mesdames et Messieurs, de bien voulo
 conclusion suivante : 
 Le Conseil communal de La Tour-de-Peilz, 
 • 
-vu le préavis municipal N° 17/2025,  
+vu le préavis municipal N° 17/2025, 
 • 
-vu le rapport de la commission chargée d'examiner ce dossier,  
+vu le rapport de la commission chargée d'examiner ce dossier, 
 • 
-considérant que cet objet a été porté à l'ordre du jour,  
+considérant que cet objet a été porté à l'ordre du jour, 
 décide : 
  d’adopter les comptes 2024 de l’Entente intercommunale sur la taxe de séjour et la taxe sur les 
 résidences secondaires Riviera – Villeneuve. 
- 
- 
+
 La Tour-de-Peilz, le 28 mai 2025 
 Au nom de la commission, 
 Kurt Egli, président-rapporteur 
@@ -333,27 +327,27 @@ Municipalité
 Maison de Commune 
 Grand-Rue 46 · CP 304 
 1814 La Tour-de-Peilz 
- 
+
 
- 021 977 01 11 
+021 977 01 11 
 
- greffe@la-tour-de-peilz.ch 
+greffe@la-tour-de-peilz.ch 
 
- www.la-tour-de-peilz.ch 
+www.la-tour-de-peilz.ch 
 PRÉAVIS MUNICIPAL N° 17/2025 
- 
+
 le 14 mai 2025 
- 
+
 Comptes 2024 de l’Entente intercommunale sur la taxe de séjour et sur la taxe sur les résidences 
 secondaires Riviera-Villeneuve 
- 
+
 10.03.02-2504-Preavis-17-CITS-Comptes-2024.docx 
- 
+
 Au Conseil communal de 
 1814 La Tour-de-Peilz 
- 
+
 Madame la Présidente, 
-Mesdames et Messieurs,  
+Mesdames et Messieurs, 
 1. Objet du préavis 
 Le présent préavis a pour but de vous soumettre pour adoption les comptes 2024 de l’Entente 
 intercommunale sur la taxe de séjour et sur la taxe sur les résidences secondaires Riviera–Villeneuve 
@@ -377,13 +371,13 @@ commune partenaire.
 
 PRÉAVIS MUNICIPAL N° 17/2025 
 2|4 
- 
+
 
- 021 977 01 11 
+021 977 01 11 
 
- greffe@la-tour-de-peilz.ch 
+greffe@la-tour-de-peilz.ch 
 
- www.la-tour-de-peilz.ch 
+www.la-tour-de-peilz.ch 
 Conformément aux dispositions du Règlement sur la Comptabilité des Communes (RCCom), les 
 préavis sur les comptes et le budget de l’Entente doivent être présentés simultanément aux comptes et 
 budgets communaux. De plus, les comptes et budget de l’Entente sont soumis au contrôle de l’Etat. 
@@ -425,20 +419,20 @@ Les frais d’administration et de gestion sont versés par l’Entente à la co
 pour les prestations fournies par son service des finances (art. 5 de la Convention). Il s’agit d’une part, 
 des charges de personnel (y.c. les charges sociales) et d’autre part, des frais de locaux et logistique, qui 
 font l’objet d’un dédommagement forfaitaire, fixé d’entente entre la CITS et la commune boursière. 
-En 2024, le montant total des frais d’administration et de gestion s’est élevé à Fr. 333'396.75.  
+En 2024, le montant total des frais d’administration et de gestion s’est élevé à Fr. 333'396.75. 
 La commune boursière, Montreux, utilisant le même service pour percevoir sa propre taxe communale 
 de séjour, ristourne un montant de Fr. 12'518.55 sur les charges liées à la gestion et à l’administration de 
 l’Entente, laquelle est intégrée dans les produits divers ci-dessus. 
 
 PRÉAVIS MUNICIPAL N° 17/2025 
 3|4 
- 
+
 
- 021 977 01 11 
+021 977 01 11 
 
- greffe@la-tour-de-peilz.ch 
+greffe@la-tour-de-peilz.ch 
 
- www.la-tour-de-peilz.ch 
+www.la-tour-de-peilz.ch 
 Par ailleurs, les autres frais de l’Entente sont les suivants : 
 • 
 autres charges d’exploitations ; 
@@ -489,13 +483,13 @@ Le montant total des charges 2024 s’élève à Fr. 5'727'157.95.
 
 PRÉAVIS MUNICIPAL N° 17/2025 
 4|4 
- 
+
 
- 021 977 01 11 
+021 977 01 11 
 
- greffe@la-tour-de-peilz.ch 
+greffe@la-tour-de-peilz.ch 
 
- www.la-tour-de-peilz.ch 
+www.la-tour-de-peilz.ch 
 Le solde au 31 décembre 2024 s’élève ainsi à Fr. 560'686.85. 
 Il a été décidé à l’unanimité que le bénéfice total, qui s’élève à Fr. 560'686.85, est validé selon la répartition 
 suivante : 
@@ -515,8 +509,7 @@ considérant que cet objet a été porté à l'ordre du jour,
 décide : 
  d’adopter les comptes 2024 de l’Entente intercommunale sur la taxe de séjour et la taxe sur les 
 résidences secondaires Riviera – Villeneuve. 
- 
- 
+
 Annexes : 
 • 
 Comptes 2024 de l’Entente 
@@ -527,77 +520,35 @@ Liste des organismes intercommunaux de portée régionale subventionnés par la 
 • 
 Liste des subventions octroyées aux manifestations, installations, équipements et autres prestations 
 touristiques de portée régionale en 2024. 
- 
+
 Délégué municipal : M Jean-Pierre Schwab 
 Adopté par la Municipalité : le 28 avril 2025 
- 
+
 AU NOM DE LA MUNICIPALITÉ 
- 
+
 La syndique : 
- 
+
 Le secrétaire : 
 Sandra Pasquier 
 Pierre-A. Dupertuis 
 
- 
- 
 Rapport sur la vérification des comptes annuels arrêtés au 31 décembre 2024 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Lausanne, le 17 mars 2025 
- 
- 
-10764 BA/ZU/HZ  (2/1) 
- 
- 
 
- 
+Lausanne, le 17 mars 2025 
+
+10764 BA/ZU/HZ (2/1) 
+
 à la Commission de l’Entente intercommunale sur la taxe de séjour et sur la taxe sur les 
 résidences secondaires Riviera-Villeneuve, Montreux 
- 
- 
+
 Conformément au mandat qui nous a été confié, nous avons procédé à un examen succinct 
 des comptes de l’Entente intercommunale sur la taxe de séjour et sur la taxe sur les résidences 
 secondaires Riviera-Villeneuve comprenant le bilan et le compte de résultat pour l’exercice 
-arrêté au 31 décembre 2024.  
- 
+arrêté au 31 décembre 2024. 
+
 Ces comptes annuels relèvent de la responsabilité du Bureau, alors que notre responsabilité 
-consiste à émettre un rapport sur ces comptes sur la base de notre examen succinct.  
- 
+consiste à émettre un rapport sur ces comptes sur la base de notre examen succinct. 
+
 Nous avons effectué notre examen succinct selon la Norme d’audit suisse 910 Review (examen 
 succinct) d’états financiers. Cette norme requiert que l’examen succinct soit planifié et réalisé 
 en vue d'obtenir une assurance modérée que les comptes annuels ne comportent pas 
@@ -605,28 +556,21 @@ d'anomalie significative. Un examen succinct comporte essentiellement des entret
 personnel de l’association et des procédures analytiques appliquées aux données financières. 
 Il fournit donc un niveau d'assurance moins élevé qu'un audit. Nous avons effectué une review 
 et non un audit et, en conséquence, nous n’exprimons donc pas d’opinion d’audit. 
- 
+
 Précisons qu’il ne nous est pas possible de certifier que l’intégralité des taxes de séjour et des 
 taxes sur les résidences secondaires Riviera-Villeneuve figure dans les comptes soumis à notre 
 examen, du fait qu’il n’est à ce jour pas possible de garantir que l’intégralité des établissements 
-susceptibles d’être soumis à la taxe de séjour soit répertoriée.  
- 
+susceptibles d’être soumis à la taxe de séjour soit répertoriée. 
+
 Sur la base de notre examen succinct, et à l’exception de ce qui vient d’être évoqué ci-dessus, 
 nous n'avons pas relevé de faits qui nous laissent à penser que les comptes annuels ne sont 
 pas conformes à la loi sur les communes du 28 février 1956 et au règlement cantonal sur la 
 comptabilité des communes du 14 décembre 1979. 
- 
- 
+
 Lausanne, le 17 mars 2025 
- 
- 
- 
+
 Fidinter SA 
- 
- 
- 
- 
- 
+
 Gérald Balimann 
 er Vincent Zünd 
 Expert-comptable diplômé 
@@ -634,16 +578,14 @@ Expert-comptable diplômé
 Expert-réviseur agréé 
 Expert-réviseur agréé 
 Réviseur responsable 
- 
- 
- 
+
 Annexe : comptes annuels (bilan et compte de résultat) 
 
 Entente intercommunale sur la taxe de séjour et sur la taxe sur les résidences secondaires 
 Riviera-Villeneuve
- BILAN au 31décembre 
- COMPTES 2024 
- COMPTES 2023 
+BILAN au 31décembre 
+COMPTES 2024 
+COMPTES 2023 
 ACTIF
 Liquidités
 769'175.04
@@ -653,9 +595,9 @@ Débiteurs compte collectif
 4'013'032.23
 Provision perte sur débiteurs
 811'491.15
--             
+- 
 446'424.65
--             
+- 
 Compte courant Montreux
 -
 Prêt - Association Quais de Noël Vevey
@@ -711,10 +653,10 @@ Résultat
 TOTAL DU PASSIF
 5'656'000.07
 4'731'236.55
- Compte d'exploitation au 31 décembre 
- COMPTES 2024 
- BUDGET  2024 
- COMPTES 2023 
+Compte d'exploitation au 31 décembre 
+COMPTES 2024 
+BUDGET 2024 
+COMPTES 2023 
 PRODUITS
 Recettes de la taxe de séjour
 Montreux
@@ -834,10 +776,10 @@ Page 1/2
 
 Entente intercommunale sur la taxe de séjour et sur la taxe sur les résidences secondaires 
 Riviera-Villeneuve
- Compte d'exploitation au 31 décembre 
- COMPTES 2024 
- BUDGET  2024 
- COMPTES 2023 
+Compte d'exploitation au 31 décembre 
+COMPTES 2024 
+BUDGET 2024 
+COMPTES 2023 
 CHARGES
 Frais liés aux prestations de la commune boursière de l'Entente - Montreux
 Charges de personnel y compris les charges sociales
@@ -1058,10 +1000,9 @@ ENTENTE INTERCOMMUNALE
 SUR LA TAXE DE SÉJOUR ET 
 SUR LA TAXE SUR LES RÉSIDENCES SECONDAI RES RIVIERA-
 VILLENEUVE 
- 
+
 RAPPORT D’ACTIVITÉS ET DE GESTION 2024 
- 
- 
+
 1. 
 HISTORIQUE ET BUT 
 Dès les années 80, la plupart des communes de la Riviera ont établi un règlement communal ou 
@@ -1147,7 +1088,7 @@ assumée par une des deux principales communes contributrices, la principale com
 est désignée au bureau, selon l’ordre d’importance des recettes encaissées lors de l’exercice précédent le 
 changement des membres. Comme pour la CITS, les délégué·e·s de la Commission ont été désignés pour 
 siéger au Bureau durant l’année civile 2023 et sont : 
- 
+
 - 
 M. Vincent Imhof (Vevey) 
 président de la CITS 
@@ -1160,11 +1101,11 @@ représentant principale commune contributrice
 - 
 M. Alain Bovay (Blonay – Saint-Légier) 
 représentant principale commune contributrice après Vevey 
- 
+
 Les quatre représentant·e·s des milieux touristiques désignés par la CITS doivent être : un·e représentant·e 
 de MVT, deux représentant·e·s d’HôtellerieSuisse - section Montreux-Vevey et un·e représentant·e des écoles 
 privées : 
- 
+
 - 
 M. Christoph Sturny 
 MVT 
@@ -1178,8 +1119,6 @@ HôtellerieSuisse – section Montreux-Vevey
 M. Benoît Samson 
 représentant·e des écoles privées 
 Le secrétaire et le coordinateur de l’Entente assistent aux séances du Bureau avec voix consultatives. 
- 
- 
 
 ENTENTE INTERCOMMUNALE SUR LA TAXE DE SÉJOUR ET SUR LA TAXE SUR LES RÉSIDENCES SECONDAIRES 
 3
@@ -1188,47 +1127,47 @@ ACTIVITÉS 2024
 Au cours de l’année 2024, la CITS s’est réunie à 2 reprises et le Bureau à 6 reprises. 
 Affectation des taxes 
 Les compétences de la Commission sont régies par l’article 3 de la Convention de l’Entente. En 2024, elle 
-a eu l’occasion :  
+a eu l’occasion : 
 - 
-d’adopter  
+d’adopter 
 o 
-les comptes 2023 ;  
+les comptes 2023 ; 
 o 
-le rapport de gestion 2023 ;  
+le rapport de gestion 2023 ; 
 o 
 le budget 2025 ; 
- 
+
 - 
-de s’exprimer et d’échanger sur  
+de s’exprimer et d’échanger sur 
 o 
 les offres relatives à l’identité visuelle et la traduction du nouveau règlement ; 
 o 
 la situation des logements vides et le taux de résidences secondaires des communes 
 membres. 
- 
+
 Les compétences du Bureau sont régies par l’article 9 de la Convention de l’Entente. En 2024, il a eu 
-l’occasion :  
+l’occasion : 
 - 
 de préparer 
 o 
-les comptes 2023 ;  
+les comptes 2023 ; 
 o 
-le rapport de gestion 2023 ;  
+le rapport de gestion 2023 ; 
 o 
 le budget 2025 ; 
- 
+
 - 
-de traiter  
+de traiter 
 o 
-les demandes de subventions des organisateurs de manifestations ;  
- 
+les demandes de subventions des organisateurs de manifestations ; 
+
 - 
-de s’exprimer et d’échanger sur  
+de s’exprimer et d’échanger sur 
 o 
 l’avancement du projet de digitalisation de la Montreux Riviera Card ; 
 o 
 les points d’acceptation de la Montreux Riviera Card et la réévaluation de leurs avantages. 
- 
+
 En 2024, le bureau a traité 42 demandes de subventions, dont 2 ont été renvoyées aux communes 
 concernées, 36 ont été acceptées et 4 ont été refusées, ce pour un total de CHF 1'408’000.-. 
 Prestations de la commune boursière de l’Entente et du coordinateur MVT 
@@ -1257,7 +1196,6 @@ la préparation des budgets, comptes et rapport de gestion ;
 l’analyse des comptes des organismes subventionnés ; 
 - 
 le bouclement des comptes de l’Entente. 
- 
 
 ENTENTE INTERCOMMUNALE SUR LA TAXE DE SÉJOUR ET SUR LA TAXE SUR LES RÉSIDENCES SECONDAIRES 
 4
@@ -1312,28 +1250,25 @@ suivante :
  
 un montant de CHF 500’000.- est alloué au fonds de l’équipement touristique ; 
  
-le solde, soit CHF 60'686.85, est versé à la réserve générale.  
- 
+le solde, soit CHF 60'686.85, est versé à la réserve générale. 
+
 Montreux - le 9 avril 2025 / LM 
 
- 
 CITS – Organismes soutenus 2024 
- 
+
 29 avril 2025 
- 
- 
- 
+
 ORGANISMES INTERCOMMUNAUX SOUTENUS EN 2024 
- 
+
 En 2024, la CITS a soutenu, en vertu de l’article 3, let. d, al. 1 de la Convention de 
-l’Entente, les organismes suivants :  
+l’Entente, les organismes suivants : 
 - 
 Montreux-Vevey Tourisme 
 - 
 Fondation de l’équipement touristique de la Riviera1 
 - 
 Fonds culturel Riviera pour l’agenda Riviera 
-                                                          
+
 1 Nommé par erreur Fonds équipement touristique Riviera sur les comptes révisés 
 
 Subventions aux manifestations

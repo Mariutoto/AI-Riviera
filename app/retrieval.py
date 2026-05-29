@@ -1,11 +1,11 @@
 import json
 import math
 import re
-import unicodedata
 from collections import Counter
 from functools import lru_cache
 
 from app.config import CHUNKS_PATH
+from app.text_cleaning import strip_accents
 
 
 STOPWORDS = {
@@ -19,8 +19,7 @@ STOPWORDS = {
 
 
 def tokenize(text: str) -> list[str]:
-    text = unicodedata.normalize("NFKD", text)
-    text = "".join(char for char in text if not unicodedata.combining(char))
+    text = strip_accents(text)
     tokens = re.findall(r"[a-zA-ZÀ-ÿ0-9]{3,}", text.lower())
     return [token for token in tokens if token not in STOPWORDS]
 

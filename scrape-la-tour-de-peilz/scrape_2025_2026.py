@@ -8,6 +8,9 @@ from urllib.parse import parse_qs, unquote, urljoin, urlparse
 import fitz
 import requests
 
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from app.text_cleaning import clean_french_text
+
 
 BASE_URL = "https://www.la-tour-de-peilz.ch/"
 YEARS = {"2025", "2026"}
@@ -115,7 +118,7 @@ def safe_filename(pdf_url: str) -> str:
 
 def extract_text(pdf_path: Path) -> str:
     document = fitz.open(pdf_path)
-    return "\n".join(page.get_text() for page in document)
+    return clean_french_text("\n".join(page.get_text() for page in document))
 
 
 def collect_pdf_urls() -> dict[str, str]:
