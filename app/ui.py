@@ -50,6 +50,28 @@ with st.sidebar:
     else:
         st.warning("Aucun index trouvé. Clique sur Réindexer les documents.")
 
+
+def documents_changed_after_index() -> bool:
+    if not CHUNKS_PATH.exists():
+        return True
+
+    index_mtime = CHUNKS_PATH.stat().st_mtime
+    for path in DOCUMENTS_ROOT.rglob("*.txt"):
+        if path.stat().st_mtime > index_mtime:
+            return True
+    for path in DOCUMENTS_ROOT.rglob("*.json"):
+        if path.stat().st_mtime > index_mtime:
+            return True
+    return False
+
+
+def ensure_index_ready() -> None:
+    if documents_changed_after_index():
+        with st.spinner("Mise à jour de l'index des documents..."):
+            build_index()
+            load_chunks.cache_clear()
+
+
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
@@ -64,10 +86,7 @@ if question:
     with st.chat_message("user"):
         st.markdown(question)
 
-    if not CHUNKS_PATH.exists():
-        with st.spinner("Je crée l'index pour la première fois..."):
-            build_index()
-            load_chunks.cache_clear()
+    ensure_index_ready()
 
     results = search(question, limit=6)
     answer = answer_from_sources(question, results)
