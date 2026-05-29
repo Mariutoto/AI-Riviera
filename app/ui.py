@@ -72,6 +72,29 @@ def ensure_index_ready() -> None:
             load_chunks.cache_clear()
 
 
+def group_results_by_document(results: list[dict]) -> list[dict]:
+    grouped = {}
+    for result in results:
+        metadata = result["metadata"]
+        document_key = (
+            metadata.get("pdf_url")
+            or metadata.get("text_path")
+            or result.get("relative_text_path")
+            or metadata.get("filename")
+            or result["id"].split("#", 1)[0]
+        )
+        if document_key not in grouped:
+            grouped[document_key] = {
+                "metadata": metadata,
+                "relative_text_path": result.get("relative_text_path", ""),
+                "score": result.get("score", 0),
+                "passages": [],
+            }
+        grouped[document_key]["score"] = max(grouped[document_key]["score"], result.get("score", 0))
+        grouped[document_key]["passages"].append(result)
+    return sorted(grouped.values(), key=lambda item: item["score"], reverse=True)
+
+
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
@@ -97,16 +120,21 @@ if question:
         if results:
             st.divider()
             st.subheader("Sources")
-            for index, result in enumerate(results, start=1):
-                metadata = result["metadata"]
-                filename = metadata.get("filename", result.get("relative_text_path", "document"))
+            for index, source in enumerate(group_results_by_document(results), start=1):
+                metadata = source["metadata"]
+                filename = metadata.get("filename", source.get("relative_text_path", "document"))
                 year = metadata.get("year", "")
                 category = metadata.get("category", "")
                 pdf_url = metadata.get("pdf_url", "")
-                label = f"{index}. {filename} — {year} / {category}"
+                passages = source["passages"]
+                passage_label = "passage" if len(passages) == 1 else "passages"
+                label = f"{index}. {filename} — {year} / {category} ({len(passages)} {passage_label})"
                 with st.expander(label):
                     if pdf_url:
                         st.markdown(f"[Ouvrir le PDF source]({pdf_url})")
-                    st.code(result["text"][:1800], language="text")
+                    for passage_index, passage in enumerate(passages[:3], start=1):
+                        if len(passages) > 1:
+                            st.caption(f"Passage {passage_index}")
+                        st.code(passage["text"][:1800], language="text")
 
     st.session_state.messages.append({"role": "assistant", "content": answer})
