@@ -3,8 +3,6 @@ du Conseil communal
 de La Tour-de-Peilz
 2017
 
- 
- 
 TABLE DES MATIERES 
 Titre I 
 DU CONSEIL COMMUNAL ET DE SES ORGANES 
@@ -45,7 +43,7 @@ Incompatibilités
 Art. 14. 
 Archives 
 CHAPITRE III - Attributions et compétences 
- 
+
 Section I - Du conseil 
 Art. 15. 
 Attributions 
@@ -58,7 +56,7 @@ Interdiction d’accepter ou de solliciter des libéralités ou
 d’autres avantages 
 Art. 18. 
 Référendum 
- 
+
 Section II - Du bureau du conseil 
 Art. 19. 
 Membres 
@@ -69,9 +67,6 @@ Archives
 Art. 22. 
 Bureau électoral 
 
- 
- 
- 
 Section III - Du président du conseil 
 Art. 23. 
 Sceau, signature 
@@ -101,11 +96,11 @@ Art. 35.
 Présidence du bureau électoral 
 Art. 36. 
 Transmission des pouvoirs 
- 
+
 Section IV - Des scrutateurs 
 Art. 37. 
 Attributions 
- 
+
 Section V - Du secrétaire 
 Art. 38. 
 Signature 
@@ -119,7 +114,7 @@ Art. 42.
 Registres 
 Art. 43. 
 Enregistrement des séances 
- 
+
 Section VI - De l'huissier 
 Art. 44. 
 Attribution 
@@ -143,8 +138,6 @@ Quorum
 Art. 52. 
 Vote du président 
 
- 
- 
 Art. 53. 
 Mode de délibération 
 Art. 54. 
@@ -171,11 +164,11 @@ Rapport - Dépôt
 Art. 63. 
 Rapport - Lecture 
 CHAPITRE III - Commissions permanentes 
- 
+
 Section I - Dispositions générales 
 Art. 64. 
 Durée 
- 
+
 Mode d’élection 
 Art. 65. 
 Présidence 
@@ -185,33 +178,29 @@ Art. 67.
 Empêchement, remplacement 
 Art. 68. 
 Confidentialité 
- 
+
 Section II - Dispositions communes aux commissions de gestion et des finances 
 Art. 69. 
 Organisation 
 Art. 70. 
 Droit d’investigation 
- 
+
 Section III - Commission de gestion 
 Art. 71. 
 Compétences 
- 
+
 Section IV - Commission des finances 
 Art. 72. 
 Compétences 
 Art. 73. 
- 
+
 Art. 74. 
 Rapport à la municipalité 
- 
+
 Section V - Commission de recours en matière d'impôts 
 Art. 75. 
 Compétences 
- 
- 
 
- 
- 
 Titre III 
 TRAVAUX GÉNÉRAUX DU CONSEIL 
 CHAPITRE PREMIER - Des assemblées du conseil 
@@ -236,9 +225,9 @@ Objets non traités
 CHAPITRE II - Droits des conseillers et de la municipalité 
 Art. 85. 
 Définition 
- 
+
 Section I - Des conseillers 
- 
+
 Section I, a - Droit d’initiative 
 Art. 86. 
 Postulat, motion, projet rédigé 
@@ -256,7 +245,7 @@ Art. 92.
 Procédure de vote 
 Art. 93. 
 Motion en suspens 
- 
+
 Section I, b - Interpellation 
 Art. 94. 
 Définition 
@@ -264,38 +253,36 @@ Art. 95.
 Développement 
 Art. 96. 
 Réponse 
- 
+
 Section I, c - Question, vœu 
 Art. 97. 
 Définition 
- 
+
 Section II - De la municipalité 
 Art. 98. 
 Préavis 
- 
+
 Dépôt 
- 
+
 Examen par une commission 
 Art. 99. 
 Urgence 
 Art. 100. 
 Retrait d’un préavis 
 
- 
- 
 CHAPITRE III - De la pétition 
 Art. 101. 
 Définition 
 Art. 102. 
 Procédure 
 Art. 103. 
- 
+
 Art. 104. 
- 
+
 Art. 105. 
- 
+
 Art. 106. 
- 
+
 CHAPITRE IV - De la discussion 
 Art. 107. 
 Participation de la municipalité 
@@ -304,11 +291,11 @@ Entrée en matière
 Art. 109. 
 Droit de parole 
 Art. 110. 
- 
+
 Art. 111. 
 Rappel à l’ordre 
 Art. 112. 
- 
+
 Art. 113. 
 Déroulement 
 Art. 114. 
@@ -345,19 +332,16 @@ Etablissement des résultats
 Art. 129. 
 Nullité 
 Art. 130. 
-Second débat  
+Second débat 
 Art. 131. 
 Ententes intercommunales et association de communes 
 Art. 132. 
 Référendum 
- 
 
- 
- 
 Titre IV 
 BUDGET, GESTION ET COMPTES 
 CHAPITRE PREMIER - Budget et crédits d'investissement 
- 
+
 Section I - Budget de fonctionnement 
 Art. 133. 
 Objet 
@@ -372,8 +356,7 @@ Amendement au projet du budget
 Art. 138. 
 Vote - délai 
 Art. 139. 
- 
- 
+
 Section II - Crédits d'investissement 
 Art. 140. 
 Crédits d’investissement 
@@ -411,39 +394,33 @@ DISPOSITIONS DIVERSES
 CHAPITRE PREMIER - Initiative populaire 
 Art. 155. 
 Procédure 
- 
 
- 
- 
 CHAPITRE II - Communications entre la municipalité et le conseil 
 Art. 156. 
-  
+
 Art. 157. 
-  
+
 Art. 158. 
-  
+
 CHAPITRE III - De la publicité des débats 
 Art. 159. 
-  
+
 Art. 160. 
-  
+
 Art. 161. 
-  
+
 CHAPITRE IV - Dispositions finales 
 Art. 162. 
-  
+
 Art. 163. 
-  
+
 Art. 164. 
-  
+
 ANNEXE - Abréviations et renvois aux articles de lois 
 Page 36 
 ANNEXE - Index 
 Page 38 
- 
 
- 
- 
 Titre I 
 DU CONSEIL COMMUNAL ET DE SES ORGANES 
 CHAPITRE PREMIER 
@@ -457,7 +434,7 @@ membres
 (art. 17 LC) 
 Article premier.- Le nombre des membres du conseil 
 communal est fixé selon l'effectif de la population de la 
-commune, issu du recensement annuel.  
+commune, issu du recensement annuel. 
 Le conseil communal peut modifier le nombre de ses membres 
 au plus tard le 30 juin de l’année précédant le renouvellement 
 intégral des autorités communales. 
@@ -467,7 +444,7 @@ Election
 Art. 2.- Le corps électoral est convoqué tous les cinq ans, au 
 printemps, pour procéder à l'élection des membres du conseil.
 Cette élection a lieu selon le système de la représentation 
-proportionnelle.  
+proportionnelle. 
 Qualité d’électeurs 
 (art. 97 LC) 
 Art. 3.- Les membres du conseil doivent être des électeurs au 
@@ -475,7 +452,7 @@ sens de l’art. 5 LEDP.
 S'ils perdent la qualité d’électeurs dans la commune, ils sont 
 réputés démissionnaires. 
 La démission est effective à compter du jour où l’intéressé est 
-radié du registre des électeurs.  
+radié du registre des électeurs. 
 Installation 
 (art. 143 Cst-VD, 66 et 
 67 LEDP) 
@@ -483,14 +460,12 @@ Art. 4.- Le conseil est installé par le préfet, conformément aux
 articles 83 à 92 LC. 
 Préliminairement, le préfet constate la démission des 
 conseillers communaux élus à la municipalité, ainsi que leur 
-remplacement par des suppléants.  
+remplacement par des suppléants. 
 Assermentation 
 Art. 5.- Avant d'entrer en fonction, les membres du conseil 
 prêtent serment selon l’article 29 RC. 
 1
 
- 
- 
 Nominations et 
 organisation 
 (art. 10 et 89 LC) 
@@ -500,19 +475,19 @@ nomination de son président et du secrétaire qui entrent
 immédiatement en fonction. Le conseil nomme ensuite les 
 premier et deuxième vice-présidents, les deux scrutateurs, les 
 deux scrutateurs-suppléants, ainsi que l'huissier et son 
-suppléant.  
+suppléant. 
 Le secrétaire est nommé pour 5 ans. Il est choisi en dehors du 
 conseil. Il est néanmoins révocable en tout temps. 
 L’huissier et son remplaçant sont nommés pour 5 ans et choisis 
 en dehors du conseil. Ils sont néanmoins révocables en tout 
-temps.  
-Entrée  
+temps. 
+Entrée 
 en fonction 
 (art. 92 LC) 
 Art. 7.- L'installation du conseil et de la municipalité ainsi que 
 la formation du bureau du conseil ont lieu avant le 30 juin 
 suivant les élections générales. Ces autorités n’entrent en 
-fonction que le 1er juillet.  
+fonction que le 1er juillet. 
 Groupes 
 Art. 7.bis- Les conseillers communaux élus sur la même liste 
 forment d’office un groupe dans la mesure où ils sont au 
@@ -546,14 +521,14 @@ RC)
 Art. 8.- Les membres du conseil et de la municipalité absents, 
 de même que ceux élus après une élection complémentaire,
 sont assermentés devant le conseil par le président de ce corps, 
-qui en informe le préfet.  
+qui en informe le préfet. 
 Le président leur impartit un délai après l’échéance du délai 
 de réclamation ou de recours prévu par la législation en 
-matière d’exercice des droits politiques.  
+matière d’exercice des droits politiques. 
 En cas d'urgence, ils peuvent prêter serment devant le bureau. 
 Le conseiller municipal ou le conseiller communal qui ne prête 
 pas serment au plus tard dans le délai imparti par le président 
-est réputé démissionnaire.  
+est réputé démissionnaire. 
 Démissions 
 Art. 9.- Les démissions sont adressées par écrit à la présidence 
 du conseil. Elles sont irrévocables. 
@@ -577,8 +552,6 @@ deux scrutateurs et deux suppléants.
 Ils ne sont pas immédiatement rééligibles à la même fonction. 
 3
 
- 
- 
 Mode de 
 nomination 
 (art. 11 LC) 
@@ -587,10 +560,10 @@ nomination
 (art. 11 LC) 
 Art. 12.- Le président, les vice-présidents et le secrétaire sont 
 nommés au scrutin individuel secret ; les scrutateurs sont élus 
-au scrutin de liste, leurs suppléants également.  
+au scrutin de liste, leurs suppléants également. 
 Lorsque le nombre de candidats est égal à celui des sièges à 
 repourvoir, l’élection peut s’opérer tacitement. Mention en est 
-faite au procès-verbal.  
+faite au procès-verbal. 
 L'huissier et son suppléant sont élus à main levée. 
 Ces élections ont lieu à la majorité absolue au premier tour et à 
 la majorité relative au second. Les bulletins blancs sont pris en 
@@ -602,10 +575,10 @@ Incompatibilités
 Art. 13.- Le syndic, les membres de la municipalité et le 
 secrétaire municipal ne sont pas éligibles aux diverses 
 fonctions mentionnées à l'article 11 RC. Le secrétaire municipal 
-ne peut être élu secrétaire du conseil.  
+ne peut être élu secrétaire du conseil. 
 Le secrétaire du conseil ne doit pas être conjoint, parent ou 
 allié en ligne directe ascendante ou descendante, ou frère ou 
-sœur du président.  
+sœur du président. 
 Un membre de la municipalité sortant de charge ne peut faire 
 partie des commissions de gestion et des finances, aussi 
 longtemps qu’elles contrôlent sa gestion. 
@@ -616,14 +589,12 @@ Les archives se composent de tous les registres, pièces et
 documents qui concernent le conseil. 
 4
 
- 
- 
 CHAPITRE III 
 ATTRIBUTIONS ET COMPÉTENCES 
 Section I 
 Du conseil 
 Attributions 
-(art. 146 Cst-VD et  
+(art. 146 Cst-VD et 
 4 LC) 
 (art. 134 al. 2, 135 et 
 142 RC) 
@@ -632,7 +603,7 @@ Art. 15.- Le conseil délibère sur :
 2. le projet de budget et les comptes ; 
 3. les propositions de dépenses extraordinaires et supplé-
 mentaires ; 
-4. le projet d'arrêté d'imposition ;  
+4. le projet d'arrêté d'imposition ; 
 5. l'acquisition et l'aliénation d'immeubles, de droits réels 
 immobiliers 
 et 
@@ -673,8 +644,6 @@ mobilières qui ne sont pas de la compétence de la
 municipalité en vertu de l'article 44 ch. 2 LC ; 
 5
 
- 
- 
 (art. 94 LC) 
 (art. 29 LC) 
 (art. 110 ss et 112 ss 
@@ -711,7 +680,7 @@ syndic ;
 notamment la ratification d’ententes intercommunales et 
 la constitution et la dissolution d’associations de 
 communes. 
-Délégations de  
+Délégations de 
 compétences 
 (art. 4 al. 2 LC) 
 Art. 16.- Les délégations de compétences prévues à l’article 15 
@@ -732,9 +701,7 @@ conseil lors de sa plus prochaine séance, ensuite à l'occasion de
 son rapport annuel de gestion. 
 6
 
- 
- 
-Nombre  
+Nombre 
 des membres 
 de la municipalité 
 (art. 47 LC) 
@@ -752,7 +719,7 @@ communales.
 Interdiction 
 d’accepter ou de 
 solliciter des 
-libéralités ou  
+libéralités ou 
 d’autres avantages 
 (art. 100a LC) 
 Art. 17b. - Les membres du conseil, de la municipalité et de 
@@ -793,8 +760,6 @@ Il préside à la remise des archives d'un secrétaire à son
 successeur. 
 7
 
- 
- 
 Bureau électoral 
 (art. 12 LEDP) 
 Art. 22.- Le bureau du conseil forme le bureau électoral pour 
@@ -834,11 +799,9 @@ autorités est outragé par un tiers se trouvant dans la salle, le
 coupable est expulsé par les agents de la force publique. 
 S'il s'agit d'un fait paraissant constituer un délit, procès-verbal 
 est dressé ; la cause est instruite et jugée selon les règles de la 
-procédure pénale.  
+procédure pénale. 
 8
 
- 
- 
 Tirage au sort 
 Art. 27.- Le président procède au tirage au sort dans les cas 
 prévus par la loi et le présent règlement, conformément à 
@@ -847,7 +810,7 @@ Assermentation
 Art. 28.- Conformément à l’art. 8 RC, le président procède à 
 l'assermentation des membres du conseil et de la municipalité 
 nommés après le renouvellement intégral du conseil ou 
-absents lors de son installation. Il en informe le préfet.  
+absents lors de son installation. Il en informe le préfet. 
 Après avoir demandé à l'assemblée et au public de se lever, il 
 prie le nouveau conseiller communal ou municipal de 
 s'avancer devant le bureau. Il donne lecture du serment et 
@@ -875,15 +838,13 @@ qui pourraient venir à votre connaissance ; de nommer
 toujours le plus éclairé et le plus propre à l'emploi dont il 
 s'agira ; enfin, de n'excéder jamais les attributions qui vous 
 sont confiées". 
-Surveillance  
+Surveillance 
 du secrétaire 
 Art. 30.- Le président contrôle le travail du secrétaire. 
 En cas d'empêchement du secrétaire, le président pourvoit à 
 son remplacement par un secrétaire ad hoc. 
 9
 
- 
- 
 Il peut seul permettre, moyennant autorisation écrite, la sortie 
 de pièces originales des archives ainsi que leur consultation. 
 L’article 161 RC est réservé. 
@@ -910,7 +871,7 @@ Empêchement
 Art. 34.- En cas d'empêchement, le président est remplacé, 
 dans l'ordre par le premier ou le deuxième vice-président, à 
 leur défaut, par un président ad hoc désigné par l'assemblée. 
-Présidence du  
+Présidence du 
 bureau électoral 
 (art. 12 LEDP) 
 Art. 35.- Le président préside le bureau électoral. 
@@ -926,18 +887,16 @@ suffrages lors des votations et élections. Ils communiquent le
 résultat au président. 
 Le président peut appeler les scrutateurs suppléants à 
 collaborer aux opérations. 
- 
+
 10
 
- 
- 
 Section V 
 Du secrétaire 
 Signature 
 (art. 71a LC) 
 Art. 38.- Le secrétaire signe avec le président toutes les pièces 
 officielles émanant du conseil. 
-Archives   
+Archives 
 Art. 39.- Le secrétaire tient à jour les archives du conseil et en 
 assure la conservation. 
 Lorsqu’il cesse ses fonctions, il remet les archives au bureau du 
@@ -951,7 +910,7 @@ Il envoie aux présidents des commissions la liste des membres
 qui les composent et leur remet les pièces relatives aux affaires 
 dont elles doivent s'occuper. 
 Lors des séances du conseil, il procède à l'appel nominal et 
-note les absents.  
+note les absents. 
 Il rédige le procès-verbal des séances et les extraits qui doivent 
 être signés par le président puis il les fait parvenir à la 
 municipalité. Il adresse le procès-verbal à chaque conseiller. 
@@ -972,8 +931,6 @@ conseil les textes légaux nécessaires, le budget de l'année
 courante et les comptes de l'année précédente. 
 11
 
- 
- 
 Registres 
 Art. 42.- Le secrétaire est chargé de la tenue des divers 
 registres du conseil qui sont : 
@@ -1012,8 +969,6 @@ conseil lors des séances et de son président en dehors de
 celles-ci. 
 12
 
- 
- 
 Titre II 
 DES COMMISSIONS 
 CHAPITRE PREMIER 
@@ -1058,8 +1013,6 @@ ces propositions doivent être formulées par écrit sous forme de
 préavis. 
 13
 
- 
- 
 Participation 
 Art. 48.- Un membre du conseil ne peut refuser de faire partie 
 d'une commission, à moins de motifs reconnus valables par le 
@@ -1099,7 +1052,7 @@ Vote du président
 Art. 52.- Le président de la commission prend part au vote. En 
 cas d'égalité des voix, son vote est prépondérant pour 
 déterminer la majorité de la commission. 
-Mode de  
+Mode de 
 délibération 
 (art. 40g LC) 
 Art. 53.- La commission délibère à huis clos. 
@@ -1114,8 +1067,6 @@ de fonction, aux conditions prévues aux articles 40d et
 40i LC3,5. 
 14
 
- 
- 
 Informations 
 (art. 40h LC) 
 Art. 55.- Si une commission a des explications, des 
@@ -1129,7 +1080,7 @@ de la
 municipalité, 
 une 
 commission peut recevoir ou consulter des intervenants 
-extérieurs pour l'objet traité.  
+extérieurs pour l'objet traité. 
 Lorsque 
 la 
 commission 
@@ -1138,7 +1089,7 @@ directement
 à 
 l'administration communale, la municipalité peut demander à 
 être entendue avant que la commission ne procède à 
-l'investigation envisagée et à y participer.  
+l'investigation envisagée et à y participer. 
 En cas d'engagement financier, l'accord de la municipalité est 
 nécessaire. 
 Observations 
@@ -1168,8 +1119,6 @@ commission ne peut être remplacé que par un membre du
 même groupe. Le président de la commission en est informé. 
 15
 
- 
- 
 Rapport - Forme et 
 contenu 
 Art. 60.- Les rapports des commissions sont écrits. Tout 
@@ -1203,14 +1152,12 @@ Art. 64.- Les commissions permanentes sont élues par le
 conseil communal lors de la séance d'assermentation de la 
 nouvelle législature et pour la durée de celle-ci. 
 Les commissions permanentes sont : 
-a. la commission de gestion ;  
+a. la commission de gestion ; 
 b. la commission des finances. 
 Le Conseil communal élit également pour 5 ans la commission 
 de recours en matière d'impôts. 
 16
 
- 
- 
 Mode d’élection 
 (art. 122 RC) 
 Elles sont nommées au scrutin de liste à la majorité absolue 
@@ -1253,7 +1200,7 @@ Dispositions communes aux commissions de gestion et des finances
 Organisation 
 Art. 69.- Les commissions de gestion et des finances 
 s’organisent elles-mêmes et peuvent se répartir en sous-
-commissions.  
+commissions. 
 Les commissions de gestion et des finances veillent, dans la 
 mesure du possible, à ce que les membres délégués au contrôle 
 d'une direction municipale n'appartiennent pas tous au même 
@@ -1261,11 +1208,9 @@ groupe politique que le municipal en charge du dicastère
 concerné. 
 17
 
- 
- 
 Droit 
 d'investigation 
-(art. 35a RCCom,  
+(art. 35a RCCom, 
 93e LC) 
 Art. 70.- Les commissions de gestion et des finances ont le 
 droit, dans le cadre de leur mandat, de procéder à toutes les 
@@ -1280,7 +1225,7 @@ protégé par le droit supérieur2.
 Sous réserve des restrictions par l’alinéa premier, la 
 municipalité est tenue de fournir aux commissions de 
 surveillance tous les documents et renseignements nécessaires 
-à l’exercice de leur mandat.  
+à l’exercice de leur mandat. 
 Constituent 
 notamment 
 de 
@@ -1303,11 +1248,9 @@ service de la municipalité, mais en présence d’une
 délégation de cette autorité. 
 En cas de divergence entre un membre d’une commission de 
 surveillance et la municipalité quant à l’étendue du droit à 
-l’information, l’article 40c alinéa 3 LC est applicable.  
+l’information, l’article 40c alinéa 3 LC est applicable. 
 18
 
- 
- 
 Section III 
 Commission de gestion 
 Compétences 
@@ -1338,7 +1281,7 @@ fondations auxquelles la commune est intéressée ;
 h. à la prise de connaissance du rapport de l’organe de 
 révision et, si nécessaire, à des contrôles complémentaires 
 par sondages des comptes ordinaires et spéciaux de la 
-commune ;  
+commune ; 
 i. à l’analyse des écarts entre le budget et les comptes, en 
 contrôlant notamment : 
 - 
@@ -1354,17 +1297,15 @@ résultat des investigations de la commission. Celle-ci peut
 découlant de la lettre f. ci-dessus. 
 19
 
- 
- 
 Section IV 
 Commission des finances 
 Compétences 
- Art. 72.- La commission des finances : 
+Art. 72.- La commission des finances : 
 1. rapporte au conseil sur les projets suivants : 
 a. 
-le budget ;  
+le budget ; 
 b. 
-les emprunts ;  
+les emprunts ; 
 c. 
 l'arrêté communal d'imposition ; 
 d. 
@@ -1395,14 +1336,12 @@ communaux et de taxes spéciales conformément à la loi
 cantonale sur les impôts communaux (LIC). 
 20
 
- 
- 
 Titre III 
 TRAVAUX GÉNÉRAUX DU CONSEIL 
 CHAPITRE PREMIER 
-DES ASSEMBLÉES DU CONSEIL  
+DES ASSEMBLÉES DU CONSEIL 
 Convocation 
-(art. 24 et 25 LC,  
+(art. 24 et 25 LC, 
 24 RC) 
 Art. 76.- Le conseil s'assemble sur le territoire communal, en 
 principe à la Maison Hugonin. Il est convoqué par écrit par 
@@ -1418,26 +1357,24 @@ convocation doit contenir l’ordre du jour. Aucun vote sur le
 fond ne peut avoir lieu sur un objet non porté à l’ordre du 
 jour. 
 Elle est également communiquée par affichage au pilier public 
-et sur le site internet communal.  
+et sur le site internet communal. 
 La municipalité avise le préfet de la séance et lui en 
 communique l'ordre du jour. 
 Séances 
 (art. 27 LC) 
 Art. 77.- En règle générale, les séances du conseil ont lieu le 
 mercredi soir. La municipalité assiste aux débats. 
-Les séances du conseil sont publiques.  
+Les séances du conseil sont publiques. 
 L’assemblée peut décider le huis clos en cas de justes motifs, 
 notamment en présence d’un intérêt public ou d’intérêts privés 
 prépondérants. 
 En cas de huis clos, toute personne qui n’occupe pas une 
 fonction officielle dans la salle doit se retirer. Les personnes 
-présentes sont tenues au secret des délibérations.  
+présentes sont tenues au secret des délibérations. 
 La cloche du temple sonne une demi-heure avant l'heure fixée 
 par la convocation. 
 21
 
- 
- 
 Sur décision de la majorité absolue des membres présents et 
 pour autant que le quorum reste atteint, le conseil peut 
 poursuivre la discussion au-delà de minuit ou dans les 
@@ -1480,8 +1417,6 @@ ou, à défaut, être récusé par un membre du conseil ou par le
 bureau. Le conseil statue sur la récusation. 
 22
 
- 
- 
 Les décisions sur la récusation et sur l’affaire à traiter sont 
 prises à la majorité des membres restant du conseil. Dans ce 
 cas, l’article 79 RC qui précède n’est pas applicable. 
@@ -1489,13 +1424,13 @@ Il est fait mention de la récusation au procès-verbal et sur
 l’extrait de décision. 
 Opérations 
 Art. 82.- Après ces opérations préliminaires, il est passé à 
-l'ordre du jour qui prévoit notamment les points suivants :  
+l'ordre du jour qui prévoit notamment les points suivants : 
 1. adoption du procès-verbal de la dernière séance ; 
 2. communications du bureau ; 
 3. assermentation de nouveaux conseillers ; 
 4. information au Conseil communal par ses représentants 
 au sein des organismes intercommunaux ; 
-5. dépôt et développement des motions et interpellations ;  
+5. dépôt et développement des motions et interpellations ; 
 6. autres objets portés à l'ordre du jour ; 
 7. communications municipales ; 
 8. questions, propositions individuelles et divers. 
@@ -1517,8 +1452,6 @@ Art. 84.- Les objets non traités à une séance sont reportés à
 l'ordre du jour de la séance suivante. 
 23
 
- 
- 
 CHAPITRE II 
 DROITS DES CONSEILLERS ET DE LA MUNICIPALITÉ 
 Définition 
@@ -1559,8 +1492,6 @@ incomplet ou ne permet pas à la municipalité de se
 déterminer sur les mesures, l’étude ou le projet requis ; 
 24
 
- 
- 
 b. elle 
 est 
 rédigée 
@@ -1617,8 +1548,6 @@ un préavis sur le projet de règlement ou de décision
 proposé. 
 25
 
- 
- 
 (art. 33 al. 5 LC) 
 (art. 33 al. 6 LC) 
 La municipalité peut assortir d’un contre-projet les projets de 
@@ -1626,8 +1555,8 @@ décision ou de règlement soumis au conseil en application de
 l’art. 88 al. 4 du présent règlement. 
 Les propositions qui, selon la municipalité, contreviennent aux 
 exigences prévues par l’article 87 RC font l’objet d’un rapport 
-de celle-ci.  
-Retrait ou  
+de celle-ci. 
+Retrait ou 
 modification d’une 
 proposition 
 Art. 89.- L'auteur de la proposition peut la retirer ou la 
@@ -1647,7 +1576,7 @@ Art. 91.- La réponse de la municipalité fait l'objet d'un préavis
 ou d’un rapport qui est porté à l'ordre du jour. 
 Le préavis ou le rapport est soumis à l'examen d'une 
 commission dont fait partie l'auteur de la proposition. 
-Procédure  
+Procédure 
 de vote 
 Art. 92.- En présence d’un contre-projet de la municipalité, la 
 discussion est d’abord ouverte sur le projet, puis sur le contre-
@@ -1664,8 +1593,6 @@ communication, de l'état de l'étude des motions et postulats en
 suspens au 31 décembre. 
 26
 
- 
- 
 Section I, b 
 Interpellation 
 Définition 
@@ -1688,9 +1615,9 @@ suivante.
 Si l'interpellateur se déclare satisfait, il est passé à l'ordre du 
 jour. 
 Dans le cas contraire, l'interpellateur peut faire adopter une 
-résolution, laquelle ne doit pas contenir d'injonction.  
+résolution, laquelle ne doit pas contenir d'injonction. 
 Section I, c 
-Question, vœu  
+Question, vœu 
 Définition 
 Art. 97.- Un conseiller peut adresser une simple question ou
 émettre un vœu à l'adresse de la municipalité. 
@@ -1698,7 +1625,7 @@ La municipalité y répond dans le délai prévu à l’art 96 al. 1 du
 présent règlement. 
 Il n'y a pas de vote, ni de résolution. 
 Section II 
-De la municipalité  
+De la municipalité 
 Préavis 
 Art. 98.- Les propositions présentées par la municipalité au 
 conseil sont déposées par écrit sous forme de préavis. 
@@ -1706,8 +1633,6 @@ Ceux-ci sont imprimés et distribués à chaque conseiller par les
 soins de la municipalité. 
 27
 
- 
- 
 Dépôt 
 Le dépôt du préavis est porté à l'ordre du jour de la prochaine 
 séance du conseil. 
@@ -1730,7 +1655,7 @@ DE LA PÉTITION
 Définition 
 Art. 101.- La pétition est une demande écrite que tout citoyen 
 peut adresser au Conseil. 
-Elle doit être signée par le ou les pétitionnaires.  
+Elle doit être signée par le ou les pétitionnaires. 
 Conformément aux art. 34b à 34e LC, le conseil examine les 
 pétitions qui lui sont adressées. Tout dépôt d'une pétition est 
 annoncé au conseil lors de sa plus prochaine séance. 
@@ -1752,8 +1677,6 @@ l'objet de la pétition et recueille tous renseignements utiles, cas
 surplus, l’art. 34c LC s’applique. 
 28
 
- 
- 
 (art. 15 RC) 
 Art. 104.- Lorsque l’objet de la pétition entre dans les 
 attributions du conseil, la commission rapporte à ce dernier en 
@@ -1765,7 +1688,7 @@ ou une compétence exhaustivement attribuée par la loi à une
 autorité cantonale ou fédérale, la commission rapporte au 
 conseil en proposant le renvoi sans délai à l’autorité 
 compétente. Dans ce cas, le conseil peut demander à la 
-municipalité de l’informer de la suite donnée à la pétition.  
+municipalité de l’informer de la suite donnée à la pétition. 
 Art. 105.- La municipalité informe le conseil, en règle générale 
 dans un délai de trois mois, de la suite qu'elle entend donner à 
 une pétition qui lui a été transmise pour étude et préavis. 
@@ -1791,8 +1714,6 @@ En cas de refus de l’entrée en matière, l'objet est considéré
 comme rejeté. 
 29
 
- 
- 
 Droit de parole 
 Art. 109.- La discussion étant ouverte, chaque membre peut 
 demander la parole au président qui l'accorde dans l'ordre des 
@@ -1847,8 +1768,6 @@ a. les commissions chargées d’examiner les propositions
 portées devant le conseil ; 
 30
 
- 
- 
 b. les membres du conseil ; 
 c. la municipalité. 
 Ils doivent être présentés par écrit au secrétaire avant d'être 
@@ -1865,7 +1784,7 @@ Art. 115.- Le président peut suspendre la séance. Si la
 municipalité ou le cinquième des membres présents le 
 demandent, la suspension a lieu de plein droit. 
 Le président fixe la durée de la suspension. 
-Motion d'ordre  
+Motion d'ordre 
 Art. 116.- Toute discussion du conseil peut être interrompue 
 par une motion d'ordre relative à son objet. La motion d'ordre 
 propose de passer à l'opération suivante. 
@@ -1873,7 +1792,7 @@ Si la motion d'ordre est appuyée par cinq membres, elle est
 mise immédiatement en discussion et soumise au vote. 
 Elle ne peut toutefois être opposée à la demande de renvoi 
 prévue à l'article 117 RC. 
-Renvoi  
+Renvoi 
 Art. 117.- Si la municipalité ou le cinquième des membres 
 présents demandent que la votation n'intervienne pas séance 
 tenante, cette proposition est acceptée de plein droit. A la 
@@ -1891,8 +1810,6 @@ d'ordre, de passer à la votation ;
 3. lorsque le conseil décide le renvoi de la discussion. 
 31
 
- 
- 
 CHAPITRE V 
 DE LA VOTATION 
 Ordre du jour 
@@ -1933,11 +1850,9 @@ d’un conseiller appuyé par cinq membres.
 Le vote au bulletin secret a la priorité, à moins que le vote par 
 appel nominal n'ait commencé. 
 En cas de vote à bulletin secret, le président prend part au 
-vote. En cas d’égalité, l’objet soumis au vote est réputé refusé.  
+vote. En cas d’égalité, l’objet soumis au vote est réputé refusé. 
 32
 
- 
- 
 Vote au bulletin 
 secret 
 Art. 125.- Pour le vote au bulletin secret, les scrutateurs 
@@ -1984,8 +1899,6 @@ demandent, le second débat peut avoir lieu dans la même
 séance. 
 33
 
- 
- 
 Ententes 
 intercommunales et 
 associations de 
@@ -2042,8 +1955,6 @@ g. les décisions négatives qui maintiennent l'état de choses
 existant. 
 34
 
- 
- 
 Lorsque le conseil, à la majorité des trois quarts des votants, 
 admet que la décision prise revêt un caractère d'urgence 
 exceptionnelle et que son exécution est incompatible avec 
@@ -2065,10 +1976,10 @@ extraordinaires
 (art. 4 LC, 5 RCCom) 
 Art. 134.- Le conseil autorise les dépenses courantes de la 
 commune par l'adoption du budget de fonctionnement que la 
-municipalité lui soumet.  
+municipalité lui soumet. 
 Il autorise en outre la municipalité à engager des dépenses 
 extraordinaires, que celle-ci lui soumet par voie de préavis. 
-Dépenses  
+Dépenses 
 imprévisibles et 
 exceptionnelles 
 (art. 11 RCCom) 
@@ -2080,17 +1991,12 @@ Ces dépenses sont ensuite soumises à l’approbation du conseil.
 Délai 
 (art. 8 RCCom) 
 Art. 136.- La municipalité remet le projet de budget au conseil 
-au plus tard le 15 novembre de chaque année.  
+au plus tard le 15 novembre de chaque année. 
 Ce projet est renvoyé à l'examen de la commission des 
 finances. 
- 
- 
- 
- 
+
 35
 
- 
- 
 Amendements au 
 projet du budget 
 Art. 137.- Les amendements au budget entraînant la création 
@@ -2139,8 +2045,6 @@ par voie de communication écrite. Elle est ensuite soumise à
 son approbation dans les meilleurs délais. 
 36
 
- 
- 
 Plan 
 d'investissement 
 (art. 18 RCCom) 
@@ -2159,7 +2063,7 @@ cours de législature moyennant autorisation du Conseil d’Etat.
 CHAPITRE II 
 EXAMEN DE LA GESTION ET DES COMPTES 
 Rapports de la 
-municipalité -  
+municipalité - 
 Délais 
 (art. 93c LC, 34 
 RCCom) 
@@ -2199,8 +2103,6 @@ commune ainsi que des rapport et rapport-attestation du
 réviseur. 
 37
 
- 
- 
 Les membres du conseil peuvent présenter des observations 
 écrites tant sur les comptes que sur la gestion. Ces 
 observations doivent être remises en main du président de la 
@@ -2226,7 +2128,7 @@ commission de gestion établit son rapport :
 municipalité ainsi que, le cas échéant, sur les points 
 découlant de l'article 71f RC ; 
 2. sur le résultat de ses contrôles et sur les comptes. 
-Réponses de la  
+Réponses de la 
 municipalité 
 Art. 150.- Le rapport de la commission de gestion est 
 communiqué à la municipalité qui doit répondre aux 
@@ -2244,12 +2146,10 @@ Art. 152.- Le conseil délibère séparément :
 2. sur les comptes ; 
 3. sur les observations. 
 Il n'est pas donné lecture du rapport de la commission de 
-gestion.  
+gestion. 
 38
 
- 
- 
-Il est délibéré de la manière suivante :  
+Il est délibéré de la manière suivante : 
 a. sur les points où il y a désaccord entre la commission et 
 la municipalité, la discussion est ouverte. Dans ce cas, il y 
 a votation, même si la discussion n'est pas utilisée ; 
@@ -2257,7 +2157,7 @@ b. sur les points où il y a accord entre la commission et la
 municipalité, il n'y a votation que si la discussion est 
 demandée. 
 Dans les deux cas prévus ci-dessus, la votation porte sur 
-l'acceptation ou le refus de la réponse de la municipalité.  
+l'acceptation ou le refus de la réponse de la municipalité. 
 Pour chaque réponse refusée par le conseil communal, la 
 municipalité doit présenter un rapport circonstancié avec le 
 prochain budget. Cette seconde réponse met un terme à la 
@@ -2265,7 +2165,7 @@ procédure.
 La délibération se termine par une discussion et le vote sur le 
 rapport de la commission de gestion. 
 Vote – Délai 
-(art. 93g LC,  
+(art. 93g LC, 
 37 RCCom) 
 Art. 153.- La votation porte sur l’adoption des comptes, 
 l'approbation de la gestion et la décharge donnée à la 
@@ -2273,7 +2173,7 @@ municipalité pour sa gestion.
 Les votes sur la gestion et les comptes interviennent au plus 
 tard le 30 juin. 
 Visa du préfet 
-(art. 93g LC,  
+(art. 93g LC, 
 38 RCCom) 
 Art. 154.- L'original des comptes arrêtés par le conseil est 
 renvoyé à la municipalité pour être déposé aux archives 
@@ -2283,12 +2183,10 @@ DISPOSITIONS DIVERSES
 CHAPITRE PREMIER 
 INITIATIVE POPULAIRE 
 Procédure 
-Art. 155.- La  procédure de traitement d’une initiative 
+Art. 155.- La procédure de traitement d’une initiative 
 populaire par le conseil est réglée par les articles 106 ss LEDP. 
 39
 
- 
- 
 CHAPITRE II 
 COMMUNICATIONS ENTRE LA MUNICIPALITE ET LE CONSEIL 
 Art. 156.- Les communications du conseil à la municipalité se 
@@ -2328,8 +2226,6 @@ règlement doit être traitée par voie de motion ou sur
 proposition de la municipalité. 
 40
 
- 
- 
 Art. 163.- Les articles du présent règlement qui découlent 
 impérativement de dispositions constitutionnelles ou légales 
 suivent le sort de celles-ci et subissent de plein droit les mêmes 
@@ -2337,35 +2233,25 @@ modifications qu’elles.
 Art. 164.- Le présent règlement entre en vigueur un mois après 
 son approbation par la cheffe du Département des institutions 
 et de la sécurité. Le règlement du 19 mars 2014 est en 
-conséquence abrogé.  
+conséquence abrogé. 
 Ainsi adopté en séance du conseil communal de La Tour-de-
 Peilz, le 25 octobre 2017 et donné sous le sceau du conseil 
 communal de La Tour-de-Peilz. 
- 
- 
- 
+
 Le Président 
 La Secrétaire 
- 
- 
- 
- 
+
 Yohan Ziehli 
 Carole Dind 
- 
- 
- 
-Approuvé par la Cheffe du Département des institutions et de la sécurité  
-en date du  _____________________  
- 
- 
+
+Approuvé par la Cheffe du Département des institutions et de la sécurité 
+en date du _____________________ 
+
 41
 
- 
- 
 ABRÉVIATIONS ET RENVOIS AUX ARTICLES DE LOIS 
 Cst 
-Constitution du 17 mai 2002 du canton de Vaud  
+Constitution du 17 mai 2002 du canton de Vaud 
 (version du 09.06.2013) 
 LEDP 
 Loi du 16 mai 1989 sur l’exercice des droits politiques 
@@ -2374,19 +2260,19 @@ LC
 Loi du 28 février 1956 sur les communes 
 (version du 01.07.2013) 
 RCCom 
-Règlement sur la comptabilité des communes  
+Règlement sur la comptabilité des communes 
 (version du 01.07.2006) 
 LIC 
 Loi cantonale du 5 décembre 1956 sur les impôts communaux 
 (version du 01.01.2017) 
 RC 
 Règlement du conseil communal du 25 octobre 2017 
-Renvoi N°  
+Renvoi N° 
 1 
 (18 RC) 
 Art. 107 LEDP 
 Référendum en matière communale - Objet 
-2  Ne peuvent faire l'objet d'une demande de référendum :  
+2 Ne peuvent faire l'objet d'une demande de référendum : 
 a. 
 les nominations et les élections ; 
 b. 
@@ -2404,17 +2290,16 @@ g.
 les dépenses liées ; 
 h. 
 les décisions qui maintiennent l'état de choses existant. 
- 
- 
+
 2 
 (54, 70 RC) 
 Art. 40c LC 
 Droit à l'information des membres du conseil général o
 communal 
-1  Tout membre du conseil général ou communal peut avoir accès à 
+1 Tout membre du conseil général ou communal peut avoir accès à 
 l'information nécessaire à l'exercice de son mandat. 
-2  Un membre du conseil général ou communal peut se voir refuser les 
-informations suivantes :  
+2 Un membre du conseil général ou communal peut se voir refuser les 
+informations suivantes : 
 a. 
 les documents internes sur lesquels la municipalité s'est 
 directement fondée pour prendre une décision ; 
@@ -2425,23 +2310,20 @@ les informations qui doivent rester confidentielles pour des
 motifs prépondérants tenant à la protection de la personnalité 
 ou d'un secret protégé par la loi. 
 
- 
- 
-3  En cas de divergences entre un membre du conseil général ou 
+3 En cas de divergences entre un membre du conseil général ou 
 communal et la municipalité quant à l'étendue du droit à l'information, 
 le membre du conseil général ou communal ou la municipalité peut 
 saisir le préfet du district, qui conduit la conciliation entre le conseiller 
 et la municipalité. En cas d'échec de la conciliation, le préfet statue. Le 
 recours prévu à l'article 145 est réservé. 
- 
- 
+
 3 
 (54b RC) 
 Art. 40d LC 
 Secret de fonction 
-1  Les membres du conseil général ou communal et de la municipalité 
+1 Les membres du conseil général ou communal et de la municipalité 
 sont soumis au secret de fonction. 
-2  A ce titre, ils doivent traiter de manière confidentielle tout fait ou 
+2 A ce titre, ils doivent traiter de manière confidentielle tout fait ou 
 renseignement dont ils ont eu connaissance dans l'exercice de leur 
 mandat et dont la divulgation : 
 a. 
@@ -2456,54 +2338,46 @@ cours ; ou
 d. 
 est prohibée en vertu du huis clos prononcé par le conseil 
 général ou communal. 
-3  Lorsqu'il constate que des faits couverts par le secret de fonction ont été 
+3 Lorsqu'il constate que des faits couverts par le secret de fonction ont été 
 divulgués, le bureau du conseil en informe le préfet du district qui 
 instruit une enquête administrative. Lorsque cette enquête révèle des 
 faits susceptibles de constituer une infraction au sens de la loi pénale, le 
 préfet transmet le dossier au procureur de l'arrondissement concerné. 
- 
- 
+
 4 
 (54 RC) 
 Art. 40h LC 
 Droit à l'information des membres des commissions 
-1  L'article 40c de la présente loi régit le droit à l'information des 
+1 L'article 40c de la présente loi régit le droit à l'information des 
 commissions et de leurs membres, sous réserve de dispositions 
 particulières ou contraires de la présente loi. 
-2  Après consultation préalable de la municipalité, une commission peut 
+2 Après consultation préalable de la municipalité, une commission peut 
 recevoir ou consulter des intervenants extérieurs pour l'objet traité. 
 Lorsque la commission s'adresse directement à l'administration 
 communale, la municipalité peut demander à être entendue avant que la 
 commission ne procède à l'investigation envisagée et à y participer. En 
 cas d'engagement financier, l'accord de la municipalité est nécessaire. 
 
- 
- 
 5 
 (54b RC) 
 Art. 40i LC 
 Secret de fonction des membres des commissions 
-1  L'article 40d de la présente loi régit le secret de fonction des membres 
+1 L'article 40d de la présente loi régit le secret de fonction des membres 
 des commissions, sous réserve des alinéas 2 à 4 qui suivent. 
-2  Les commissions peuvent décider que tout ou partie de leurs travaux 
+2 Les commissions peuvent décider que tout ou partie de leurs travaux 
 sont confidentiels, notamment pour le bon exercice de leurs tâches. 
-3  Les documents de travail des commissions, de même que tous 
+3 Les documents de travail des commissions, de même que tous 
 documents ou renseignements qui leur sont soumis dans le cadre de 
 leur mandat, ne sont pas confidentiels, sauf indication contraire de leurs 
 auteurs. Dans ce dernier cas, les documents ou renseignements 
 confidentiels ne peuvent être communiqués ou leur contenu révélé qu'à 
 des membres du conseil général ou communal avec l'autorisation du 
 président de la commission. 
-4  Tous les documents destinés à reproduire ou résumer les déclarations 
+4 Tous les documents destinés à reproduire ou résumer les déclarations 
 ou propos tenus en commission, telles que les notes de séances, sont 
 confidentiels. De tels documents ne peuvent être transmis qu'aux 
 membres de la commission. 
- 
- 
- 
 
- 
- 
 INDEX 
 A 
 article 
@@ -2577,8 +2451,6 @@ convocation
 crédits d’investissements 
 140 à 144 
 
- 
- 
 D 
 débat - second débat 
 130 
@@ -2637,11 +2509,7 @@ interpellation
 94 à 96 
 investissements 
 143 
- 
- 
 
- 
- 
 M 
 majorité 
 64, 79, 81, 117, 126 à 128 
@@ -2664,7 +2532,7 @@ ordre du jour
 organisation du conseil 
 11 à 14 
 P 
-pétition  
+pétition 
 101 à 106 
 plafond d'endettement 
 144 
@@ -2699,10 +2567,7 @@ second débat
 130 
 suspension de séance 
 115 
- 
 
- 
- 
 T 
 travaux des assemblées 
 76 à 84 
@@ -2722,8 +2587,5 @@ votations - commission
 52 
 votations - renvoi 
 117 
- 
- 
- 
-Mise à jour en janvier 2018 
- 
+
+Mise à jour en janvier 2018

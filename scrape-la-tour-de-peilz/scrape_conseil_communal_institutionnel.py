@@ -44,11 +44,22 @@ class TextParser(HTMLParser):
 
 
 def clean_text(text: str) -> str:
+    text = fix_mojibake(text)
     text = html.unescape(text).replace("\xa0", " ")
     text = re.sub(r"[ \t\r\f\v]+", " ", text)
     text = re.sub(r"\n[ \t]+", "\n", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
+
+
+def fix_mojibake(text: str) -> str:
+    if not any(marker in text for marker in ["Ã", "Â", "â€", "â€™", "â€“"]):
+        return text
+    try:
+        fixed = text.encode("latin1").decode("utf-8")
+    except UnicodeError:
+        return text
+    return fixed if fixed.count("�") <= text.count("�") else text
 
 
 def slugify(text: str) -> str:
@@ -123,7 +134,7 @@ def pdf_url_from_viewer(viewer_url: str) -> str:
 
 def extract_pdf_text(pdf_path: Path) -> str:
     document = fitz.open(pdf_path)
-    return "\n".join(page.get_text() for page in document)
+    return clean_text("\n".join(page.get_text() for page in document))
 
 
 def write_document(slug: str, title: str, text: str, source_url: str, extra: dict | None = None) -> dict:

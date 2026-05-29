@@ -14,6 +14,7 @@ STOPWORDS = {
     "pour", "que", "qui", "sur", "un", "une", "vous", "the", "and", "of", "to", "in",
     "commune", "communal", "communale", "communaux", "conseil", "conseils",
     "quel", "quelle", "quels", "quelles", "sont",
+    "complet", "complete", "complète",
 }
 
 
