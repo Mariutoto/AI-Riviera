@@ -17,11 +17,29 @@ STOPWORDS = {
     "complet", "complete", "complète",
 }
 
+BROAD_LEGISLATURE_CATEGORIES = {
+    "ordres-du-jour",
+    "proces-verbaux",
+    "motions-postulats",
+    "preavis-municipaux",
+    "communications-municipales",
+    "informations-diverses",
+    "conseil-communal",
+}
+
 
 def tokenize(text: str) -> list[str]:
     text = strip_accents(text)
     tokens = re.findall(r"[a-zA-ZÀ-ÿ0-9]{3,}", text.lower())
     return [token for token in tokens if token not in STOPWORDS]
+
+
+def is_broad_legislature_query(query: str, query_tokens: Counter) -> bool:
+    normalized = strip_accents(query).lower()
+    if "legislature" not in normalized:
+        return False
+    broad_terms = {"bilan", "derniere", "passe", "quoi", "resume", "synthese"}
+    return bool(broad_terms.intersection(query_tokens)) or "derniere legislature" in normalized
 
 
 @lru_cache(maxsize=1)
@@ -43,6 +61,31 @@ def search(query: str, limit: int = 6) -> list[dict]:
     query_tokens = Counter(tokenize(query))
     if not query_tokens:
         return []
+
+    broad_legislature_query = is_broad_legislature_query(query, query_tokens)
+    if broad_legislature_query:
+        query_tokens.update(
+            [
+                "2021",
+                "2022",
+                "2023",
+                "2024",
+                "2025",
+                "2026",
+                "seance",
+                "proces",
+                "verbal",
+                "ordre",
+                "jour",
+                "motion",
+                "postulat",
+                "interpellation",
+                "preavis",
+                "communication",
+                "objet",
+                "divers",
+            ]
+        )
 
     chunks = load_chunks()
     total_chunks = max(len(chunks), 1)
@@ -75,6 +118,18 @@ def search(query: str, limit: int = 6) -> list[dict]:
         for token, query_count in query_tokens.items():
             if title_tokens.get(token, 0):
                 score += query_count * 18
+
+        if broad_legislature_query:
+            year = str(metadata.get("year", ""))
+            category = str(metadata.get("category", ""))
+            title = strip_accents(str(metadata.get("title", ""))).lower()
+            filename = strip_accents(str(metadata.get("filename", ""))).lower()
+            if year in {"2021", "2022", "2023", "2024", "2025", "2026"}:
+                score += 8
+            if category in BROAD_LEGISLATURE_CATEGORIES:
+                score += 10
+            if "vue ensemble" in title or "couverture-legislature" in filename:
+                score += 120
 
         if score > 0:
             scored.append((score, chunk))

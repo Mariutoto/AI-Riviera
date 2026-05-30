@@ -111,7 +111,7 @@ if question:
 
     ensure_index_ready()
 
-    results = search(question, limit=6)
+    results = search(question, limit=14)
     answer = answer_from_sources(question, results)
 
     with st.chat_message("assistant"):
