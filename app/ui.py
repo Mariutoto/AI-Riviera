@@ -17,8 +17,11 @@ from app.structured import answer_structured_question
 st.set_page_config(page_title="AI Riviera", page_icon="🏛️", layout="wide")
 
 st.title("AI Riviera")
-st.caption("Assistant de recherche sur les documents publics de La Tour-de-Peilz")
-st.caption("Rechercheassistent für öffentliche Dokumente der Gemeinde La Tour-de-Peilz")
+st.caption("Assistant de recherche sur les documents publics de La Tour-de-Peilz - projet à but non lucratif")
+st.caption(
+    "Rechercheassistent für öffentliche Dokumente der Gemeinde La Tour-de-Peilz - "
+    "nicht gewinnorientiertes Projekt"
+)
 
 
 def documents_changed_after_index() -> bool:
@@ -65,6 +68,43 @@ def group_results_by_document(results: list[dict]) -> list[dict]:
     return sorted(grouped.values(), key=lambda item: item["score"], reverse=True)
 
 
+def source_link(metadata: dict, label: str) -> str:
+    url = metadata.get("pdf_url") or metadata.get("url") or ""
+    if not url:
+        return label
+    return f"[{label}]({url})"
+
+
+def render_sources(results: list[dict]) -> None:
+    grouped_sources = group_results_by_document(results)
+    if not grouped_sources:
+        return
+
+    st.divider()
+    st.subheader("Sources")
+    st.markdown("Documents utilisés dans la réponse:")
+    source_lines = []
+    for index, source in enumerate(grouped_sources, start=1):
+        metadata = source["metadata"]
+        filename = metadata.get("filename", source.get("relative_text_path", "document"))
+        year = metadata.get("year", "")
+        category = metadata.get("category", "")
+        source_lines.append(f"{index}. {source_link(metadata, filename)} - {year} / {category}")
+    st.markdown("\n".join(source_lines))
+
+    with st.expander("Voir les passages retrouvés"):
+        for index, source in enumerate(grouped_sources, start=1):
+            metadata = source["metadata"]
+            filename = metadata.get("filename", source.get("relative_text_path", "document"))
+            passages = source["passages"]
+            passage_label = "passage" if len(passages) == 1 else "passages"
+            st.markdown(f"**Source {index}. {filename}** ({len(passages)} {passage_label})")
+            for passage_index, passage in enumerate(passages[:3], start=1):
+                if len(passages) > 1:
+                    st.caption(f"Passage {passage_index}")
+                st.code(passage["text"][:1800], language="text")
+
+
 chat_tab, about_tab, next_tab, about_de_tab, next_de_tab = st.tabs(
     ["Assistant", "À propos", "Prochaines étapes", "Über das Projekt", "Nächste Schritte"]
 )
@@ -81,16 +121,14 @@ with chat_tab:
     for message in st.session_state.messages:
         with st.chat_message(message["role"]):
             st.markdown(message["content"])
+            if message["role"] == "assistant":
+                render_sources(message.get("results", []))
 
     question = st.chat_input("Pose une question sur les documents...")
-
     if question:
         st.session_state.messages.append({"role": "user", "content": question})
-        with st.chat_message("user"):
-            st.markdown(question)
 
         ensure_index_ready()
-
         structured_answer = answer_structured_question(question)
         if structured_answer:
             results = []
@@ -99,40 +137,16 @@ with chat_tab:
             results = search(question, limit=14)
             answer = answer_from_sources(question, results)
 
-        with st.chat_message("assistant"):
-            st.markdown(answer)
-
-            if results:
-                st.divider()
-                st.subheader("Sources")
-                for index, source in enumerate(group_results_by_document(results), start=1):
-                    metadata = source["metadata"]
-                    filename = metadata.get("filename", source.get("relative_text_path", "document"))
-                    year = metadata.get("year", "")
-                    category = metadata.get("category", "")
-                    pdf_url = metadata.get("pdf_url", "")
-                    source_url = metadata.get("url", "")
-                    passages = source["passages"]
-                    passage_label = "passage" if len(passages) == 1 else "passages"
-                    label = f"{index}. {filename} - {year} / {category} ({len(passages)} {passage_label})"
-                    with st.expander(label):
-                        if pdf_url:
-                            st.markdown(f"[Ouvrir le PDF source]({pdf_url})")
-                        elif source_url:
-                            st.markdown(f"[Ouvrir la page source]({source_url})")
-                        for passage_index, passage in enumerate(passages[:3], start=1):
-                            if len(passages) > 1:
-                                st.caption(f"Passage {passage_index}")
-                            st.code(passage["text"][:1800], language="text")
-
-        st.session_state.messages.append({"role": "assistant", "content": answer})
+        st.session_state.messages.append({"role": "assistant", "content": answer, "results": results})
+        st.rerun()
 
 with about_tab:
     st.subheader("Qu'est-ce que c'est ?")
     st.write(
         "AI Riviera est un prototype de chatbot qui aide à retrouver rapidement des informations "
-        "dans les documents publics d'une commune. L'objectif est simple : poser une question comme "
-        "on la formulerait à un collègue, puis obtenir une réponse avec les documents sources."
+        "dans les documents publics d'une commune. C'est un projet à but non lucratif, pensé comme "
+        "un outil d'intérêt public. L'objectif est simple : poser une question comme on la formulerait "
+        "à un collègue, puis obtenir une réponse avec les documents sources."
     )
 
     st.subheader("Ce qui est déjà dans la base")
@@ -175,8 +189,9 @@ with about_de_tab:
     st.subheader("Was ist das?")
     st.write(
         "AI Riviera ist ein Chatbot-Prototyp, der dabei hilft, Informationen in öffentlichen "
-        "Gemeindedokumenten schneller zu finden. Man stellt eine Frage in normaler Sprache und "
-        "erhält eine Antwort mit den verwendeten Quellen."
+        "Gemeindedokumenten schneller zu finden. Es handelt sich um ein nicht gewinnorientiertes "
+        "Projekt im öffentlichen Interesse. Man stellt eine Frage in normaler Sprache und erhält "
+        "eine Antwort mit den verwendeten Quellen."
     )
 
     st.subheader("Was ist bereits in der Datenbasis?")

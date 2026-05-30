@@ -6,7 +6,8 @@ import requests
 SYSTEM_PROMPT = """Tu es AI Riviera, un assistant civique.
 Réponds uniquement avec les extraits fournis. Si les sources ne permettent pas de répondre, dis-le clairement.
 Pour une question générale ou de synthèse, utilise les extraits comme échantillon documentaire: donne une réponse utile, mentionne les grandes catégories observées, et précise les limites au lieu de répondre seulement que c'est impossible.
-Réponds en français, de façon concise, et cite les noms de documents pertinents."""
+Réponds dans la langue de la question, de façon concise, et cite les numéros de sources pertinents.
+Les sources sont numérotées par document unique: plusieurs passages sous la même source ne sont pas des doublons."""
 
 
 def get_secret(name: str, default: str | None = None) -> str | None:
@@ -26,16 +27,48 @@ def get_secret(name: str, default: str | None = None) -> str | None:
     return default
 
 
+def document_key(result: dict) -> str:
+    metadata = result.get("metadata", {})
+    return (
+        metadata.get("pdf_url")
+        or metadata.get("text_path")
+        or result.get("relative_text_path")
+        or metadata.get("filename")
+        or result["id"].split("#", 1)[0]
+    )
+
+
+def group_results_by_document(results: list[dict]) -> list[dict]:
+    grouped = {}
+    for result in results:
+        key = document_key(result)
+        if key not in grouped:
+            grouped[key] = {
+                "metadata": result.get("metadata", {}),
+                "relative_text_path": result.get("relative_text_path", ""),
+                "score": result.get("score", 0),
+                "passages": [],
+            }
+        grouped[key]["score"] = max(grouped[key]["score"], result.get("score", 0))
+        grouped[key]["passages"].append(result)
+    return sorted(grouped.values(), key=lambda item: item["score"], reverse=True)
+
+
 def build_context(results: list[dict]) -> str:
     blocks = []
-    for index, result in enumerate(results, start=1):
-        metadata = result["metadata"]
-        title = metadata.get("filename", result.get("relative_text_path", "document"))
+    for index, source in enumerate(group_results_by_document(results), start=1):
+        metadata = source["metadata"]
+        title = metadata.get("filename", source.get("relative_text_path", "document"))
         year = metadata.get("year", "")
         category = metadata.get("category", "")
+        url = metadata.get("pdf_url") or metadata.get("url") or ""
+        passages = "\n\n".join(
+            f"Passage {passage_index}:\n{passage['text']}"
+            for passage_index, passage in enumerate(source["passages"][:3], start=1)
+        )
         blocks.append(
-            f"[Source {index}] {title} | {year} | {category}\n"
-            f"{result['text']}"
+            f"[Source {index}] {title} | {year} | {category} | {url}\n"
+            f"{passages}"
         )
     return "\n\n---\n\n".join(blocks)
 
