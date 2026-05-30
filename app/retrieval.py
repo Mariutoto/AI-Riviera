@@ -24,6 +24,7 @@ BROAD_LEGISLATURE_CATEGORIES = {
     "preavis-municipaux",
     "communications-municipales",
     "informations-diverses",
+    "infos-municipalite",
     "conseil-communal",
 }
 
