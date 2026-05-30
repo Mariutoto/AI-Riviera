@@ -95,3 +95,11 @@ python -m app.ingest
 
 Le nom `scrape_ordres_du_jour_2025_2026.py` est historique; il couvre maintenant les ordres du jour de la législature 2021-2026.
 Le nom `scrape_informations_diverses_2021_2026.py` suit le slug technique du site, mais correspond à la rubrique affichée `Objets divers`.
+
+## Prochaines étapes
+
+- Rendre le webscraping plus robuste: automatiser la mise à jour des nouvelles séances, détecter les nouveaux PDF, éviter les doublons, garder un journal des imports et vérifier quand une page officielle change de structure.
+- Passer progressivement d'un index JSON simple à une vraie base de données. Options possibles: SQLite pour une première version locale simple, PostgreSQL pour une version plus solide en production, ou PostgreSQL avec `pgvector` si on ajoute une recherche sémantique par embeddings.
+- Garder des résultats rapides et fluides: pré-indexer les documents, mettre en cache les recherches fréquentes, séparer les métadonnées structurées des passages de texte, et limiter ce qui est envoyé au LLM à ce qui est vraiment pertinent.
+- Ajouter éventuellement un login: accès public pour les documents déjà publics, puis espace privé pour les élus ou l'administration avec des droits plus fins, historique de questions, favoris, annotations et documents internes si la commune veut les ajouter.
+- Préparer une version multi-communes Riviera: même structure de données, mais avec un champ `commune` clair pour comparer ou filtrer entre La Tour-de-Peilz, Vevey, Montreux, etc.
