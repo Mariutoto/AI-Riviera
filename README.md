@@ -46,6 +46,7 @@ Couverture actuelle:
 - Procès-verbaux, législature 2021-2026: PV01 du 16 juin 2021 à PV34 du 25 mars 2026.
 - Motions, postulats, interpellations et réponses: rubrique officielle `motions-postulats`, années 2021 à 2026, soit 99 PDF indexés depuis la page dédiée.
 - Objets divers: rubrique officielle affichée comme `Objets divers` sur le site, avec l'URL technique `informations-diverses.php`, années 2021 à 2026, soit 32 PDF indexés depuis la page dédiée.
+- Préavis municipaux: rubrique officielle `preavis-municipaux`, années 2021 à 2026, soit 150 PDF indexés depuis la page dédiée.
 - Rapports de gestion: exercices 2021 à 2024, avec rapport de la commission de gestion et réponse de la Municipalité, soit 4 gros rapports indexés depuis `rapport-comptes-budget.php`.
 - Rapports des comptes: exercices 2021 à 2024, soit 4 gros rapports financiers indexés depuis `rapport-comptes-budget.php`.
 - Budgets communaux: exercices 2021 à 2026, soit 6 gros rapports budgétaires indexés depuis `rapport-comptes-budget.php`.
@@ -92,6 +93,7 @@ python scrape-la-tour-de-peilz/scrape_ordres_du_jour_2025_2026.py
 python scrape-la-tour-de-peilz/scrape_proces_verbaux_2021_2026.py
 python scrape-la-tour-de-peilz/scrape_motions_postulats_2021_2026.py
 python scrape-la-tour-de-peilz/scrape_informations_diverses_2021_2026.py
+python scrape-la-tour-de-peilz/scrape_preavis_municipaux_2021_2026.py
 python scrape-la-tour-de-peilz/scrape_rapport_gestion_2021_2024.py
 python scrape-la-tour-de-peilz/scrape_rapport_comptes_2021_2024.py
 python scrape-la-tour-de-peilz/scrape_budgets_2021_2026.py
