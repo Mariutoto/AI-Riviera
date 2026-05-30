@@ -1,5 +1,6 @@
 import sys
 from pathlib import Path
+import re
 
 import streamlit as st
 
@@ -75,7 +76,21 @@ def source_link(metadata: dict, label: str) -> str:
     return f"[{label}]({url})"
 
 
-def render_sources(results: list[dict]) -> None:
+def link_source_mentions(text: str, message_index: int, source_count: int) -> str:
+    if source_count == 0:
+        return text
+
+    def replace(match: re.Match) -> str:
+        number = int(match.group(1))
+        if number > source_count:
+            return match.group(0)
+        label = match.group(0)
+        return f"[{label}](#source-{message_index}-{number})"
+
+    return re.sub(r"\bSource\s+(\d+)\b", replace, text)
+
+
+def render_sources(results: list[dict], message_index: int) -> None:
     grouped_sources = group_results_by_document(results)
     if not grouped_sources:
         return
@@ -89,8 +104,11 @@ def render_sources(results: list[dict]) -> None:
         filename = metadata.get("filename", source.get("relative_text_path", "document"))
         year = metadata.get("year", "")
         category = metadata.get("category", "")
-        source_lines.append(f"{index}. {source_link(metadata, filename)} - {year} / {category}")
-    st.markdown("\n".join(source_lines))
+        source_lines.append(
+            f'<span id="source-{message_index}-{index}"></span>'
+            f"{index}. {source_link(metadata, filename)} - {year} / {category}"
+        )
+    st.markdown("\n".join(source_lines), unsafe_allow_html=True)
 
     with st.expander("Voir les passages retrouvés"):
         for index, source in enumerate(grouped_sources, start=1):
@@ -118,11 +136,13 @@ with chat_tab:
     if "messages" not in st.session_state:
         st.session_state.messages = []
 
-    for message in st.session_state.messages:
+    for message_index, message in enumerate(st.session_state.messages):
         with st.chat_message(message["role"]):
-            st.markdown(message["content"])
+            results = message.get("results", [])
+            source_count = len(group_results_by_document(results)) if results else 0
+            st.markdown(link_source_mentions(message["content"], message_index, source_count))
             if message["role"] == "assistant":
-                render_sources(message.get("results", []))
+                render_sources(results, message_index)
 
     question = st.chat_input("Pose une question sur les documents...")
     if question:
@@ -164,6 +184,12 @@ with about_tab:
         "une question est posée, l'application cherche les passages les plus pertinents, puis le "
         "modèle de langage rédige une réponse en s'appuyant sur ces extraits. Les sources restent "
         "affichées pour pouvoir vérifier."
+    )
+    st.write(
+        "Pour éviter d'envoyer trop de texte au modèle, l'application ne transmet qu'une petite "
+        "sélection de passages utiles. Cela réduit le nombre de tokens, donc les coûts et le temps "
+        "de réponse. Le prototype utilise actuellement Mistral, mais d'autres modèles pourraient "
+        "être testés, y compris des solutions open source selon les besoins."
     )
 
     st.info(
@@ -209,6 +235,12 @@ with about_de_tab:
         "indexiert. Bei einer Frage sucht die Anwendung zuerst die relevantesten Textstellen. Danach "
         "formuliert das Sprachmodell eine Antwort auf Basis dieser Auszüge. Die Quellen bleiben "
         "sichtbar, damit die Antwort überprüft werden kann."
+    )
+    st.write(
+        "Um nicht zu viel Text an das Sprachmodell zu senden, übermittelt die Anwendung nur eine "
+        "kleine Auswahl relevanter Passagen. Das reduziert die Anzahl Tokens, die Kosten und die "
+        "Antwortzeit. Der Prototyp nutzt derzeit Mistral, andere Modelle oder Open-Source-Lösungen "
+        "könnten je nach Bedarf ebenfalls geprüft werden."
     )
 
     st.info(
