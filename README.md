@@ -47,6 +47,7 @@ Couverture actuelle:
 - Motions, postulats, interpellations et réponses: rubrique officielle `motions-postulats`, années 2021 à 2026, soit 99 PDF indexés depuis la page dédiée.
 - Objets divers: rubrique officielle affichée comme `Objets divers` sur le site, avec l'URL technique `informations-diverses.php`, années 2021 à 2026, soit 32 PDF indexés depuis la page dédiée.
 - Rapports de gestion: exercices 2021 à 2024, avec rapport de la commission de gestion et réponse de la Municipalité, soit 4 gros rapports indexés depuis `rapport-comptes-budget.php`.
+- Rapports des comptes: exercices 2021 à 2024, soit 4 gros rapports financiers indexés depuis `rapport-comptes-budget.php`.
 - Documents liés depuis les ordres du jour 2021-2026: préavis, rapports, communications municipales, motions, postulats, interpellations et réponses lorsque les PDF sont liés depuis les séances.
 - Collecte directe 2025-2026: motions/postulats/interpellations, préavis municipaux, communications municipales, informations diverses, budgets, ordres du jour et procès-verbaux.
 
@@ -91,6 +92,7 @@ python scrape-la-tour-de-peilz/scrape_proces_verbaux_2021_2026.py
 python scrape-la-tour-de-peilz/scrape_motions_postulats_2021_2026.py
 python scrape-la-tour-de-peilz/scrape_informations_diverses_2021_2026.py
 python scrape-la-tour-de-peilz/scrape_rapport_gestion_2021_2024.py
+python scrape-la-tour-de-peilz/scrape_rapport_comptes_2021_2024.py
 python scrape-la-tour-de-peilz/scrape_conseil_communal_institutionnel.py
 python scrape-la-tour-de-peilz/build_structured_data.py
 python scrape-la-tour-de-peilz/clean_existing_text_data.py
