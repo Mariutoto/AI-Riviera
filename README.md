@@ -72,6 +72,7 @@ documents/la-tour-de-peilz/
 data/sessions/la-tour-de-peilz/
 data/proces-verbaux/la-tour-de-peilz/
 data/institutionnel/la-tour-de-peilz/
+data/structured/la-tour-de-peilz/
 data/index/
 ```
 
@@ -89,12 +90,23 @@ python scrape-la-tour-de-peilz/scrape_proces_verbaux_2021_2026.py
 python scrape-la-tour-de-peilz/scrape_motions_postulats_2021_2026.py
 python scrape-la-tour-de-peilz/scrape_informations_diverses_2021_2026.py
 python scrape-la-tour-de-peilz/scrape_conseil_communal_institutionnel.py
+python scrape-la-tour-de-peilz/build_structured_data.py
 python scrape-la-tour-de-peilz/clean_existing_text_data.py
 python -m app.ingest
 ```
 
 Le nom `scrape_ordres_du_jour_2025_2026.py` est historique; il couvre maintenant les ordres du jour de la législature 2021-2026.
 Le nom `scrape_informations_diverses_2021_2026.py` suit le slug technique du site, mais correspond à la rubrique affichée `Objets divers`.
+
+## Données structurées
+
+Le dossier `data/structured/la-tour-de-peilz/` contient une vue plus exploitable par le chatbot:
+
+- `sessions.json`: séances indexées, dates, lieux, sources et nombre de documents liés.
+- `documents.json`: documents reliés aux séances.
+- `political_objects.json`: motions, postulats, interpellations, préavis, communications, rapports et réponses reliés aux points d'ordre du jour.
+
+Cette couche permet de répondre sans deviner à des questions calculables comme `combien de dépôts à la dernière séance ?`. Le RAG reste utilisé pour les questions documentaires et les synthèses.
 
 ## Prochaines étapes
 

@@ -11,6 +11,7 @@ from app.answer import answer_from_sources, llm_status, test_mistral_connection
 from app.config import CHUNKS_PATH, DOCUMENTS_ROOT, INDEX_DIR
 from app.ingest import build_index
 from app.retrieval import load_chunks, search
+from app.structured import answer_structured_question
 
 
 st.set_page_config(page_title="AI Riviera", page_icon="🏛️", layout="wide")
@@ -111,8 +112,13 @@ if question:
 
     ensure_index_ready()
 
-    results = search(question, limit=14)
-    answer = answer_from_sources(question, results)
+    structured_answer = answer_structured_question(question)
+    if structured_answer:
+        results = []
+        answer = structured_answer
+    else:
+        results = search(question, limit=14)
+        answer = answer_from_sources(question, results)
 
     with st.chat_message("assistant"):
         st.markdown(answer)
