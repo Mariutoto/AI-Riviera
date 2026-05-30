@@ -134,7 +134,7 @@ with chat_tab:
             results = []
             answer = structured_answer
         else:
-            results = search(question, limit=14)
+            results = search(question, limit=10)
             answer = answer_from_sources(question, results)
 
         st.session_state.messages.append({"role": "assistant", "content": answer, "results": results})

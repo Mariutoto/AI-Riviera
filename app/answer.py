@@ -3,6 +3,10 @@ import os
 import requests
 
 
+MAX_CONTEXT_DOCUMENTS = 6
+MAX_PASSAGES_PER_DOCUMENT = 2
+MAX_PASSAGE_CHARS = 1200
+
 SYSTEM_PROMPT = """Tu es AI Riviera, un assistant civique.
 Réponds uniquement avec les extraits fournis. Si les sources ne permettent pas de répondre, dis-le clairement.
 Pour une question générale ou de synthèse, utilise les extraits comme échantillon documentaire: donne une réponse utile, mentionne les grandes catégories observées, et précise les limites au lieu de répondre seulement que c'est impossible.
@@ -56,15 +60,15 @@ def group_results_by_document(results: list[dict]) -> list[dict]:
 
 def build_context(results: list[dict]) -> str:
     blocks = []
-    for index, source in enumerate(group_results_by_document(results), start=1):
+    for index, source in enumerate(group_results_by_document(results)[:MAX_CONTEXT_DOCUMENTS], start=1):
         metadata = source["metadata"]
         title = metadata.get("filename", source.get("relative_text_path", "document"))
         year = metadata.get("year", "")
         category = metadata.get("category", "")
         url = metadata.get("pdf_url") or metadata.get("url") or ""
         passages = "\n\n".join(
-            f"Passage {passage_index}:\n{passage['text']}"
-            for passage_index, passage in enumerate(source["passages"][:3], start=1)
+            f"Passage {passage_index}:\n{passage['text'][:MAX_PASSAGE_CHARS]}"
+            for passage_index, passage in enumerate(source["passages"][:MAX_PASSAGES_PER_DOCUMENT], start=1)
         )
         blocks.append(
             f"[Source {index}] {title} | {year} | {category} | {url}\n"
