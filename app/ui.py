@@ -18,6 +18,7 @@ st.set_page_config(page_title="AI Riviera", page_icon="🏛️", layout="wide")
 
 st.title("AI Riviera")
 st.caption("Assistant de recherche sur les documents publics de La Tour-de-Peilz")
+st.caption("Rechercheassistent für öffentliche Dokumente der Gemeinde La Tour-de-Peilz")
 
 
 def documents_changed_after_index() -> bool:
@@ -64,7 +65,9 @@ def group_results_by_document(results: list[dict]) -> list[dict]:
     return sorted(grouped.values(), key=lambda item: item["score"], reverse=True)
 
 
-chat_tab, about_tab, next_tab = st.tabs(["Assistant", "À propos", "Prochaines étapes"])
+chat_tab, about_tab, next_tab, about_de_tab, next_de_tab = st.tabs(
+    ["Assistant", "À propos", "Prochaines étapes", "Über das Projekt", "Nächste Schritte"]
+)
 
 with chat_tab:
     st.markdown(
@@ -165,5 +168,49 @@ with next_tab:
 - Créer un espace privé avec login pour les élus ou l'administration, si des documents internes doivent être ajoutés.
 - Améliorer les réponses chiffrées avec des tables structurées pour les budgets, comptes, préavis et décisions financières.
 - Ajouter des filtres simples par commune, année, séance, type de document ou thème.
+"""
+    )
+
+with about_de_tab:
+    st.subheader("Was ist das?")
+    st.write(
+        "AI Riviera ist ein Chatbot-Prototyp, der dabei hilft, Informationen in öffentlichen "
+        "Gemeindedokumenten schneller zu finden. Man stellt eine Frage in normaler Sprache und "
+        "erhält eine Antwort mit den verwendeten Quellen."
+    )
+
+    st.subheader("Was ist bereits in der Datenbasis?")
+    st.write(
+        "Für La Tour-de-Peilz enthält der Prototyp bereits einen grossen Teil der Legislatur "
+        "2021-2026: Traktandenlisten, Protokolle, Motionen, Postulate, Interpellationen, Antworten, "
+        "kommunale Vorlagen, verschiedene Objekte, Mitteilungen der Municipalité, Informationen der "
+        "Municipalité, Budgets, Rechnungsberichte, Geschäftsberichte und institutionelle Rubriken "
+        "des Conseil communal."
+    )
+
+    st.subheader("Wie entstehen die Antworten?")
+    st.write(
+        "Die Dokumente werden in bereinigten Text umgewandelt, in kleinere Abschnitte geteilt und "
+        "indexiert. Bei einer Frage sucht die Anwendung zuerst die relevantesten Textstellen. Danach "
+        "formuliert das Sprachmodell eine Antwort auf Basis dieser Auszüge. Die Quellen bleiben "
+        "sichtbar, damit die Antwort überprüft werden kann."
+    )
+
+    st.info(
+        "Dieser Prototyp ersetzt keine offiziellen Dokumente. Er soll helfen, schneller zu suchen, "
+        "zu vergleichen und eine erste Einschätzung vorzubereiten."
+    )
+
+with next_de_tab:
+    st.subheader("Ideen für eine robustere Version")
+    st.markdown(
+        """
+- Kontinuierliches Web Scraping einrichten, um neue Sitzungen, Seiten und PDF-Dokumente automatisch zu erkennen.
+- Die Sammlung auf weitere Gemeinden der Riviera ausweiten, zum Beispiel Vevey, Montreux, Blonay-Saint-Légier, Veytaux und Nachbargemeinden.
+- Vom einfachen JSON-Prototyp zu einer robusteren Datenbank wechseln, zum Beispiel PostgreSQL, mit schnellerer semantischer Suche.
+- Ein echtes RAG-System mit Embeddings hinzufügen, damit Fragen auch dann besser verstanden werden, wenn andere Wörter als in den Dokumenten verwendet werden.
+- Einen privaten Bereich mit Login für gewählte Behördenmitglieder oder die Verwaltung schaffen, falls interne Dokumente ergänzt werden sollen.
+- Antworten zu Zahlen mit strukturierten Tabellen für Budgets, Rechnungen, Vorlagen und finanzielle Entscheide verbessern.
+- Einfache Filter nach Gemeinde, Jahr, Sitzung, Dokumenttyp oder Thema hinzufügen.
 """
     )
