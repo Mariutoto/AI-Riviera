@@ -7,8 +7,8 @@ PROJECT_ROOT = Path(__file__).resolve().parents[1]
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
-from app.answer import answer_from_sources, llm_status, test_mistral_connection
-from app.config import CHUNKS_PATH, DOCUMENTS_ROOT, INDEX_DIR
+from app.answer import answer_from_sources
+from app.config import CHUNKS_PATH, DOCUMENTS_ROOT
 from app.ingest import build_index
 from app.retrieval import load_chunks, search
 from app.structured import answer_structured_question
@@ -17,39 +17,7 @@ from app.structured import answer_structured_question
 st.set_page_config(page_title="AI Riviera", page_icon="🏛️", layout="wide")
 
 st.title("AI Riviera")
-st.caption("Chatbot local sur les documents communaux de La Tour-de-Peilz")
-
-with st.sidebar:
-    st.header("Documents")
-    st.write(f"Dossier: `{DOCUMENTS_ROOT}`")
-    status = llm_status()
-    st.header("LLM")
-    st.write(f"Provider: `{status['provider']}`")
-    st.write(f"Actif: `{status['active']}`")
-    st.write(f"Mistral key: `{'oui' if status['has_mistral_key'] else 'non'}`")
-    st.write(f"OpenAI key: `{'oui' if status['has_openai_key'] else 'non'}`")
-    if status["active"] == "mistral":
-        st.write(f"Modèle: `{status['mistral_model']}`")
-    elif status["active"] == "openai":
-        st.write(f"Modèle: `{status['openai_model']}`")
-    if st.button("Tester Mistral"):
-        ok, message = test_mistral_connection()
-        if ok:
-            st.success(message)
-        else:
-            st.error(message)
-
-    if st.button("Réindexer les documents"):
-        load_chunks.cache_clear()
-        with st.spinner("Indexation en cours..."):
-            stats = build_index()
-        st.success(f"{stats['documents_indexed']} documents, {stats['chunks_indexed']} passages indexés.")
-
-    if CHUNKS_PATH.exists():
-        st.success(f"Index prêt: `{CHUNKS_PATH}`")
-        st.write(f"Dossier index: `{INDEX_DIR}`")
-    else:
-        st.warning("Aucun index trouvé. Clique sur Réindexer les documents.")
+st.caption("Assistant de recherche sur les documents publics de La Tour-de-Peilz")
 
 
 def documents_changed_after_index() -> bool:
@@ -96,51 +64,106 @@ def group_results_by_document(results: list[dict]) -> list[dict]:
     return sorted(grouped.values(), key=lambda item: item["score"], reverse=True)
 
 
-if "messages" not in st.session_state:
-    st.session_state.messages = []
+chat_tab, about_tab, next_tab = st.tabs(["Assistant", "À propos", "Prochaines étapes"])
 
-for message in st.session_state.messages:
-    with st.chat_message(message["role"]):
-        st.markdown(message["content"])
+with chat_tab:
+    st.markdown(
+        "Pose une question en langage naturel. L'assistant cherche dans les documents publics "
+        "indexés, puis répond avec les sources utilisées."
+    )
 
-question = st.chat_input("Pose une question sur les documents...")
+    if "messages" not in st.session_state:
+        st.session_state.messages = []
 
-if question:
-    st.session_state.messages.append({"role": "user", "content": question})
-    with st.chat_message("user"):
-        st.markdown(question)
+    for message in st.session_state.messages:
+        with st.chat_message(message["role"]):
+            st.markdown(message["content"])
 
-    ensure_index_ready()
+    question = st.chat_input("Pose une question sur les documents...")
 
-    structured_answer = answer_structured_question(question)
-    if structured_answer:
-        results = []
-        answer = structured_answer
-    else:
-        results = search(question, limit=14)
-        answer = answer_from_sources(question, results)
+    if question:
+        st.session_state.messages.append({"role": "user", "content": question})
+        with st.chat_message("user"):
+            st.markdown(question)
 
-    with st.chat_message("assistant"):
-        st.markdown(answer)
+        ensure_index_ready()
 
-        if results:
-            st.divider()
-            st.subheader("Sources")
-            for index, source in enumerate(group_results_by_document(results), start=1):
-                metadata = source["metadata"]
-                filename = metadata.get("filename", source.get("relative_text_path", "document"))
-                year = metadata.get("year", "")
-                category = metadata.get("category", "")
-                pdf_url = metadata.get("pdf_url", "")
-                passages = source["passages"]
-                passage_label = "passage" if len(passages) == 1 else "passages"
-                label = f"{index}. {filename} — {year} / {category} ({len(passages)} {passage_label})"
-                with st.expander(label):
-                    if pdf_url:
-                        st.markdown(f"[Ouvrir le PDF source]({pdf_url})")
-                    for passage_index, passage in enumerate(passages[:3], start=1):
-                        if len(passages) > 1:
-                            st.caption(f"Passage {passage_index}")
-                        st.code(passage["text"][:1800], language="text")
+        structured_answer = answer_structured_question(question)
+        if structured_answer:
+            results = []
+            answer = structured_answer
+        else:
+            results = search(question, limit=14)
+            answer = answer_from_sources(question, results)
 
-    st.session_state.messages.append({"role": "assistant", "content": answer})
+        with st.chat_message("assistant"):
+            st.markdown(answer)
+
+            if results:
+                st.divider()
+                st.subheader("Sources")
+                for index, source in enumerate(group_results_by_document(results), start=1):
+                    metadata = source["metadata"]
+                    filename = metadata.get("filename", source.get("relative_text_path", "document"))
+                    year = metadata.get("year", "")
+                    category = metadata.get("category", "")
+                    pdf_url = metadata.get("pdf_url", "")
+                    source_url = metadata.get("url", "")
+                    passages = source["passages"]
+                    passage_label = "passage" if len(passages) == 1 else "passages"
+                    label = f"{index}. {filename} - {year} / {category} ({len(passages)} {passage_label})"
+                    with st.expander(label):
+                        if pdf_url:
+                            st.markdown(f"[Ouvrir le PDF source]({pdf_url})")
+                        elif source_url:
+                            st.markdown(f"[Ouvrir la page source]({source_url})")
+                        for passage_index, passage in enumerate(passages[:3], start=1):
+                            if len(passages) > 1:
+                                st.caption(f"Passage {passage_index}")
+                            st.code(passage["text"][:1800], language="text")
+
+        st.session_state.messages.append({"role": "assistant", "content": answer})
+
+with about_tab:
+    st.subheader("Qu'est-ce que c'est ?")
+    st.write(
+        "AI Riviera est un prototype de chatbot qui aide à retrouver rapidement des informations "
+        "dans les documents publics d'une commune. L'objectif est simple : poser une question comme "
+        "on la formulerait à un collègue, puis obtenir une réponse avec les documents sources."
+    )
+
+    st.subheader("Ce qui est déjà dans la base")
+    st.write(
+        "Pour La Tour-de-Peilz, le prototype contient déjà une partie importante de la législature "
+        "2021-2026 : ordres du jour, procès-verbaux, motions, postulats, interpellations, réponses, "
+        "préavis municipaux, objets divers, communications municipales, infos de la Municipalité, "
+        "budgets, rapports des comptes, rapports de gestion et rubriques institutionnelles du "
+        "Conseil communal."
+    )
+
+    st.subheader("Comment ça répond ?")
+    st.write(
+        "Les documents sont transformés en textes propres, découpés en passages et indexés. Quand "
+        "une question est posée, l'application cherche les passages les plus pertinents, puis le "
+        "modèle de langage rédige une réponse en s'appuyant sur ces extraits. Les sources restent "
+        "affichées pour pouvoir vérifier."
+    )
+
+    st.info(
+        "Ce prototype ne remplace pas les documents officiels. Il sert à gagner du temps pour "
+        "chercher, comparer et préparer une première lecture."
+    )
+
+with next_tab:
+    st.subheader("Idées pour une version plus solide")
+    st.markdown(
+        """
+- Mettre en place un web scraping continu pour détecter automatiquement les nouvelles séances, pages et PDF.
+- Étendre la collecte aux autres communes de la Riviera, par exemple Vevey, Montreux, Blonay-Saint-Légier, Veytaux et les communes voisines.
+- Passer d'un index JSON de prototype à une base plus robuste, par exemple PostgreSQL, avec une recherche sémantique plus rapide.
+- Ajouter un vrai RAG avec embeddings pour mieux comprendre les questions formulées avec des mots différents de ceux des documents.
+- Créer un espace privé avec login pour les élus ou l'administration, si des documents internes doivent être ajoutés.
+- Améliorer les réponses chiffrées avec des tables structurées pour les budgets, comptes, préavis et décisions financières.
+- Ajouter des filtres simples par commune, année, séance, type de document ou thème.
+"""
+    )
